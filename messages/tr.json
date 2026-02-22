@@ -1,0 +1,109 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "Özellikler",
+    "howItWorks": "Nasıl Çalışır",
+    "about": "Hakkında"
+  },
+  "hero": {
+    "badge": "iOS için ücretsiz",
+    "tagline": "Galerinizi Temiz Tutmanın\nEn Akıllı Yolu",
+    "subtagline": "Gereksiz fotoğrafları, ekran görüntülerini ve büyük videoları tespit edip galerinizi temiz tutun.",
+    "download": "App Store'dan İndir",
+    "rating": "Ücretsiz · 4.9 ★",
+    "qrLabel": "iPhone kameranızla tarayın",
+    "qrSublabel": "App Store'a yönlendirileceksiniz"
+  },
+  "features": {
+    "label": "ÖZELLİKLER",
+    "heading": "Her Şey Tek Uygulamada",
+    "smartMaintenance": {
+      "title": "Akıllı Bakım",
+      "description": "Gereksiz ve bulanık fotoğrafları otomatik tespit edin, depolama alanı kazanın."
+    },
+    "similarPhotos": {
+      "title": "Benzer Fotoğraflar",
+      "description": "Birbirine benzeyen fotoğrafları gruplandırın, en iyisini seçip kalanını silin."
+    },
+    "screenshots": {
+      "title": "Ekran Görüntüleri",
+      "description": "Biriken ekran görüntülerini tek bir ekranda toplayın ve toplu temizleyin."
+    },
+    "largeVideos": {
+      "title": "Büyük Videolar",
+      "description": "Depolama alanınızı en çok kaplayan videoları bulun ve yönetin."
+    }
+  },
+  "showcase": {
+    "label": "UYGULAMA",
+    "heading": "Her Özelliği Yakından İnceleyin",
+    "smartMaintenance": {
+      "title": "Akıllı Bakım",
+      "description": "Gereksiz ve bulanık fotoğrafları otomatik tespit ederek depolama alanınızı geri kazanın.",
+      "bullet1": "Bulanık ve düşük kaliteli fotoğrafları anında tespit eder",
+      "bullet2": "Gereksiz dosyaları tek dokunuşla temizleyin",
+      "bullet3": "Depolama alanınızı ne kadar kazandığınızı görün"
+    },
+    "similarPhotos": {
+      "title": "Benzer Fotoğraflar",
+      "description": "Birbirine benzeyen fotoğrafları gruplandırarak en iyisini seçmenizi sağlar.",
+      "bullet1": "AI destekli benzerlik algılama",
+      "bullet2": "En iyi kareyi otomatik önerir",
+      "bullet3": "Toplu silme ile hızlı temizlik"
+    },
+    "screenshots": {
+      "title": "Ekran Görüntüleri",
+      "description": "Biriken ekran görüntülerini tek bir yerde toplayın ve kolayca yönetin.",
+      "bullet1": "Tüm ekran görüntülerini otomatik gruplar",
+      "bullet2": "Tarihe göre sıralama ve filtreleme",
+      "bullet3": "Toplu seçim ve silme desteği"
+    },
+    "largeVideos": {
+      "title": "Büyük Videolar",
+      "description": "En çok yer kaplayan videoları bulun ve depolama alanınızı optimize edin.",
+      "bullet1": "Videoları boyuta göre sıralar",
+      "bullet2": "Toplam video boyutunu gösterir",
+      "bullet3": "Hızlı önizleme ve silme"
+    },
+    "hidePhotos": {
+      "title": "Fotoğraf Gizleme",
+      "description": "Özel fotoğraflarınızı Face ID koruması ile güvenle gizleyin.",
+      "bullet1": "Face ID ile korunan gizli albüm",
+      "bullet2": "Fotoğraflarınız galeriden tamamen gizlenir",
+      "bullet3": "Hızlı ve güvenli erişim"
+    }
+  },
+  "howItWorks": {
+    "label": "NASIL ÇALIŞIR",
+    "heading": "Üç Adımda Temiz Galeri",
+    "step1": {
+      "title": "İndirin",
+      "description": "App Store'dan Gallery Guy'ı ücretsiz indirin."
+    },
+    "step2": {
+      "title": "Tarayın",
+      "description": "Fotoğraf galerinizi otomatik taratın."
+    },
+    "step3": {
+      "title": "Temizleyin",
+      "description": "Gereksiz dosyaları seçip tek dokunuşla silin."
+    }
+  },
+  "finalCta": {
+    "heading": "Galerinizi Temizlemeye Başlayın",
+    "subtext": "Ücretsiz indirin, farkı hemen görün.",
+    "download": "App Store'dan İndir",
+    "badges": "Ücretsiz · Reklamsız · Gizlilik Dostu"
+  },
+  "footer": {
+    "tagline": "Galerinizi temiz tutmanın en akıllı yolu.",
+    "product": "Ürün",
+    "productFeatures": "Özellikler",
+    "productDownload": "İndir",
+    "legal": "Yasal",
+    "legalPrivacy": "Gizlilik Politikası",
+    "legalTerms": "Kullanım Koşulları",
+    "copyright": "© 2026 Gallery Guy. Tüm hakları saklıdır.",
+    "madeIn": "Türkiye'de ❤ ile yapıldı"
+  }
+}

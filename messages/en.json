@@ -1,0 +1,109 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "about": "About"
+  },
+  "hero": {
+    "badge": "Free for iOS",
+    "tagline": "The Smartest Way to\nKeep Your Gallery Clean",
+    "subtagline": "Detect unnecessary photos, screenshots, and large videos to keep your gallery clean.",
+    "download": "Download on the App Store",
+    "rating": "Free · 4.9 ★",
+    "qrLabel": "Scan with your iPhone camera",
+    "qrSublabel": "You'll be redirected to the App Store"
+  },
+  "features": {
+    "label": "FEATURES",
+    "heading": "Everything in One App",
+    "smartMaintenance": {
+      "title": "Smart Maintenance",
+      "description": "Automatically detect unnecessary and blurry photos, reclaim storage space."
+    },
+    "similarPhotos": {
+      "title": "Similar Photos",
+      "description": "Group similar photos together, pick the best one and delete the rest."
+    },
+    "screenshots": {
+      "title": "Screenshots",
+      "description": "Collect all accumulated screenshots in one place and bulk clean."
+    },
+    "largeVideos": {
+      "title": "Large Videos",
+      "description": "Find and manage the videos taking up the most storage space."
+    }
+  },
+  "showcase": {
+    "label": "APP",
+    "heading": "Explore Every Feature Up Close",
+    "smartMaintenance": {
+      "title": "Smart Maintenance",
+      "description": "Automatically detect unnecessary and blurry photos to reclaim your storage space.",
+      "bullet1": "Instantly detects blurry and low-quality photos",
+      "bullet2": "Clean unnecessary files with one tap",
+      "bullet3": "See how much storage you've reclaimed"
+    },
+    "similarPhotos": {
+      "title": "Similar Photos",
+      "description": "Group similar photos together and pick the best shot from each set.",
+      "bullet1": "AI-powered similarity detection",
+      "bullet2": "Automatically suggests the best frame",
+      "bullet3": "Quick cleanup with bulk delete"
+    },
+    "screenshots": {
+      "title": "Screenshots",
+      "description": "Collect all your accumulated screenshots in one place and manage them easily.",
+      "bullet1": "Automatically groups all screenshots",
+      "bullet2": "Sort and filter by date",
+      "bullet3": "Bulk selection and deletion support"
+    },
+    "largeVideos": {
+      "title": "Large Videos",
+      "description": "Find the videos taking up the most space and optimize your storage.",
+      "bullet1": "Sorts videos by file size",
+      "bullet2": "Shows total video storage usage",
+      "bullet3": "Quick preview and delete"
+    },
+    "hidePhotos": {
+      "title": "Hide Photos",
+      "description": "Securely hide your private photos with Face ID protection.",
+      "bullet1": "Hidden album protected by Face ID",
+      "bullet2": "Photos completely hidden from gallery",
+      "bullet3": "Quick and secure access"
+    }
+  },
+  "howItWorks": {
+    "label": "HOW IT WORKS",
+    "heading": "Clean Gallery in Three Steps",
+    "step1": {
+      "title": "Download",
+      "description": "Download Gallery Guy for free from the App Store."
+    },
+    "step2": {
+      "title": "Scan",
+      "description": "Automatically scan your photo gallery."
+    },
+    "step3": {
+      "title": "Clean",
+      "description": "Select unnecessary files and delete with one tap."
+    }
+  },
+  "finalCta": {
+    "heading": "Start Cleaning Your Gallery",
+    "subtext": "Download for free, see the difference instantly.",
+    "download": "Download on the App Store",
+    "badges": "Free · No Ads · Privacy Friendly"
+  },
+  "footer": {
+    "tagline": "The smartest way to keep your gallery clean.",
+    "product": "Product",
+    "productFeatures": "Features",
+    "productDownload": "Download",
+    "legal": "Legal",
+    "legalPrivacy": "Privacy Policy",
+    "legalTerms": "Terms of Use",
+    "copyright": "© 2026 Gallery Guy. All rights reserved.",
+    "madeIn": "Made with ❤ in Turkey"
+  }
+}

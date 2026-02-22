@@ -1,0 +1,142 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #FAFAF8;
+  --color-foreground: #1A1918;
+  --color-muted: #6D6C6A;
+  --color-section: #F0EDE8;
+  --color-border: #E5E4E1;
+  --color-accent: #34C759;
+  --color-accent-light: #4ADE80;
+  --color-accent-dark: #22C55E;
+  --color-purple: #8B5CF6;
+  --color-orange: #F97316;
+  --color-blue: #007AFF;
+  --color-pink: #EC4899;
+  --font-sans: var(--font-inter);
+  --font-heading: var(--font-bricolage);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--color-foreground);
+  background-color: var(--color-background);
+  min-height: 100vh;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, var(--color-accent) 0%, #22C55E 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.font-heading {
+  font-family: var(--font-bricolage), var(--font-inter), system-ui, sans-serif;
+}
+
+/* Glass effects — navbar only */
+.glass {
+  background: rgba(255, 255, 255, 0.65);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+}
+
+.glass-strong {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+/* Hero mesh gradient with colored blobs */
+.hero-mesh {
+  position: relative;
+  overflow: hidden;
+}
+.hero-mesh::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background:
+    radial-gradient(ellipse 60% 50% at 20% 20%, rgba(52, 199, 89, 0.15) 0%, transparent 60%),
+    radial-gradient(ellipse 50% 40% at 75% 15%, rgba(139, 92, 246, 0.12) 0%, transparent 50%),
+    radial-gradient(ellipse 40% 40% at 85% 50%, rgba(249, 115, 22, 0.10) 0%, transparent 50%),
+    radial-gradient(ellipse 50% 50% at 10% 70%, rgba(0, 122, 255, 0.08) 0%, transparent 50%),
+    radial-gradient(ellipse 60% 30% at 50% 90%, rgba(52, 199, 89, 0.06) 0%, transparent 50%);
+}
+
+.bg-glow-green {
+  background: radial-gradient(ellipse at center, rgba(52, 199, 89, 0.25) 0%, transparent 70%);
+}
+
+/* Showcase glass cards */
+.showcase-glass {
+  background: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+}
+
+/* Showcase wrapper — glow sits behind the card, in front of page bg */
+.showcase-wrapper {
+  position: relative;
+}
+
+.showcase-wrapper::before {
+  content: "";
+  position: absolute;
+  inset: -120px;
+  z-index: 0;
+  border-radius: 5rem;
+  opacity: 0.9;
+  filter: blur(80px);
+  transition: opacity 0.5s;
+}
+
+.showcase-wrapper:hover::before {
+  opacity: 1;
+}
+
+.showcase-purple::before {
+  background:
+    radial-gradient(ellipse 80% 70% at 10% 50%, rgba(139, 92, 246, 0.45) 0%, transparent 70%),
+    radial-gradient(ellipse 60% 55% at 90% 25%, rgba(139, 92, 246, 0.22) 0%, transparent 60%);
+}
+
+.showcase-orange::before {
+  background:
+    radial-gradient(ellipse 80% 70% at 90% 50%, rgba(249, 115, 22, 0.45) 0%, transparent 70%),
+    radial-gradient(ellipse 60% 55% at 10% 75%, rgba(249, 115, 22, 0.22) 0%, transparent 60%);
+}
+
+.showcase-blue::before {
+  background:
+    radial-gradient(ellipse 80% 70% at 10% 50%, rgba(0, 122, 255, 0.45) 0%, transparent 70%),
+    radial-gradient(ellipse 60% 55% at 85% 75%, rgba(0, 122, 255, 0.22) 0%, transparent 60%);
+}
+
+.showcase-green::before {
+  background:
+    radial-gradient(ellipse 80% 70% at 90% 50%, rgba(52, 199, 89, 0.45) 0%, transparent 70%),
+    radial-gradient(ellipse 60% 55% at 15% 25%, rgba(52, 199, 89, 0.22) 0%, transparent 60%);
+}
+
+.showcase-pink::before {
+  background:
+    radial-gradient(ellipse 80% 70% at 10% 50%, rgba(236, 72, 153, 0.45) 0%, transparent 70%),
+    radial-gradient(ellipse 60% 55% at 85% 75%, rgba(236, 72, 153, 0.22) 0%, transparent 60%);
+}
