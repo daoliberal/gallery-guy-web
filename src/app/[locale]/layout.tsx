@@ -19,10 +19,18 @@ const bricolage = Bricolage_Grotesque({
 export const metadata: Metadata = {
   title: "Gallery Guy",
   description: "Galerinizi temiz tutmanın en akıllı yolu.",
+  metadataBase: new URL("https://gallery-guy-web.vercel.app"),
   openGraph: {
     title: "Gallery Guy",
     description: "Galerinizi temiz tutmanın en akıllı yolu.",
+    url: "https://gallery-guy-web.vercel.app",
+    siteName: "Gallery Guy",
     type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Gallery Guy",
+    description: "Galerinizi temiz tutmanın en akıllı yolu.",
   },
 };
 

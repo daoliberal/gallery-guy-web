@@ -14,6 +14,7 @@ interface ShowcaseItem {
   bg: string;
   glowClass: string;
   screenshotKey: string | null;
+  videoKey: string | null;
 }
 
 const showcaseItems: ShowcaseItem[] = [
@@ -24,6 +25,7 @@ const showcaseItems: ShowcaseItem[] = [
     bg: "bg-purple/10",
     glowClass: "showcase-purple",
     screenshotKey: "swipe",
+    videoKey: "swipe",
   },
   {
     key: "similarPhotos",
@@ -32,6 +34,7 @@ const showcaseItems: ShowcaseItem[] = [
     bg: "bg-orange/10",
     glowClass: "showcase-orange",
     screenshotKey: null,
+    videoKey: "smilar",
   },
   {
     key: "screenshots",
@@ -39,7 +42,8 @@ const showcaseItems: ShowcaseItem[] = [
     color: "text-blue",
     bg: "bg-blue/10",
     glowClass: "showcase-blue",
-    screenshotKey: null,
+    screenshotKey: "screenshots",
+    videoKey: null,
   },
   {
     key: "largeVideos",
@@ -47,7 +51,8 @@ const showcaseItems: ShowcaseItem[] = [
     color: "text-accent",
     bg: "bg-accent/10",
     glowClass: "showcase-green",
-    screenshotKey: null,
+    screenshotKey: "large-videos",
+    videoKey: null,
   },
   {
     key: "hidePhotos",
@@ -56,6 +61,7 @@ const showcaseItems: ShowcaseItem[] = [
     bg: "bg-pink/10",
     glowClass: "showcase-pink",
     screenshotKey: null,
+    videoKey: null,
   },
 ];
 
@@ -85,8 +91,13 @@ export default function AppShowcaseSection() {
           {showcaseItems.map((item, i) => {
             const Icon = item.icon;
             const isReversed = i % 2 === 1;
-            const screenshotSrc = item.screenshotKey
-              ? `/screenshots/${item.screenshotKey}-${locale}.jpeg`
+            const videoSrc = item.videoKey
+              ? `/videos/${item.videoKey}-web.mp4`
+              : null;
+            const screenshotSrc = !videoSrc && item.screenshotKey
+              ? item.screenshotKey === "swipe"
+                ? `/screenshots/${item.screenshotKey}-${locale}.jpeg`
+                : `/screenshots/${item.screenshotKey}.png`
               : null;
 
             return (
@@ -106,10 +117,18 @@ export default function AppShowcaseSection() {
                   {/* Phone Mockup — outside the card */}
                   <div className="shrink-0">
                     <div className="relative h-[440px] w-[210px] overflow-hidden rounded-[2.5rem] border-[5px] border-gray-900 bg-gray-900 shadow-2xl sm:h-[500px] sm:w-[240px]">
-                      <div className="relative">
-                        <div className="absolute top-0 left-1/2 z-10 h-5 w-20 -translate-x-1/2 rounded-b-xl bg-gray-900" />
-                      </div>
-                      {screenshotSrc ? (
+                      {/* Dynamic Island */}
+                      <div className="absolute top-[7px] left-1/2 z-10 h-[18px] w-[95px] -translate-x-1/2 rounded-full bg-black" />
+                      {videoSrc ? (
+                        <video
+                          src={videoSrc}
+                          autoPlay
+                          muted
+                          loop
+                          playsInline
+                          className="h-full w-full object-cover object-top"
+                        />
+                      ) : screenshotSrc ? (
                         <NextImage
                           src={screenshotSrc}
                           alt={t(`${item.key}.title`)}

@@ -17,7 +17,10 @@
     "download": "Download on the App Store",
     "rating": "Free · 4.9 ★",
     "qrLabel": "Scan with your iPhone camera",
-    "qrSublabel": "You'll be redirected to the App Store"
+    "qrSublabel": "You'll be redirected to the App Store",
+    "compareTitle": "Slide to Compare",
+    "compareDescription": "Slide between similar photos to spot the differences — pick your favorites and let Gallery Guy clean the rest.",
+    "explore": "Explore"
   },
   "features": {
     "label": "FEATURES",
