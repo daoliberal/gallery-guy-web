@@ -7,7 +7,12 @@
   },
   "hero": {
     "badge": "Free for iOS",
-    "tagline": "The Smartest Way to\nKeep Your Gallery Clean",
+    "taglineStatic": "Meet the Gallery Guy who",
+    "rotating0": "finds the blurry ones.",
+    "rotating1": "spots the duplicates.",
+    "rotating2": "cleans up screenshots.",
+    "rotating3": "frees up storage.",
+    "rotating4": "hides your privates.",
     "subtagline": "Detect unnecessary photos, screenshots, and large videos to keep your gallery clean.",
     "download": "Download on the App Store",
     "rating": "Free · 4.9 ★",

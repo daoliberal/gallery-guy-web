@@ -1,6 +1,7 @@
 "use client";
 
 import { useTranslations } from "next-intl";
+import Image from "next/image";
 import { SOCIAL_LINKS, APP_STORE_URL } from "@/lib/constants";
 
 function InstagramIcon() {
@@ -37,9 +38,13 @@ export default function Footer() {
           {/* Brand */}
           <div className="max-w-xs">
             <div className="flex items-center gap-2.5">
-              <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-linear-to-br from-accent to-emerald-600 text-sm font-bold text-white shadow-md shadow-accent/25">
-                G
-              </div>
+              <Image
+                src="/gg-green.png"
+                alt="Gallery Guy"
+                width={32}
+                height={32}
+                className="h-8 w-8 rounded-lg"
+              />
               <span className="text-lg font-bold tracking-tight">
                 Gallery Guy
               </span>

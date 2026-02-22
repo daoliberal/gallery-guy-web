@@ -1,16 +1,35 @@
 "use client";
 
+import { useState, useEffect } from "react";
 import { useTranslations } from "next-intl";
 import { useLocale } from "next-intl";
-import { motion } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import { QRCodeSVG } from "qrcode.react";
 import NextImage from "next/image";
 import AppStoreButton from "@/components/ui/AppStoreButton";
 import { APP_STORE_URL } from "@/lib/constants";
 
+const ROTATING_COUNT = 5;
+const ROTATE_INTERVAL = 3000;
+const ROTATING_COLORS = [
+  "text-purple",   // finds blurry ones
+  "text-orange",   // spots duplicates
+  "text-blue",     // cleans screenshots
+  "text-accent",   // frees storage
+  "text-pink",     // hides privates
+];
+
 export default function HeroSection() {
   const t = useTranslations("hero");
   const locale = useLocale();
+  const [rotatingIndex, setRotatingIndex] = useState(0);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setRotatingIndex((prev) => (prev + 1) % ROTATING_COUNT);
+    }, ROTATE_INTERVAL);
+    return () => clearInterval(interval);
+  }, []);
 
   const screenshots: (string | null)[] = [
     `/screenshots/swipe-${locale}.jpeg`,
@@ -42,16 +61,23 @@ export default function HeroSection() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.1 }}
         >
-          {t("tagline").split("\n").map((line, i) => (
-            <span key={i}>
-              {i > 0 && <br />}
-              {i === 1 ? (
-                <span className="text-gradient">{line}</span>
-              ) : (
-                line
-              )}
-            </span>
-          ))}
+          {t("taglineStatic")}
+          <br />
+          <span className="inline-block min-h-[1.2em] perspective-[600px]">
+            <AnimatePresence mode="wait">
+              <motion.span
+                key={rotatingIndex}
+                className={`${ROTATING_COLORS[rotatingIndex]} inline-block origin-bottom`}
+                initial={{ rotateX: -90, opacity: 0 }}
+                animate={{ rotateX: 0, opacity: 1 }}
+                exit={{ rotateX: 90, opacity: 0 }}
+                transition={{ duration: 0.5, ease: "easeInOut" }}
+                style={{ transformStyle: "preserve-3d" }}
+              >
+                {t(`rotating${rotatingIndex}`)}
+              </motion.span>
+            </AnimatePresence>
+          </span>
         </motion.h1>
 
         {/* Subtitle */}

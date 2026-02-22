@@ -7,7 +7,12 @@
   },
   "hero": {
     "badge": "iOS için ücretsiz",
-    "tagline": "Galerinizi Temiz Tutmanın\nEn Akıllı Yolu",
+    "taglineStatic": "Galeri adamınla tanış.",
+    "rotating0": "Bulanıkları bulan.",
+    "rotating1": "Benzerleri ayıklayan.",
+    "rotating2": "Ekran görüntülerini toplayan.",
+    "rotating3": "Depolamayı kurtaran.",
+    "rotating4": "Gizlileri koruyan.",
     "subtagline": "Gereksiz fotoğrafları, ekran görüntülerini ve büyük videoları tespit edip galerinizi temiz tutun.",
     "download": "App Store'dan İndir",
     "rating": "Ücretsiz · 4.9 ★",
