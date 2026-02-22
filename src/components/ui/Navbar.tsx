@@ -31,7 +31,7 @@ export default function Navbar() {
       }`}
     >
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
-        <div className="flex items-center gap-2.5">
+        <a href="/" className="flex items-center gap-2.5">
           <Image
             src="/gg-green.png"
             alt="Gallery Guy"
@@ -42,7 +42,7 @@ export default function Navbar() {
           <span className="text-lg font-bold tracking-tight">
             {t("appName")}
           </span>
-        </div>
+        </a>
         <div className="flex items-center gap-6">
           <div className="hidden items-center gap-6 md:flex">
             {navLinks.map((key) => (
