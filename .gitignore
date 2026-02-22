@@ -42,4 +42,4 @@ next-env.d.ts
 
 # original video files (large, only web-optimized versions should be committed)
 public/videos/original-*
-public/videos/*.MP4
+public/videos/smilar.MP4
