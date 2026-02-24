@@ -11,9 +11,9 @@ import { APP_STORE_URL } from "@/lib/constants";
 const ROTATING_COUNT = 5;
 const ROTATE_INTERVAL = 3000;
 const ROTATING_COLORS = [
-  "text-purple",   // finds blurry ones
+  "text-purple",   // culls like a pro
   "text-orange",   // spots duplicates
-  "text-blue",     // cleans screenshots
+  "text-blue",     // swipe game
   "text-accent",   // frees storage
   "text-pink",     // hides privates
 ];
