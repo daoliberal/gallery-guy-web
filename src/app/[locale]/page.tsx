@@ -11,7 +11,7 @@ import { APP_STORE_URL } from "@/lib/constants";
 export default async function HomePage() {
   const t = await getTranslations("faq");
 
-  const faqCount = 12;
+  const faqCount = 15;
   const faqItems = Array.from({ length: faqCount }, (_, i) => ({
     question: t(`q${i + 1}`),
     answer: t(`a${i + 1}`),

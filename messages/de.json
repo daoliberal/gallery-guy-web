@@ -54,7 +54,7 @@
     },
     "similarPhotos": {
       "title": "Sortiere deine Fotos wie ein Profi",
-      "description": "Der schnellste Duplikat-Foto-Entferner für iPhone — gruppiere ähnliche Aufnahmen, wähle das schärfste Bild und lösche den Rest in einem Rutsch.",
+      "description": "Der beste Duplikat-Foto-Entferner für iPhone — gruppiere ähnliche Aufnahmen, wähle das schärfste Bild und lösche den Rest in einem Rutsch.",
       "bullet1": "Finde und entferne doppelte Fotos sofort",
       "bullet2": "Intelligente Foto-Auswahl — wählt automatisch das schärfste Bild",
       "bullet3": "Lösche ähnliche und doppelte Fotos in einem Rutsch"
@@ -106,7 +106,7 @@
   "pricing": {
     "label": "KEIN ABO NÖTIG",
     "heading": "Einmalkauf. Für immer deins.",
-    "subtext": "Der beste iPhone Foto-Bereiniger ohne Abo — einmal zahlen, für immer nutzen.",
+    "subtext": "Der beste iPhone Foto-Bereiniger mit lebenslangem Zugang — kein Abo, einmal zahlen, für immer deins.",
     "oneTime": {
       "title": "Einmalkauf",
       "description": "Einmal zahlen, für immer deins. Keine monatlichen Gebühren, keine versteckten Kosten."
@@ -124,9 +124,9 @@
     "q1": "Was ist der beste Weg, ähnliche Fotos auf dem iPhone zu löschen?",
     "a1": "Gallery Guy nutzt intelligente Ähnlichkeitserkennung, um nahezu identische Fotos zu gruppieren. Wische einfach durch jede Gruppe, wähle dein Lieblingsfoto und lösche den Rest mit einem Fingertipp — kein manuelles Vergleichen nötig.",
     "q2": "Wie wähle ich das beste Foto aus Serienaufnahmen auf dem iPhone?",
-    "a2": "Gallery Guy analysiert automatisch deine Serienaufnahmen und ähnlichen Fotos und schlägt dann das schärfste, am besten komponierte Bild vor. Du kannst zwischen Fotos gleiten, um zu vergleichen und deine Wahl zu bestätigen.",
-    "q3": "Wie bereinige ich doppelte Fotos auf dem iPhone?",
-    "a3": "Lade Gallery Guy aus dem App Store herunter, lass es deine Fotobibliothek scannen und es gruppiert sofort Duplikate und Fast-Duplikate. Wähle die aus, die du behalten möchtest, und lösche den Rest in einem Rutsch.",
+    "a2": "Gallery Guy analysiert automatisch deine Serienaufnahmen und ähnlichen Fotos und schlägt dann das schärfste, am besten komponierte Bild vor. Du kannst zwischen Fotos gleiten, um zu vergleichen und deine Wahl zu bestätigen — der einfachste Weg, Serienaufnahmen auf dem iPhone zu löschen.",
+    "q3": "Wie lösche ich doppelte Fotos auf dem iPhone?",
+    "a3": "Lade Gallery Guy aus dem App Store herunter, lass es deine Fotobibliothek scannen und es gruppiert sofort Duplikate und Fast-Duplikate. Der einfachste Weg, deine iPhone-Fotobibliothek aufzuräumen — wähle die aus, die du behalten möchtest, und lösche den Rest in einem Rutsch.",
     "q4": "Gibt es eine kostenlose App zum Finden und Entfernen ähnlicher Fotos auf dem iPhone?",
     "a4": "Ja — Gallery Guy ist komplett kostenlos und werbefrei. Es erkennt ähnliche Fotos, unscharfe Aufnahmen, Screenshots und große Videos und hilft dir, Speicherplatz auf deinem iPhone zurückzugewinnen.",
     "q5": "Gibt es eine Wisch-zum-Löschen Foto-App für iPhone?",
@@ -144,7 +144,13 @@
     "q11": "Ist Gallery Guy eine gute CleanMyPhone-Alternative?",
     "a11": "Gallery Guy ist eine ausgezeichnete Alternative zu CleanMyPhone — es bietet intelligente Erkennung ähnlicher Fotos, Bereinigung unscharfer Fotos, Screenshot-Verwaltung und einen Große-Videos-Finder. Einmalkauf ohne Abo, ohne Werbung und mit vollem Datenschutz.",
     "q12": "Lohnt sich Gallery Guy? Was sagen die Bewertungen?",
-    "a12": "Gallery Guy hat 4.9 Sterne im App Store. Nutzer lieben die Wisch-zum-Vergleichen-Funktion, die automatische Auswahl des besten Fotos und die Tatsache, dass es ein Einmalkauf ohne Abo ist. Es ist kostenlos zum Ausprobieren und ohne Werbung."
+    "a12": "Gallery Guy hat 4.9 Sterne im App Store. Nutzer lieben die Wisch-zum-Vergleichen-Funktion, die automatische Auswahl des besten Fotos und die Tatsache, dass es ein Einmalkauf ohne Abo ist. Es ist kostenlos zum Ausprobieren und ohne Werbung.",
+    "q13": "iPhone Speicher voll aber nichts zum Löschen — was tun?",
+    "a13": "Wenn dein iPhone-Speicher voll ist, du aber nichts zum Löschen findest, liegt das Problem meist an hunderten ähnlichen Fotos, alten Screenshots und großen Videos, die sich in deiner Bibliothek verstecken. Gallery Guy scannt alles und zeigt dir genau, was Speicherplatz belegt — entferne Duplikate, unscharfe Aufnahmen und vergessene Videos, um sofort Platz freizugeben.",
+    "q14": "Was tun mit tausenden iPhone-Fotos?",
+    "a14": "Gallery Guy ist genau dafür gebaut — es scannt tausende Fotos in Sekunden, gruppiert ähnliche und doppelte Aufnahmen und hilft dir, nur die besten zu behalten. Statt deine gesamte Bibliothek manuell durchzuscrollen, lass Gallery Guy sie für dich organisieren und bereinigen.",
+    "q15": "Wie organisiere ich iPhone-Fotos und schaffe Speicherplatz frei?",
+    "a15": "Gallery Guy hilft dir, deine iPhone-Fotos zu organisieren, indem es ähnliche Aufnahmen, Screenshots und große Videos getrennt gruppiert. Wähle das beste Foto aus jeder Gruppe, lösche den Rest und befreie deinen iPhone-Speicher von Fotos, die du nicht mehr brauchst."
   },
   "footer": {
     "tagline": "Der intelligenteste Weg, deine Galerie sauber zu halten.",

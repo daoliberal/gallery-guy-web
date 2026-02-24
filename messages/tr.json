@@ -54,7 +54,7 @@
     },
     "similarPhotos": {
       "title": "Fotoğraflarınızı Profesyonel Gibi Eleyin",
-      "description": "iPhone için en hızlı kopya fotoğraf temizleyici — benzer çekimleri gruplayın, en net kareyi seçin, kalanını toplu silin.",
+      "description": "iPhone için en iyi kopya fotoğraf temizleyici — benzer çekimleri gruplayın, en net kareyi seçin, kalanını toplu silin.",
       "bullet1": "Kopya fotoğrafları anında bul ve temizle",
       "bullet2": "Akıllı fotoğraf eleme — en net kareyi otomatik seçer",
       "bullet3": "Benzer ve kopya fotoğrafları toplu sil"
@@ -106,7 +106,7 @@
   "pricing": {
     "label": "ABONELİK YOK",
     "heading": "Tek Ödeme. Sonsuza Kadar Senin.",
-    "subtext": "Aboneliksiz en iyi iPhone fotoğraf temizleme uygulaması — bir kez öde, sonsuza kadar kullan.",
+    "subtext": "Ömür boyu erişimli en iyi iPhone fotoğraf temizleme uygulaması — abonelik yok, bir kez öde, sonsuza kadar kullan.",
     "oneTime": {
       "title": "Tek Ödeme",
       "description": "Bir kez öde, sonsuza kadar kullan. Aylık ücret yok, gizli masraf yok."
@@ -124,9 +124,9 @@
     "q1": "iPhone'da benzer fotoğrafları silmenin en kolay yolu nedir?",
     "a1": "Gallery Guy, akıllı benzerlik algılama ile neredeyse aynı fotoğrafları gruplar. Her grupta en iyi kareyi seçip kalanını tek dokunuşla silebilirsiniz — tek tek karşılaştırmanıza gerek yok.",
     "q2": "iPhone'da seri çekimden en iyi fotoğrafı nasıl seçerim?",
-    "a2": "Gallery Guy, seri çekimlerinizi ve benzer fotoğraflarınızı otomatik analiz eder, en net ve en iyi kompozisyonlu kareyi önerir. Slider ile karşılaştırıp seçiminizi onaylayabilirsiniz.",
-    "q3": "iPhone'daki kopya fotoğrafları nasıl temizlerim?",
-    "a3": "App Store'dan Gallery Guy'ı indirin, fotoğraf kütüphanenizi taratın — kopyaları ve benzerleri anında gruplar. Saklamak istediklerinizi seçin, kalanını toplu olarak silin.",
+    "a2": "Gallery Guy, seri çekimlerinizi ve benzer fotoğraflarınızı otomatik analiz eder, en net ve en iyi kompozisyonlu kareyi önerir. Slider ile karşılaştırıp seçiminizi onaylayabilirsiniz — iPhone'da seri çekim fotoğraflarını silmenin en kolay yolu.",
+    "q3": "iPhone'daki kopya fotoğrafları nasıl silerim?",
+    "a3": "App Store'dan Gallery Guy'ı indirin, fotoğraf kütüphanenizi taratın — kopyaları ve benzerleri anında gruplar. iPhone fotoğraf kütüphanenizi temizlemenin en kolay yolu — saklamak istediklerinizi seçin, kalanını toplu olarak silin.",
     "q4": "iPhone'da benzer fotoğrafları bulan ücretsiz uygulama var mı?",
     "a4": "Evet — Gallery Guy tamamen ücretsiz ve reklamsız. Benzer fotoğrafları, bulanık çekimleri, ekran görüntülerini ve büyük videoları tespit ederek iPhone'unuzda yer açmanızı sağlar.",
     "q5": "iPhone'da kaydırarak fotoğraf silme uygulaması var mı?",
@@ -144,7 +144,13 @@
     "q11": "Gallery Guy, CleanMyPhone alternatifi mi?",
     "a11": "Gallery Guy, CleanMyPhone'a güçlü bir alternatif — akıllı benzer fotoğraf tespiti, bulanık fotoğraf temizliği, ekran görüntüsü yönetimi ve büyük video bulucu sunar. Tek ödeme, abonelik yok, reklam yok, tam gizlilik koruması.",
     "q12": "Gallery Guy kullanıcı yorumları nasıl?",
-    "a12": "Gallery Guy, App Store'da 4.9 yıldız puanına sahip. Kullanıcılar kaydırarak karşılaştırma özelliğini, en iyi kareyi otomatik seçen fotoğraf eleme özelliğini ve abonelik yerine tek ödeme modelini seviyor. Reklamsız ve ücretsiz deneme imkanı var."
+    "a12": "Gallery Guy, App Store'da 4.9 yıldız puanına sahip. Kullanıcılar kaydırarak karşılaştırma özelliğini, en iyi kareyi otomatik seçen fotoğraf eleme özelliğini ve abonelik yerine tek ödeme modelini seviyor. Reklamsız ve ücretsiz deneme imkanı var.",
+    "q13": "iPhone depolama alanı dolu ama silinecek bir şey yok — ne yapmalıyım?",
+    "a13": "iPhone depolama alanınız doluyken silinecek bir şey bulamıyorsanız, sorun genellikle kütüphanenizde gizlenen yüzlerce benzer fotoğraf, eski ekran görüntüleri ve büyük videolardır. Gallery Guy her şeyi tarar ve neler yer kapladığını gösterir — kopyaları, bulanık çekimleri ve unutulmuş videoları silerek anında yer açın.",
+    "q14": "Binlerce iPhone fotoğrafıyla ne yapmalıyım?",
+    "a14": "Gallery Guy tam bu iş için yapıldı — binlerce fotoğrafı saniyeler içinde tarar, benzer ve kopya çekimleri gruplar ve sadece en iyilerini saklamanıza yardımcı olur. Tüm kütüphaneyi elle kaydırmak yerine Gallery Guy'ın organize etmesine ve temizlemesine izin verin.",
+    "q15": "iPhone fotoğraflarını nasıl düzenler ve yer açarım?",
+    "a15": "Gallery Guy, iPhone fotoğraflarınızı benzer çekimler, ekran görüntüleri ve büyük videolar olarak ayrı ayrı gruplandırarak düzenlemenize yardımcı olur. Her gruptan en iyi fotoğrafı seçin, kalanını silin ve artık ihtiyacınız olmayan fotoğraflardan anında yer açın."
   },
   "footer": {
     "tagline": "Galerinizi temiz tutmanın en akıllı yolu.",
