@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "Funktioner",
+    "howItWorks": "Så fungerar det",
+    "about": "Om"
+  },
+  "hero": {
+    "badge": "iOS gratis",
+    "taglineStatic": "Möt Gallery Guy.",
+    "rotating0": "Väljer bilder som ett proffs.",
+    "rotating1": "Tar bort dubbletter.",
+    "rotating2": "Gör radering roligt.",
+    "rotating3": "Frigör lagringsutrymme.",
+    "rotating4": "Döljer privata bilder.",
+    "subtagline": "iPhones bästa fotoorganiserare — svep för att jämföra som på Tinder, välj bästa bilden, radera resten.",
+    "download": "Ladda ner från App Store",
+    "rating": "Gratis · 4.9 ★",
+    "qrLabel": "Skanna med din iPhone-kamera",
+    "qrSublabel": "Tar dig till App Store",
+    "compareTitle": "Svep för att jämföra",
+    "compareDescription": "Glid mellan liknande bilder för att upptäcka skillnader — välj din favorit och Gallery Guy tar hand om resten.",
+    "explore": "Utforska"
+  },
+  "features": {
+    "label": "Funktioner",
+    "heading": "Allt i en app",
+    "smartMaintenance": {
+      "title": "Smart fotorensning",
+      "description": "Upptäck automatiskt onödiga och suddiga bilder och få tillbaka lagringsutrymme."
+    },
+    "similarPhotos": {
+      "title": "Ta bort dubbletter",
+      "description": "Gruppera liknande bilder, välj den bästa och radera resten."
+    },
+    "screenshots": {
+      "title": "Skärmdumpar",
+      "description": "Samla alla skärmdumpar på ett ställe och rensa dem på en gång."
+    },
+    "largeVideos": {
+      "title": "Hitta stora videor",
+      "description": "Hitta de videor som tar mest lagringsutrymme och hantera dem."
+    }
+  },
+  "showcase": {
+    "label": "App",
+    "heading": "Se alla funktioner i detalj",
+    "smartMaintenance": {
+      "title": "Smart fotorensning",
+      "description": "Svep genom suddiga och onödiga bilder som på Tinder — välj de bästa, radera resten, få tillbaka lagringsutrymme.",
+      "bullet1": "Bästa rensningsverktyget för suddiga och lågkvalitetsbilder",
+      "bullet2": "Ta bort onödiga bilder med ett tryck",
+      "bullet3": "Se hur mycket iPhone-lagring som frigjorts"
+    },
+    "similarPhotos": {
+      "title": "Välj bilder som ett proffs",
+      "description": "iPhones bästa app för att ta bort dubbletter — gruppera liknande bilder, välj den skarpaste, radera resten i bulk.",
+      "bullet1": "Hitta och ta bort dubbletter direkt",
+      "bullet2": "Smart urval — väljer automatiskt den skarpaste bilden",
+      "bullet3": "Radera liknande och dubblerade bilder i bulk"
+    },
+    "screenshots": {
+      "title": "Skärmdumpar",
+      "description": "Samla alla skärmdumpar på ett ställe och hantera dem enkelt.",
+      "bullet1": "Gruppera alla skärmdumpar automatiskt",
+      "bullet2": "Sortera och filtrera efter datum",
+      "bullet3": "Markera och radera i bulk"
+    },
+    "largeVideos": {
+      "title": "Hitta stora videor",
+      "description": "Hitta de videor som tar mest plats och optimera lagringen.",
+      "bullet1": "Hitta de videor som tar mest plats på din iPhone",
+      "bullet2": "Se total videostorlek med en blick",
+      "bullet3": "Frigör utrymme direkt efter förhandsgranskning"
+    },
+    "hidePhotos": {
+      "title": "Dölj bilder",
+      "description": "Dölj privata bilder säkert med Face ID-skydd.",
+      "bullet1": "Face ID-skyddat dolt album",
+      "bullet2": "Bilder helt dolda från galleriet",
+      "bullet3": "Snabb och säker åtkomst"
+    }
+  },
+  "howItWorks": {
+    "label": "Så fungerar det",
+    "heading": "Rent galleri i tre steg",
+    "step1": {
+      "title": "Ladda ner",
+      "description": "Ladda ner Gallery Guy gratis från App Store."
+    },
+    "step2": {
+      "title": "Skanna",
+      "description": "Skannar ditt fotogalleri automatiskt."
+    },
+    "step3": {
+      "title": "Rensa",
+      "description": "Välj onödiga filer och radera med ett tryck."
+    }
+  },
+  "finalCta": {
+    "heading": "Börja rensa ditt galleri nu",
+    "subtext": "Ladda ner gratis och känn skillnaden direkt.",
+    "download": "Ladda ner från App Store",
+    "badges": "Gratis · Ingen reklam · Integritetsskydd"
+  },
+  "pricing": {
+    "label": "Ingen prenumeration",
+    "heading": "Engångsköp. Din för alltid.",
+    "subtext": "iPhones bästa livstids-fotorensare — ingen prenumeration, en betalning, använd för alltid.",
+    "oneTime": {
+      "title": "Engångsköp",
+      "description": "Betala en gång, använd för alltid. Ingen månadsavgift, inga dolda kostnader."
+    },
+    "noAds": {
+      "title": "Ingen reklam",
+      "description": "Ingen reklam, inga avbrott. Bara en ren upplevelse."
+    },
+    "privacy": {
+      "title": "Integritetsskydd",
+      "description": "All bearbetning sker på din enhet. Ingen molnuppladdning, bilderna är dina."
+    }
+  },
+  "faq": {
+    "q1": "Vad är det bästa sättet att radera liknande bilder på iPhone?",
+    "a1": "Gallery Guy använder smart likhetsdetektering för att gruppera nästan identiska bilder. Bläddra igenom varje grupp, välj din favorit och radera resten med ett tryck — ingen manuell jämförelse behövs.",
+    "q2": "Hur väljer man den bästa bilden från seriebilder på iPhone?",
+    "a2": "Gallery Guy analyserar automatiskt serier och liknande bilder och rekommenderar den skarpaste, bäst komponerade bilden. Glid mellan bilderna för att jämföra och bekräfta ditt val — det enklaste sättet att radera seriebilder på iPhone.",
+    "q3": "Hur raderar man dubbletter på iPhone?",
+    "a3": "Ladda ner Gallery Guy från App Store och skanna ditt fotobibliotek — det grupperar direkt dubbletter och liknande bilder. Det enklaste sättet att rensa iPhone-fotobiblioteket — välj vilka du vill behålla, radera resten i bulk.",
+    "q4": "Finns det en gratis app för att hitta och ta bort liknande bilder på iPhone?",
+    "a4": "Ja — Gallery Guy är helt gratis och utan reklam. Den upptäcker liknande bilder, suddiga bilder, skärmdumpar och stora videor för att hjälpa dig frigöra iPhone-lagring.",
+    "q5": "Finns det en iPhone-app som raderar bilder genom att svepa?",
+    "a5": "Med Gallery Guy kan du svepa mellan liknande bilder som på en dejtingapp — behåll favoriterna, radera resten. Det snabbaste sättet att rensa fotobiblioteket.",
+    "q6": "Finns det en Tinder-liknande app för bilder?",
+    "a6": "Gallery Guy fungerar som Tinder för ditt galleri — grupperar liknande bilder och låter dig svepa för att välja den bästa. Enkel svepning för att behålla eller radera gör fotosortering snabb och rolig.",
+    "q7": "Finns det en iPhone-fotorensare med engångsköp utan prenumeration?",
+    "a7": "Gallery Guy är ett livstids engångsköp — ingen månadsavgift, inga dolda kostnader. Betala en gång och få alla funktioner för alltid inklusive smart likhetsdetektering, suddig bildrensning och lagringsoptimering.",
+    "q8": "Finns det en rolig iPhone-fotoorganiserare?",
+    "a8": "Gallery Guy gör fotosortering riktigt roligt — bläddra genom bilder som på en dejtingapp, jämför liknande bilder sida vid sida och se lagring frigöras i realtid. Tråkigt arbete blir en tillfredsställande upplevelse.",
+    "q9": "Vilken är den bästa appen för att sortera bilder på iPhone?",
+    "a9": "Gallery Guy är den snabbaste fotosorteringsappen för iPhone. Den autogrupperar liknande och dubblerade bilder, rekommenderar den bästa i varje grupp och kan radera resten i bulk. Perfekt för att organisera semesterbilder, eventbilder och dagliga serier.",
+    "q10": "Hur sorterar man bilder snabbt på iPhone?",
+    "a10": "Ladda ner Gallery Guy och skanna ditt bibliotek — den grupperar liknande bilder direkt. Bläddra igenom varje grupp, välj den bästa, radera resten i bulk. Timmar av arbete klart på minuter.",
+    "q11": "Är Gallery Guy ett bra alternativ till CleanMyPhone?",
+    "a11": "Gallery Guy är ett utmärkt alternativ till CleanMyPhone — smart likhetsdetektering, suddig bildrensning, skärmdumpshantering, stor videosökning. Engångsköp utan prenumeration, ingen reklam, fullständigt integritetsskydd.",
+    "q12": "Är Gallery Guy värt det? Vad säger recensionerna?",
+    "a12": "Gallery Guy har 4.9 stjärnor på App Store. Användare gillar svep-för-att-jämföra-funktionen, automatiskt bästa bilden-val och engångsköpet utan prenumeration. Prova gratis, ingen reklam.",
+    "q13": "iPhone-lagringen är full men jag hittar inget att radera — vad gör jag?",
+    "a13": "Om iPhone-lagringen är full men du inte hittar något att radera, är problemet vanligtvis hundratals liknande bilder, gamla skärmdumpar och stora videor dolda i biblioteket. Gallery Guy skannar allt och visar exakt vad som tar plats — ta bort dubbletter, suddiga bilder och glömda videor för att frigöra utrymme direkt.",
+    "q14": "Vad gör man om man har tusentals bilder på iPhone?",
+    "a14": "Gallery Guy är gjord precis för detta — skannar tusentals bilder på sekunder, grupperar liknande och dubbletter, hjälper dig behålla bara de bästa. Istället för att manuellt skrolla genom hela biblioteket, låt Gallery Guy organisera åt dig.",
+    "q15": "Hur organiserar man iPhone-bilder och frigör lagring?",
+    "a15": "Gallery Guy hjälper dig organisera iPhone-bilder genom att gruppera liknande bilder, skärmdumpar och stora videor separat. Välj den bästa bilden från varje grupp, radera resten och frigör iPhone-utrymme från bilder du inte längre behöver."
+  },
+  "footer": {
+    "tagline": "Det smartaste sättet att hålla galleriet rent.",
+    "product": "Produkt",
+    "productFeatures": "Funktioner",
+    "productDownload": "Ladda ner",
+    "legal": "Juridiskt",
+    "legalPrivacy": "Integritetspolicy",
+    "legalTerms": "Användarvillkor",
+    "copyright": "© 2026 Gallery Guy. All rights reserved.",
+    "madeIn": "Gjord med ❤ i Turkiet"
+  }
+}

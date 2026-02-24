@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "Funcții",
+    "howItWorks": "Cum funcționează",
+    "about": "Despre"
+  },
+  "hero": {
+    "badge": "Gratuit pentru iOS",
+    "taglineStatic": "Fă cunoștință cu Gallery Guy.",
+    "rotating0": "Selectează fotografii ca un profesionist.",
+    "rotating1": "Elimină duplicatele.",
+    "rotating2": "Face ștergerea distractivă.",
+    "rotating3": "Eliberează spațiu de stocare.",
+    "rotating4": "Ascunde fotografiile private.",
+    "subtagline": "Cel mai bun organizator de fotografii pentru iPhone — glisează pentru a compara ca pe Tinder, alege cea mai bună fotografie, șterge restul.",
+    "download": "Descarcă din App Store",
+    "rating": "Gratuit · 4.9 ★",
+    "qrLabel": "Scanează cu camera iPhone-ului",
+    "qrSublabel": "Vei fi redirecționat către App Store",
+    "compareTitle": "Glisează pentru a compara",
+    "compareDescription": "Glisează între fotografii similare pentru a descoperi diferențele — alege favorita ta și Gallery Guy se ocupă de restul.",
+    "explore": "Explorează"
+  },
+  "features": {
+    "label": "Funcții",
+    "heading": "Totul într-o singură aplicație",
+    "smartMaintenance": {
+      "title": "Curățare inteligentă a fotografiilor",
+      "description": "Detectează automat fotografiile inutile și neclare și recuperează spațiul de stocare."
+    },
+    "similarPhotos": {
+      "title": "Elimină duplicatele",
+      "description": "Grupează fotografiile similare, alege cea mai bună și șterge restul."
+    },
+    "screenshots": {
+      "title": "Capturi de ecran",
+      "description": "Adună toate capturile de ecran într-un singur loc și curăță-le dintr-o dată."
+    },
+    "largeVideos": {
+      "title": "Găsește videoclipuri mari",
+      "description": "Găsește videoclipurile care ocupă cel mai mult spațiu de stocare și gestionează-le."
+    }
+  },
+  "showcase": {
+    "label": "Aplicație",
+    "heading": "Vezi toate funcțiile în detaliu",
+    "smartMaintenance": {
+      "title": "Curățare inteligentă a fotografiilor",
+      "description": "Glisează prin fotografiile neclare și inutile ca pe Tinder — alege cele mai bune, șterge restul, recuperează spațiul de stocare.",
+      "bullet1": "Cel mai bun instrument de curățare pentru fotografii neclare și de calitate scăzută",
+      "bullet2": "Elimină fotografiile inutile cu o singură atingere",
+      "bullet3": "Vezi cât spațiu de stocare iPhone ai eliberat"
+    },
+    "similarPhotos": {
+      "title": "Selectează fotografii ca un profesionist",
+      "description": "Cea mai bună aplicație de eliminare a duplicatelor pentru iPhone — grupează fotografiile similare, alege cea mai clară, șterge restul în bloc.",
+      "bullet1": "Găsește și elimină duplicatele instantaneu",
+      "bullet2": "Selecție inteligentă — alege automat cea mai clară fotografie",
+      "bullet3": "Șterge fotografiile similare și duplicate în bloc"
+    },
+    "screenshots": {
+      "title": "Capturi de ecran",
+      "description": "Adună toate capturile de ecran într-un singur loc și gestionează-le ușor.",
+      "bullet1": "Grupează automat toate capturile de ecran",
+      "bullet2": "Sortează și filtrează după dată",
+      "bullet3": "Selectează și șterge în bloc"
+    },
+    "largeVideos": {
+      "title": "Găsește videoclipuri mari",
+      "description": "Găsește videoclipurile care ocupă cel mai mult spațiu și optimizează stocarea.",
+      "bullet1": "Găsește videoclipurile care ocupă cel mai mult spațiu pe iPhone",
+      "bullet2": "Vezi dimensiunea totală a videoclipurilor dintr-o privire",
+      "bullet3": "Eliberează spațiu imediat după previzualizare"
+    },
+    "hidePhotos": {
+      "title": "Ascunde fotografii",
+      "description": "Ascunde fotografiile private în siguranță cu protecție Face ID.",
+      "bullet1": "Album ascuns protejat cu Face ID",
+      "bullet2": "Fotografii complet ascunse din galerie",
+      "bullet3": "Acces rapid și securizat"
+    }
+  },
+  "howItWorks": {
+    "label": "Cum funcționează",
+    "heading": "Galerie curată în trei pași",
+    "step1": {
+      "title": "Descarcă",
+      "description": "Descarcă Gallery Guy gratuit din App Store."
+    },
+    "step2": {
+      "title": "Scanează",
+      "description": "Scanează automat galeria ta de fotografii."
+    },
+    "step3": {
+      "title": "Curăță",
+      "description": "Selectează fișierele inutile și șterge cu o singură atingere."
+    }
+  },
+  "finalCta": {
+    "heading": "Începe să-ți curățai galeria acum",
+    "subtext": "Descarcă gratuit și simte diferența imediat.",
+    "download": "Descarcă din App Store",
+    "badges": "Gratuit · Fără reclame · Protecția confidențialității"
+  },
+  "pricing": {
+    "label": "Fără abonament",
+    "heading": "Achiziție unică. A ta pentru totdeauna.",
+    "subtext": "Cel mai bun curățător de fotografii iPhone pe viață — fără abonament, o singură plată, folosește pentru totdeauna.",
+    "oneTime": {
+      "title": "Achiziție unică",
+      "description": "Plătești o dată, folosești pentru totdeauna. Fără taxe lunare, fără costuri ascunse."
+    },
+    "noAds": {
+      "title": "Fără reclame",
+      "description": "Fără reclame, fără întreruperi. Doar o experiență curată."
+    },
+    "privacy": {
+      "title": "Protecția confidențialității",
+      "description": "Toată procesarea se face pe dispozitivul tău. Fără încărcare în cloud, fotografiile tale rămân ale tale."
+    }
+  },
+  "faq": {
+    "q1": "Care este cel mai bun mod de a șterge fotografiile similare de pe iPhone?",
+    "a1": "Gallery Guy folosește detectarea inteligentă a similitudinii pentru a grupa fotografiile aproape identice. Navighează prin fiecare grup, alege favorita ta și șterge restul cu o singură atingere — fără comparare manuală necesară.",
+    "q2": "Cum alegi cea mai bună fotografie din fotografiile burst pe iPhone?",
+    "a2": "Gallery Guy analizează automat seria de fotografii și fotografiile similare și recomandă cea mai clară, cea mai bine compusă. Glisează între fotografii pentru a compara și a-ți confirma alegerea — cel mai simplu mod de a șterge fotografiile burst pe iPhone.",
+    "q3": "Cum se șterg duplicatele de pe iPhone?",
+    "a3": "Descarcă Gallery Guy din App Store și scanează biblioteca de fotografii — va grupa instantaneu duplicatele și fotografiile similare. Cel mai simplu mod de a curăța biblioteca de fotografii iPhone — alege pe care vrei să le păstrezi, șterge restul în bloc.",
+    "q4": "Există o aplicație gratuită pentru a găsi și elimina fotografiile similare de pe iPhone?",
+    "a4": "Da — Gallery Guy este complet gratuită și fără reclame. Detectează fotografiile similare, fotografiile neclare, capturile de ecran și videoclipurile mari pentru a te ajuta să eliberezi spațiul de stocare iPhone.",
+    "q5": "Există o aplicație iPhone care șterge fotografiile prin glisare?",
+    "a5": "Cu Gallery Guy poți glisa între fotografiile similare ca pe o aplicație de dating — păstrează favoritele, șterge restul. Cel mai rapid mod de a curăța biblioteca de fotografii.",
+    "q6": "Există o aplicație de tip Tinder pentru fotografii?",
+    "a6": "Gallery Guy funcționează ca Tinder pentru galeria ta — grupează fotografiile similare și te lasă să glisezi pentru a alege cea mai bună. Glisare simplă pentru a păstra sau șterge face sortarea fotografiilor rapidă și distractivă.",
+    "q7": "Există un curățător de fotografii iPhone cu achiziție unică fără abonament?",
+    "a7": "Gallery Guy este o achiziție unică pe viață — fără taxe lunare, fără costuri ascunse. Plătești o dată și primești toate funcțiile pentru totdeauna, inclusiv detectarea inteligentă a similitudinii, curățarea fotografiilor neclare și optimizarea stocării.",
+    "q8": "Există un organizator de fotografii iPhone distractiv?",
+    "a8": "Gallery Guy face sortarea fotografiilor cu adevărat distractivă — navighează prin fotografii ca pe o aplicație de dating, compară fotografiile similare una lângă alta și urmărește cum se eliberează spațiul de stocare în timp real. Munca plictisitoare devine o experiență satisfăcătoare.",
+    "q9": "Care este cea mai bună aplicație pentru sortarea fotografiilor pe iPhone?",
+    "a9": "Gallery Guy este cea mai rapidă aplicație de sortare a fotografiilor pentru iPhone. Grupează automat fotografiile similare și duplicate, recomandă cea mai bună din fiecare grup și poate șterge restul în bloc. Perfectă pentru organizarea fotografiilor de vacanță, evenimente și serii zilnice.",
+    "q10": "Cum sortezi fotografiile rapid pe iPhone?",
+    "a10": "Descarcă Gallery Guy și scanează biblioteca — grupează fotografiile similare instantaneu. Navighează prin fiecare grup, alege cea mai bună, șterge restul în bloc. Ore de muncă gata în minute.",
+    "q11": "Este Gallery Guy o alternativă bună la CleanMyPhone?",
+    "a11": "Gallery Guy este o alternativă excelentă la CleanMyPhone — detectare inteligentă a similitudinii, curățare fotografii neclare, gestionare capturi de ecran, căutare videoclipuri mari. Achiziție unică fără abonament, fără reclame, protecție completă a confidențialității.",
+    "q12": "Merită Gallery Guy? Ce spun recenziile?",
+    "a12": "Gallery Guy are 4,9 stele pe App Store. Utilizatorii apreciază funcția de glisare pentru comparare, selectarea automată a celei mai bune fotografii și achiziția unică fără abonament. Încearcă gratuit, fără reclame.",
+    "q13": "Spațiul de stocare iPhone este plin dar nu găsesc nimic de șters — ce fac?",
+    "a13": "Dacă spațiul de stocare iPhone este plin dar nu găsești nimic de șters, problema este de obicei sute de fotografii similare, capturi de ecran vechi și videoclipuri mari ascunse în bibliotecă. Gallery Guy scanează totul și arată exact ce ocupă spațiu — elimină duplicatele, fotografiile neclare și videoclipurile uitate pentru a elibera spațiu imediat.",
+    "q14": "Ce faci dacă ai mii de fotografii pe iPhone?",
+    "a14": "Gallery Guy este creat exact pentru asta — scanează mii de fotografii în secunde, grupează similare și duplicate, te ajută să păstrezi doar cele mai bune. În loc să derulezi manual prin întreaga bibliotecă, lasă Gallery Guy să organizeze pentru tine.",
+    "q15": "Cum organizezi fotografiile iPhone și eliberezi spațiu de stocare?",
+    "a15": "Gallery Guy te ajută să organizezi fotografiile iPhone grupând fotografiile similare, capturile de ecran și videoclipurile mari separat. Alege cea mai bună fotografie din fiecare grup, șterge restul și eliberează spațiul iPhone de fotografiile de care nu mai ai nevoie."
+  },
+  "footer": {
+    "tagline": "Cel mai inteligent mod de a-ți menține galeria curată.",
+    "product": "Produs",
+    "productFeatures": "Funcții",
+    "productDownload": "Descarcă",
+    "legal": "Juridic",
+    "legalPrivacy": "Politica de confidențialitate",
+    "legalTerms": "Termeni de utilizare",
+    "copyright": "© 2026 Gallery Guy. All rights reserved.",
+    "madeIn": "Făcut cu ❤ în Turcia"
+  }
+}

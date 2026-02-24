@@ -12,6 +12,20 @@ const LOCALE_LABELS: Record<string, { short: string; full: string }> = {
   fr: { short: "FR", full: "Français" },
   de: { short: "DE", full: "Deutsch" },
   ar: { short: "AR", full: "العربية" },
+  it: { short: "IT", full: "Italiano" },
+  pt: { short: "PT", full: "Português" },
+  ru: { short: "RU", full: "Русский" },
+  ko: { short: "KO", full: "한국어" },
+  zh: { short: "ZH", full: "中文" },
+  hi: { short: "HI", full: "हिन्दी" },
+  ja: { short: "JA", full: "日本語" },
+  sv: { short: "SV", full: "Svenska" },
+  no: { short: "NO", full: "Norsk" },
+  nl: { short: "NL", full: "Nederlands" },
+  ro: { short: "RO", full: "Română" },
+  el: { short: "EL", full: "Ελληνικά" },
+  da: { short: "DA", full: "Dansk" },
+  bg: { short: "BG", full: "Български" },
 };
 
 export default function LanguageSwitcher() {

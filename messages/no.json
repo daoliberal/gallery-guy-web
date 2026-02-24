@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "Funksjoner",
+    "howItWorks": "Slik fungerer det",
+    "about": "Om"
+  },
+  "hero": {
+    "badge": "Gratis for iOS",
+    "taglineStatic": "Møt Gallery Guy.",
+    "rotating0": "Velger bilder som en proff.",
+    "rotating1": "Fjerner duplikater.",
+    "rotating2": "Gjør sletting morsomt.",
+    "rotating3": "Frigjør lagringsplass.",
+    "rotating4": "Skjuler private bilder.",
+    "subtagline": "iPhones beste fotoorganisator — sveip for å sammenligne som på Tinder, velg det beste bildet, slett resten.",
+    "download": "Last ned fra App Store",
+    "rating": "Gratis · 4.9 ★",
+    "qrLabel": "Skann med iPhone-kameraet",
+    "qrSublabel": "Tar deg til App Store",
+    "compareTitle": "Sveip for å sammenligne",
+    "compareDescription": "Glid mellom lignende bilder for å oppdage forskjeller — velg favoritten din og Gallery Guy tar seg av resten.",
+    "explore": "Utforsk"
+  },
+  "features": {
+    "label": "Funksjoner",
+    "heading": "Alt i én app",
+    "smartMaintenance": {
+      "title": "Smart fotorensing",
+      "description": "Oppdag automatisk unødvendige og uskarpe bilder og frigjør lagringsplass."
+    },
+    "similarPhotos": {
+      "title": "Fjern duplikater",
+      "description": "Grupper lignende bilder, velg det beste og slett resten."
+    },
+    "screenshots": {
+      "title": "Skjermbilder",
+      "description": "Samle alle skjermbilder på ett sted og rens dem på en gang."
+    },
+    "largeVideos": {
+      "title": "Finn store videoer",
+      "description": "Finn videoene som tar mest lagringsplass og håndter dem."
+    }
+  },
+  "showcase": {
+    "label": "App",
+    "heading": "Se alle funksjoner i detalj",
+    "smartMaintenance": {
+      "title": "Smart fotorensing",
+      "description": "Sveip gjennom uskarpe og unødvendige bilder som på Tinder — velg de beste, slett resten, frigjør lagringsplass.",
+      "bullet1": "Beste renseverktøyet for uskarpe bilder og bilder med lav kvalitet",
+      "bullet2": "Fjern unødvendige bilder med ett trykk",
+      "bullet3": "Se hvor mye iPhone-lagring du har frigjort"
+    },
+    "similarPhotos": {
+      "title": "Velg bilder som en proff",
+      "description": "iPhones beste app for å fjerne duplikater — grupper lignende bilder, velg det skarpeste, slett resten i bulk.",
+      "bullet1": "Finn og fjern duplikater umiddelbart",
+      "bullet2": "Smart utvalg — velger automatisk det skarpeste bildet",
+      "bullet3": "Slett lignende og dupliserte bilder i bulk"
+    },
+    "screenshots": {
+      "title": "Skjermbilder",
+      "description": "Samle alle skjermbildene dine på ett sted og håndter dem enkelt.",
+      "bullet1": "Grupperer alle skjermbilder automatisk",
+      "bullet2": "Sorter og filtrer etter dato",
+      "bullet3": "Merk og slett i bulk"
+    },
+    "largeVideos": {
+      "title": "Finn store videoer",
+      "description": "Finn videoene som tar mest plass og optimaliser lagringen.",
+      "bullet1": "Finn videoene som tar mest plass på iPhonen din",
+      "bullet2": "Se total videostørrelse med et blikk",
+      "bullet3": "Frigjør plass rett etter forhåndsvisning"
+    },
+    "hidePhotos": {
+      "title": "Skjul bilder",
+      "description": "Skjul private bilder sikkert med Face ID-beskyttelse.",
+      "bullet1": "Face ID-beskyttet skjult album",
+      "bullet2": "Bilder helt skjult fra galleriet",
+      "bullet3": "Rask og sikker tilgang"
+    }
+  },
+  "howItWorks": {
+    "label": "Slik fungerer det",
+    "heading": "Rent galleri i tre steg",
+    "step1": {
+      "title": "Last ned",
+      "description": "Last ned Gallery Guy gratis fra App Store."
+    },
+    "step2": {
+      "title": "Skann",
+      "description": "Skanner fotogalleriet ditt automatisk."
+    },
+    "step3": {
+      "title": "Rens",
+      "description": "Velg unødvendige filer og slett med ett trykk."
+    }
+  },
+  "finalCta": {
+    "heading": "Begynn å rense galleriet ditt nå",
+    "subtext": "Last ned gratis og kjenn forskjellen med en gang.",
+    "download": "Last ned fra App Store",
+    "badges": "Gratis · Ingen reklame · Personvernbeskyttelse"
+  },
+  "pricing": {
+    "label": "Ingen abonnement",
+    "heading": "Engangskjøp. Din for alltid.",
+    "subtext": "iPhones beste livstids-fotorenser — ingen abonnement, én betaling, bruk for alltid.",
+    "oneTime": {
+      "title": "Engangskjøp",
+      "description": "Betal én gang, bruk for alltid. Ingen månedlig avgift, ingen skjulte kostnader."
+    },
+    "noAds": {
+      "title": "Ingen reklame",
+      "description": "Ingen reklame, ingen avbrytelser. Bare en ren opplevelse."
+    },
+    "privacy": {
+      "title": "Personvernbeskyttelse",
+      "description": "All behandling skjer på enheten din. Ingen skyopplasting, bildene er dine."
+    }
+  },
+  "faq": {
+    "q1": "Hva er den beste måten å slette lignende bilder på iPhone?",
+    "a1": "Gallery Guy bruker smart likhetsdeteksjon for å gruppere nesten identiske bilder. Bla gjennom hver gruppe, velg favoritten din og slett resten med ett trykk — ingen manuell sammenligning nødvendig.",
+    "q2": "Hvordan velger man det beste bildet fra seriebilder på iPhone?",
+    "a2": "Gallery Guy analyserer automatisk serier og lignende bilder og anbefaler det skarpeste, best komponerte bildet. Glid mellom bildene for å sammenligne og bekreft valget ditt — den enkleste måten å slette seriebilder på iPhone.",
+    "q3": "Hvordan sletter man duplikater på iPhone?",
+    "a3": "Last ned Gallery Guy fra App Store og skann fotobiblioteket ditt — den grupperer umiddelbart duplikater og lignende bilder. Den enkleste måten å rydde iPhone-fotobiblioteket — velg hvilke du vil beholde, slett resten i bulk.",
+    "q4": "Finnes det en gratis app for å finne og fjerne lignende bilder på iPhone?",
+    "a4": "Ja — Gallery Guy er helt gratis og uten reklame. Den oppdager lignende bilder, uskarpe bilder, skjermbilder og store videoer for å hjelpe deg frigjøre iPhone-lagring.",
+    "q5": "Finnes det en iPhone-app som sletter bilder ved å sveipe?",
+    "a5": "Med Gallery Guy kan du sveipe mellom lignende bilder som på en datingapp — behold favorittene, slett resten. Den raskeste måten å rydde fotobiblioteket.",
+    "q6": "Finnes det en Tinder-lignende app for bilder?",
+    "a6": "Gallery Guy fungerer som Tinder for galleriet ditt — grupperer lignende bilder og lar deg sveipe for å velge det beste. Enkel sveiping for å beholde eller slette gjør fotosortering rask og morsom.",
+    "q7": "Finnes det en iPhone-fotorenser med engangskjøp uten abonnement?",
+    "a7": "Gallery Guy er et livstids engangskjøp — ingen månedlig avgift, ingen skjulte kostnader. Betal én gang og få alle funksjoner for alltid, inkludert smart likhetsdeteksjon, uskarp bilderensing og lagringsoptimalisering.",
+    "q8": "Finnes det en morsom iPhone-fotoorganisator?",
+    "a8": "Gallery Guy gjør fotosortering virkelig morsomt — bla gjennom bilder som på en datingapp, sammenlign lignende bilder side om side og se lagring frigjøres i sanntid. Kjedelig arbeid blir en tilfredsstillende opplevelse.",
+    "q9": "Hva er den beste appen for å sortere bilder på iPhone?",
+    "a9": "Gallery Guy er den raskeste fotosorteringsappen for iPhone. Den autogrupperer lignende og dupliserte bilder, anbefaler det beste i hver gruppe og kan slette resten i bulk. Perfekt for å organisere feriebilder, eventbilder og daglige serier.",
+    "q10": "Hvordan sorterer man bilder raskt på iPhone?",
+    "a10": "Last ned Gallery Guy og skann biblioteket ditt — den grupperer lignende bilder umiddelbart. Bla gjennom hver gruppe, velg det beste, slett resten i bulk. Timer med arbeid klart på minutter.",
+    "q11": "Er Gallery Guy et godt alternativ til CleanMyPhone?",
+    "a11": "Gallery Guy er et utmerket alternativ til CleanMyPhone — smart likhetsdeteksjon, uskarp bilderensing, skjermbildehåndtering, stor videosøk. Engangskjøp uten abonnement, ingen reklame, fullstendig personvernbeskyttelse.",
+    "q12": "Er Gallery Guy verdt det? Hva sier anmeldelsene?",
+    "a12": "Gallery Guy har 4,9 stjerner på App Store. Brukere liker sveip-for-å-sammenligne-funksjonen, automatisk beste bilde-valg og engangskjøpet uten abonnement. Prøv gratis, ingen reklame.",
+    "q13": "iPhone-lagringen er full men jeg finner ingenting å slette — hva gjør jeg?",
+    "a13": "Hvis iPhone-lagringen er full men du ikke finner noe å slette, er problemet vanligvis hundrevis av lignende bilder, gamle skjermbilder og store videoer skjult i biblioteket. Gallery Guy skanner alt og viser nøyaktig hva som tar plass — fjern duplikater, uskarpe bilder og glemte videoer for å frigjøre plass umiddelbart.",
+    "q14": "Hva gjør man om man har tusenvis av bilder på iPhone?",
+    "a14": "Gallery Guy er laget nettopp for dette — skanner tusenvis av bilder på sekunder, grupperer lignende og duplikater, hjelper deg beholde bare de beste. I stedet for å manuelt scrolle gjennom hele biblioteket, la Gallery Guy organisere for deg.",
+    "q15": "Hvordan organiserer man iPhone-bilder og frigjør lagring?",
+    "a15": "Gallery Guy hjelper deg organisere iPhone-bilder ved å gruppere lignende bilder, skjermbilder og store videoer separat. Velg det beste bildet fra hver gruppe, slett resten og frigjør iPhone-plass fra bilder du ikke lenger trenger."
+  },
+  "footer": {
+    "tagline": "Den smarteste måten å holde galleriet rent.",
+    "product": "Produkt",
+    "productFeatures": "Funksjoner",
+    "productDownload": "Last ned",
+    "legal": "Juridisk",
+    "legalPrivacy": "Personvernpolicy",
+    "legalTerms": "Bruksvilkår",
+    "copyright": "© 2026 Gallery Guy. All rights reserved.",
+    "madeIn": "Laget med ❤ i Tyrkia"
+  }
+}

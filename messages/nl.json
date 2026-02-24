@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "Functies",
+    "howItWorks": "Hoe het werkt",
+    "about": "Over"
+  },
+  "hero": {
+    "badge": "Gratis voor iOS",
+    "taglineStatic": "Maak kennis met Gallery Guy.",
+    "rotating0": "Selecteert foto's als een pro.",
+    "rotating1": "Verwijdert duplicaten.",
+    "rotating2": "Maakt verwijderen leuk.",
+    "rotating3": "Maakt opslagruimte vrij.",
+    "rotating4": "Verbergt privéfoto's.",
+    "subtagline": "De beste foto-organizer voor iPhone — veeg om te vergelijken zoals op Tinder, kies de beste foto, verwijder de rest.",
+    "download": "Download in de App Store",
+    "rating": "Gratis · 4.9 ★",
+    "qrLabel": "Scan met je iPhone-camera",
+    "qrSublabel": "Je wordt doorgestuurd naar de App Store",
+    "compareTitle": "Veeg om te vergelijken",
+    "compareDescription": "Glijd tussen vergelijkbare foto's om de verschillen te ontdekken — kies je favoriet en Gallery Guy doet de rest.",
+    "explore": "Ontdekken"
+  },
+  "features": {
+    "label": "Functies",
+    "heading": "Alles in één app",
+    "smartMaintenance": {
+      "title": "Slimme foto-opruimer",
+      "description": "Detecteer automatisch onnodige en onscherpe foto's en win opslagruimte terug."
+    },
+    "similarPhotos": {
+      "title": "Duplicaten verwijderen",
+      "description": "Groepeer vergelijkbare foto's, kies de beste en verwijder de rest."
+    },
+    "screenshots": {
+      "title": "Schermafbeeldingen",
+      "description": "Verzamel alle schermafbeeldingen op één plek en ruim ze in één keer op."
+    },
+    "largeVideos": {
+      "title": "Grote video's vinden",
+      "description": "Vind de video's die de meeste opslagruimte innemen en beheer ze."
+    }
+  },
+  "showcase": {
+    "label": "App",
+    "heading": "Bekijk alle functies in detail",
+    "smartMaintenance": {
+      "title": "Slimme foto-opruimer",
+      "description": "Veeg door onscherpe en onnodige foto's zoals op Tinder — kies de beste, verwijder de rest, win opslagruimte terug.",
+      "bullet1": "Beste opruimtool voor onscherpe foto's en foto's van lage kwaliteit",
+      "bullet2": "Verwijder onnodige foto's met één tik",
+      "bullet3": "Bekijk hoeveel iPhone-opslag je hebt vrijgemaakt"
+    },
+    "similarPhotos": {
+      "title": "Selecteer foto's als een pro",
+      "description": "De beste app om duplicaten te verwijderen op iPhone — groepeer vergelijkbare foto's, kies de scherpste, verwijder de rest in bulk.",
+      "bullet1": "Vind en verwijder duplicaten direct",
+      "bullet2": "Slimme selectie — kiest automatisch de scherpste foto",
+      "bullet3": "Verwijder vergelijkbare en gedupliceerde foto's in bulk"
+    },
+    "screenshots": {
+      "title": "Schermafbeeldingen",
+      "description": "Verzamel al je schermafbeeldingen op één plek en beheer ze eenvoudig.",
+      "bullet1": "Groepeert alle schermafbeeldingen automatisch",
+      "bullet2": "Sorteer en filter op datum",
+      "bullet3": "Selecteer en verwijder in bulk"
+    },
+    "largeVideos": {
+      "title": "Grote video's vinden",
+      "description": "Vind de video's die de meeste ruimte innemen en optimaliseer je opslag.",
+      "bullet1": "Vind de video's die de meeste ruimte innemen op je iPhone",
+      "bullet2": "Bekijk de totale videogrootte in één oogopslag",
+      "bullet3": "Maak ruimte vrij direct na het bekijken"
+    },
+    "hidePhotos": {
+      "title": "Foto's verbergen",
+      "description": "Verberg privéfoto's veilig met Face ID-bescherming.",
+      "bullet1": "Verborgen album beschermd met Face ID",
+      "bullet2": "Foto's volledig verborgen uit de galerij",
+      "bullet3": "Snelle en veilige toegang"
+    }
+  },
+  "howItWorks": {
+    "label": "Hoe het werkt",
+    "heading": "Schone galerij in drie stappen",
+    "step1": {
+      "title": "Downloaden",
+      "description": "Download Gallery Guy gratis uit de App Store."
+    },
+    "step2": {
+      "title": "Scannen",
+      "description": "Scant je fotogalerij automatisch."
+    },
+    "step3": {
+      "title": "Opruimen",
+      "description": "Selecteer onnodige bestanden en verwijder met één tik."
+    }
+  },
+  "finalCta": {
+    "heading": "Begin nu met het opruimen van je galerij",
+    "subtext": "Download gratis en voel het verschil direct.",
+    "download": "Download in de App Store",
+    "badges": "Gratis · Geen reclame · Privacybescherming"
+  },
+  "pricing": {
+    "label": "Geen abonnement",
+    "heading": "Eenmalige aankoop. Voor altijd van jou.",
+    "subtext": "De beste levenslange iPhone foto-opruimer — geen abonnement, één betaling, voor altijd gebruiken.",
+    "oneTime": {
+      "title": "Eenmalige aankoop",
+      "description": "Betaal één keer, gebruik voor altijd. Geen maandelijkse kosten, geen verborgen kosten."
+    },
+    "noAds": {
+      "title": "Geen reclame",
+      "description": "Geen reclame, geen onderbrekingen. Gewoon een schone ervaring."
+    },
+    "privacy": {
+      "title": "Privacybescherming",
+      "description": "Alle verwerking gebeurt op je apparaat. Geen cloudupload, je foto's blijven van jou."
+    }
+  },
+  "faq": {
+    "q1": "Wat is de beste manier om vergelijkbare foto's op iPhone te verwijderen?",
+    "a1": "Gallery Guy gebruikt slimme gelijkheidsdetectie om bijna identieke foto's te groeperen. Blader door elke groep, kies je favoriet en verwijder de rest met één tik — geen handmatige vergelijking nodig.",
+    "q2": "Hoe kies je de beste foto uit burstfoto's op iPhone?",
+    "a2": "Gallery Guy analyseert automatisch bursts en vergelijkbare foto's en beveelt de scherpste, best gecomponeerde foto aan. Glijd tussen foto's om te vergelijken en bevestig je keuze — de makkelijkste manier om burstfoto's op iPhone te verwijderen.",
+    "q3": "Hoe verwijder je duplicaten op iPhone?",
+    "a3": "Download Gallery Guy uit de App Store en scan je fotobibliotheek — het groepeert direct duplicaten en vergelijkbare foto's. De makkelijkste manier om je iPhone-fotobibliotheek op te ruimen — kies welke je wilt bewaren, verwijder de rest in bulk.",
+    "q4": "Is er een gratis app om vergelijkbare foto's op iPhone te vinden en verwijderen?",
+    "a4": "Ja — Gallery Guy is volledig gratis en zonder reclame. Het detecteert vergelijkbare foto's, onscherpe foto's, schermafbeeldingen en grote video's om je te helpen iPhone-opslag vrij te maken.",
+    "q5": "Is er een iPhone-app die foto's verwijdert door te vegen?",
+    "a5": "Met Gallery Guy kun je door vergelijkbare foto's vegen zoals op een datingapp — houd je favorieten, verwijder de rest. De snelste manier om je fotobibliotheek op te ruimen.",
+    "q6": "Is er een Tinder-achtige app voor foto's?",
+    "a6": "Gallery Guy werkt als Tinder voor je galerij — groepeert vergelijkbare foto's en laat je vegen om de beste te kiezen. Eenvoudig vegen om te bewaren of verwijderen maakt foto's sorteren snel en leuk.",
+    "q7": "Is er een iPhone foto-opruimer met eenmalige aankoop zonder abonnement?",
+    "a7": "Gallery Guy is een levenslange eenmalige aankoop — geen maandelijkse kosten, geen verborgen kosten. Betaal één keer en krijg alle functies voor altijd, inclusief slimme gelijkheidsdetectie, onscherpe foto-opruiming en opslagoptimalisatie.",
+    "q8": "Is er een leuke iPhone foto-organizer?",
+    "a8": "Gallery Guy maakt foto's sorteren echt leuk — blader door foto's als op een datingapp, vergelijk vergelijkbare foto's naast elkaar en zie opslag vrijkomen in real time. Saai werk wordt een bevredigende ervaring.",
+    "q9": "Wat is de beste app om foto's te sorteren op iPhone?",
+    "a9": "Gallery Guy is de snelste fotosorteer-app voor iPhone. Het groepeert automatisch vergelijkbare en gedupliceerde foto's, beveelt de beste aan in elke groep en kan de rest in bulk verwijderen. Perfect voor het organiseren van vakantiefoto's, evenementfoto's en dagelijkse series.",
+    "q10": "Hoe sorteer je foto's snel op iPhone?",
+    "a10": "Download Gallery Guy en scan je bibliotheek — het groepeert vergelijkbare foto's direct. Blader door elke groep, kies de beste, verwijder de rest in bulk. Uren werk klaar in minuten.",
+    "q11": "Is Gallery Guy een goed alternatief voor CleanMyPhone?",
+    "a11": "Gallery Guy is een uitstekend alternatief voor CleanMyPhone — slimme gelijkheidsdetectie, onscherpe foto-opruiming, schermafbeeldingenbeheer, grote video-zoeker. Eenmalige aankoop zonder abonnement, geen reclame, volledige privacybescherming.",
+    "q12": "Is Gallery Guy het waard? Wat zeggen de reviews?",
+    "a12": "Gallery Guy heeft 4,9 sterren in de App Store. Gebruikers waarderen de veeg-om-te-vergelijken-functie, automatische beste foto-selectie en de eenmalige aankoop zonder abonnement. Gratis uit te proberen, geen reclame.",
+    "q13": "iPhone-opslag vol maar niets om te verwijderen — wat moet ik doen?",
+    "a13": "Als je iPhone-opslag vol is maar je niets kunt vinden om te verwijderen, is het probleem meestal honderden vergelijkbare foto's, oude schermafbeeldingen en grote video's verborgen in je bibliotheek. Gallery Guy scant alles en laat precies zien wat ruimte inneemt — verwijder duplicaten, onscherpe foto's en vergeten video's om direct ruimte vrij te maken.",
+    "q14": "Wat doe je met duizenden foto's op iPhone?",
+    "a14": "Gallery Guy is precies hiervoor gemaakt — scant duizenden foto's in seconden, groepeert vergelijkbare en duplicaten, helpt je alleen de beste te bewaren. In plaats van handmatig door je hele bibliotheek te scrollen, laat Gallery Guy het voor je organiseren.",
+    "q15": "Hoe organiseer je iPhone-foto's en maak je opslagruimte vrij?",
+    "a15": "Gallery Guy helpt je iPhone-foto's te organiseren door vergelijkbare foto's, schermafbeeldingen en grote video's apart te groeperen. Kies de beste foto uit elke groep, verwijder de rest en maak iPhone-ruimte vrij van foto's die je niet meer nodig hebt."
+  },
+  "footer": {
+    "tagline": "De slimste manier om je galerij schoon te houden.",
+    "product": "Product",
+    "productFeatures": "Functies",
+    "productDownload": "Downloaden",
+    "legal": "Juridisch",
+    "legalPrivacy": "Privacybeleid",
+    "legalTerms": "Gebruiksvoorwaarden",
+    "copyright": "© 2026 Gallery Guy. All rights reserved.",
+    "madeIn": "Gemaakt met ❤ in Turkije"
+  }
+}

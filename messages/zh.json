@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "功能",
+    "howItWorks": "使用方法",
+    "about": "关于"
+  },
+  "hero": {
+    "badge": "iOS 免费",
+    "taglineStatic": "认识Gallery Guy。",
+    "rotating0": "像专业人士一样挑选照片。",
+    "rotating1": "删除重复照片。",
+    "rotating2": "让删除变得有趣。",
+    "rotating3": "释放存储空间。",
+    "rotating4": "隐藏私密照片。",
+    "subtagline": "iPhone最佳照片整理应用 — 像Tinder一样滑动比较，选出最佳照片，删除其余照片。",
+    "download": "从App Store下载",
+    "rating": "免费 · 4.9 ★",
+    "qrLabel": "用iPhone相机扫描",
+    "qrSublabel": "跳转到App Store",
+    "compareTitle": "滑动比较",
+    "compareDescription": "在相似照片之间滑动发现差异 — 选择你喜欢的，Gallery Guy帮你整理其余。",
+    "explore": "探索"
+  },
+  "features": {
+    "label": "功能",
+    "heading": "一个应用，搞定一切",
+    "smartMaintenance": {
+      "title": "智能照片整理",
+      "description": "自动检测不需要的模糊照片，帮你释放存储空间。"
+    },
+    "similarPhotos": {
+      "title": "删除重复照片",
+      "description": "将相似照片分组，选出最佳照片，一键删除其余。"
+    },
+    "screenshots": {
+      "title": "截图",
+      "description": "将所有截图集中管理，批量清理。"
+    },
+    "largeVideos": {
+      "title": "查找大型视频",
+      "description": "找到占用最多存储空间的视频并进行管理。"
+    }
+  },
+  "showcase": {
+    "label": "应用",
+    "heading": "详细了解所有功能",
+    "smartMaintenance": {
+      "title": "智能照片整理",
+      "description": "像Tinder一样滑动浏览模糊和不需要的照片 — 选出最佳照片，删除其余，释放存储空间。",
+      "bullet1": "专为模糊和低质量照片打造的最佳清理工具",
+      "bullet2": "一键删除不需要的照片",
+      "bullet3": "查看iPhone释放了多少存储空间"
+    },
+    "similarPhotos": {
+      "title": "像专业人士一样挑选照片",
+      "description": "iPhone最佳重复照片删除应用 — 将相似照片分组，选出最清晰的照片，批量删除其余。",
+      "bullet1": "即时查找并删除重复照片",
+      "bullet2": "智能筛选 — 自动选出最清晰的照片",
+      "bullet3": "批量删除相似和重复照片"
+    },
+    "screenshots": {
+      "title": "截图",
+      "description": "将所有截图集中到一处，轻松管理。",
+      "bullet1": "自动分组所有截图",
+      "bullet2": "按日期排序和筛选",
+      "bullet3": "支持批量选择和删除"
+    },
+    "largeVideos": {
+      "title": "查找大型视频",
+      "description": "找到占用最多空间的视频，优化存储空间。",
+      "bullet1": "找到iPhone上占用最多空间的视频",
+      "bullet2": "一目了然查看全部视频大小",
+      "bullet3": "预览后立即释放空间"
+    },
+    "hidePhotos": {
+      "title": "隐藏照片",
+      "description": "使用Face ID保护安全地隐藏私密照片。",
+      "bullet1": "Face ID保护的隐藏相册",
+      "bullet2": "从相册中完全隐藏的照片",
+      "bullet3": "快速安全的访问"
+    }
+  },
+  "howItWorks": {
+    "label": "使用方法",
+    "heading": "三步拥有干净相册",
+    "step1": {
+      "title": "下载",
+      "description": "从App Store免费下载Gallery Guy。"
+    },
+    "step2": {
+      "title": "扫描",
+      "description": "自动扫描你的照片库。"
+    },
+    "step3": {
+      "title": "清理",
+      "description": "选择不需要的文件，一键删除。"
+    }
+  },
+  "finalCta": {
+    "heading": "现在开始整理你的相册",
+    "subtext": "免费下载，立即感受不同。",
+    "download": "从App Store下载",
+    "badges": "免费 · 无广告 · 隐私保护"
+  },
+  "pricing": {
+    "label": "无需订阅",
+    "heading": "一次购买，永久拥有。",
+    "subtext": "iPhone最佳终身照片整理应用 — 无需订阅，一次付款，永久使用。",
+    "oneTime": {
+      "title": "一次性购买",
+      "description": "一次付款，永久使用。没有月费，没有隐藏费用。"
+    },
+    "noAds": {
+      "title": "无广告",
+      "description": "没有广告，没有干扰。只有清爽的体验。"
+    },
+    "privacy": {
+      "title": "隐私保护",
+      "description": "所有处理在设备上完成。不上传云端，照片属于你。"
+    }
+  },
+  "faq": {
+    "q1": "在iPhone上删除相似照片最好的方法是什么？",
+    "a1": "Gallery Guy使用智能相似度检测将几乎相同的照片分组。浏览每组照片，选择你喜欢的，一键删除其余 — 无需手动比较。",
+    "q2": "如何在iPhone上从连拍照片中选出最佳照片？",
+    "a2": "Gallery Guy自动分析连拍和相似照片，推荐最清晰、构图最好的照片。你可以在照片之间滑动比较并确认选择 — 这是在iPhone上删除连拍照片最简单的方法。",
+    "q3": "如何在iPhone上删除重复照片？",
+    "a3": "从App Store下载Gallery Guy，扫描你的照片库，它会立即将重复和相似照片分组。这是整理iPhone照片库最简单的方法 — 选择要保留的照片，批量删除其余。",
+    "q4": "有没有免费的应用可以查找和删除iPhone上的相似照片？",
+    "a4": "有 — Gallery Guy完全免费且无广告。它可以检测相似照片、模糊照片、截图和大型视频，帮你释放iPhone存储空间。",
+    "q5": "有没有通过滑动来删除照片的iPhone应用？",
+    "a5": "Gallery Guy让你像社交应用一样在相似照片之间滑动 — 保留喜欢的，删除其余。这是整理照片库最快的方式。",
+    "q6": "有没有像Tinder一样的照片整理应用？",
+    "a6": "Gallery Guy就像相册版的Tinder — 将相似照片分组，滑动选出最佳照片。简单的滑动操作让照片整理变得快速又有趣。",
+    "q7": "有没有一次性购买、无需订阅的iPhone照片整理应用？",
+    "a7": "Gallery Guy是一次性购买，终身使用 — 没有月费，没有隐藏费用。一次付款即可永久使用智能相似照片检测、模糊照片清理、存储空间优化等所有功能。",
+    "q8": "有没有有趣的iPhone照片整理应用？",
+    "a8": "Gallery Guy让照片整理真正变得有趣 — 像社交应用一样翻看照片、并排比较相似照片、实时查看释放的存储空间。无聊的整理工作变成令人满意的体验。",
+    "q9": "iPhone上最好的照片筛选应用是什么？",
+    "a9": "Gallery Guy是iPhone上最快的照片筛选应用。它自动分组相似和重复照片，推荐每组中最佳照片，并可批量删除其余。非常适合整理旅行照片、活动照片和日常连拍。",
+    "q10": "如何在iPhone上快速筛选照片？",
+    "a10": "下载Gallery Guy并扫描你的照片库 — 它会立即将相似照片分组。浏览每组，选出最佳照片，批量删除其余。几小时的工作几分钟就能完成。",
+    "q11": "Gallery Guy是CleanMyPhone的好替代品吗？",
+    "a11": "Gallery Guy是CleanMyPhone的绝佳替代品 — 提供智能相似照片检测、模糊照片清理、截图管理、大型视频查找。一次性购买无需订阅，无广告，完全隐私保护。",
+    "q12": "Gallery Guy值得吗？用户评价怎么样？",
+    "a12": "Gallery Guy在App Store获得4.9星评分。用户喜欢滑动比较功能、自动选出最佳照片的功能，以及一次性购买无需订阅的模式。免费试用，无广告。",
+    "q13": "iPhone存储满了但找不到可删除的东西怎么办？",
+    "a13": "如果iPhone存储满了但找不到可删除的内容，问题通常是照片库中隐藏的数百张相似照片、旧截图和大型视频。Gallery Guy扫描所有内容并准确告诉你什么占用了空间 — 删除重复照片、模糊照片和被遗忘的视频，立即释放空间。",
+    "q14": "iPhone上有几千张照片该怎么办？",
+    "a14": "Gallery Guy正是为此而生 — 几秒钟内扫描数千张照片，将相似和重复照片分组，帮你只保留最好的。不用手动滚动整个照片库，让Gallery Guy来帮你整理。",
+    "q15": "如何整理iPhone照片并释放存储空间？",
+    "a15": "Gallery Guy帮你整理iPhone照片 — 将相似照片、截图和大型视频分别分组。从每组中选出最佳照片，删除其余，从不再需要的照片中释放iPhone空间。"
+  },
+  "footer": {
+    "tagline": "保持相册整洁的最智能方式。",
+    "product": "产品",
+    "productFeatures": "功能",
+    "productDownload": "下载",
+    "legal": "法律信息",
+    "legalPrivacy": "隐私政策",
+    "legalTerms": "服务条款",
+    "copyright": "© 2026 Gallery Guy. All rights reserved.",
+    "madeIn": "在土耳其用 ❤ 制作"
+  }
+}
