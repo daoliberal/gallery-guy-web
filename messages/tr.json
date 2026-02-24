@@ -9,11 +9,11 @@
     "badge": "iOS için ücretsiz",
     "taglineStatic": "Galeri adamınla tanış.",
     "rotating0": "Bulanıkları bulan.",
-    "rotating1": "Benzerleri ayıklayan.",
+    "rotating1": "Kopya fotoğrafları temizleyen.",
     "rotating2": "Ekran görüntülerini toplayan.",
     "rotating3": "Depolamayı kurtaran.",
     "rotating4": "Gizlileri koruyan.",
-    "subtagline": "Gereksiz fotoğrafları, ekran görüntülerini ve büyük videoları tespit edip galerinizi temiz tutun.",
+    "subtagline": "iPhone için en iyi fotoğraf temizleme uygulaması — Tinder gibi kaydırarak karşılaştır, en iyisini seç, gerisini sil.",
     "download": "App Store'dan İndir",
     "rating": "Ücretsiz · 4.9 ★",
     "qrLabel": "iPhone kameranızla tarayın",
@@ -26,11 +26,11 @@
     "label": "ÖZELLİKLER",
     "heading": "Her Şey Tek Uygulamada",
     "smartMaintenance": {
-      "title": "Akıllı Bakım",
+      "title": "Akıllı Fotoğraf Temizleyici",
       "description": "Gereksiz ve bulanık fotoğrafları otomatik tespit edin, depolama alanı kazanın."
     },
     "similarPhotos": {
-      "title": "Benzer Fotoğraflar",
+      "title": "Kopya Fotoğraf Temizleyici",
       "description": "Birbirine benzeyen fotoğrafları gruplandırın, en iyisini seçip kalanını silin."
     },
     "screenshots": {
@@ -38,7 +38,7 @@
       "description": "Biriken ekran görüntülerini tek bir ekranda toplayın ve toplu temizleyin."
     },
     "largeVideos": {
-      "title": "Büyük Videolar",
+      "title": "Büyük Video Bulucu",
       "description": "Depolama alanınızı en çok kaplayan videoları bulun ve yönetin."
     }
   },
@@ -46,18 +46,18 @@
     "label": "UYGULAMA",
     "heading": "Her Özelliği Yakından İnceleyin",
     "smartMaintenance": {
-      "title": "Akıllı Bakım",
-      "description": "Gereksiz ve bulanık fotoğrafları otomatik tespit ederek depolama alanınızı geri kazanın.",
-      "bullet1": "Bulanık ve düşük kaliteli fotoğrafları anında tespit eder",
-      "bullet2": "Gereksiz dosyaları tek dokunuşla temizleyin",
-      "bullet3": "Depolama alanınızı ne kadar kazandığınızı görün"
+      "title": "Akıllı Fotoğraf Temizleyici",
+      "description": "Bulanık ve gereksiz fotoğraflar arasında Tinder gibi kaydır — en iyisini seç, gerisini sil, depolama alanını geri kazan.",
+      "bullet1": "Bulanık ve düşük kaliteli fotoğraflar için en iyi temizleyici",
+      "bullet2": "Gereksiz fotoğrafları tek dokunuşla silin",
+      "bullet3": "iPhone'unuzda ne kadar yer açtığınızı görün"
     },
     "similarPhotos": {
-      "title": "Benzer Fotoğraflar",
-      "description": "Birbirine benzeyen fotoğrafları gruplandırarak en iyisini seçmenizi sağlar.",
-      "bullet1": "AI destekli benzerlik algılama",
-      "bullet2": "En iyi kareyi otomatik önerir",
-      "bullet3": "Toplu silme ile hızlı temizlik"
+      "title": "Fotoğraflarınızı Profesyonel Gibi Eleyin",
+      "description": "iPhone için en hızlı kopya fotoğraf temizleyici — benzer çekimleri gruplayın, en net kareyi seçin, kalanını toplu silin.",
+      "bullet1": "Kopya fotoğrafları anında bul ve temizle",
+      "bullet2": "Akıllı fotoğraf eleme — en net kareyi otomatik seçer",
+      "bullet3": "Benzer ve kopya fotoğrafları toplu sil"
     },
     "screenshots": {
       "title": "Ekran Görüntüleri",
@@ -67,11 +67,11 @@
       "bullet3": "Toplu seçim ve silme desteği"
     },
     "largeVideos": {
-      "title": "Büyük Videolar",
+      "title": "Büyük Video Bulucu",
       "description": "En çok yer kaplayan videoları bulun ve depolama alanınızı optimize edin.",
-      "bullet1": "Videoları boyuta göre sıralar",
-      "bullet2": "Toplam video boyutunu gösterir",
-      "bullet3": "Hızlı önizleme ve silme"
+      "bullet1": "iPhone'da en çok yer kaplayan videoları bul",
+      "bullet2": "Toplam video boyutunu tek bakışta gör",
+      "bullet3": "Önizle ve anında yer aç"
     },
     "hidePhotos": {
       "title": "Fotoğraf Gizleme",
@@ -103,9 +103,26 @@
     "download": "App Store'dan İndir",
     "badges": "Ücretsiz · Reklamsız · Gizlilik Dostu"
   },
+  "pricing": {
+    "label": "ABONELİK YOK",
+    "heading": "Tek Ödeme. Sonsuza Kadar Senin.",
+    "subtext": "Aboneliksiz en iyi iPhone fotoğraf temizleme uygulaması — bir kez öde, sonsuza kadar kullan.",
+    "oneTime": {
+      "title": "Tek Ödeme",
+      "description": "Bir kez öde, sonsuza kadar kullan. Aylık ücret yok, gizli masraf yok."
+    },
+    "noAds": {
+      "title": "Reklam Yok",
+      "description": "Sıfır reklam, sıfır kesinti. Sadece temiz bir deneyim."
+    },
+    "privacy": {
+      "title": "Gizlilik Dostu",
+      "description": "Tüm işlemler cihazınızda. Buluta yükleme yok, fotoğraflarınız sizin."
+    }
+  },
   "faq": {
     "q1": "iPhone'da benzer fotoğrafları silmenin en kolay yolu nedir?",
-    "a1": "Gallery Guy, AI destekli benzerlik algılama ile neredeyse aynı fotoğrafları gruplar. Her grupta en iyi kareyi seçip kalanını tek dokunuşla silebilirsiniz — tek tek karşılaştırmanıza gerek yok.",
+    "a1": "Gallery Guy, akıllı benzerlik algılama ile neredeyse aynı fotoğrafları gruplar. Her grupta en iyi kareyi seçip kalanını tek dokunuşla silebilirsiniz — tek tek karşılaştırmanıza gerek yok.",
     "q2": "iPhone'da seri çekimden en iyi fotoğrafı nasıl seçerim?",
     "a2": "Gallery Guy, seri çekimlerinizi ve benzer fotoğraflarınızı otomatik analiz eder, en net ve en iyi kompozisyonlu kareyi önerir. Slider ile karşılaştırıp seçiminizi onaylayabilirsiniz.",
     "q3": "iPhone'daki kopya fotoğrafları nasıl temizlerim?",
@@ -117,7 +134,7 @@
     "q6": "Fotoğraflar için Tinder benzeri uygulama var mı?",
     "a6": "Gallery Guy tam bir fotoğraf Tinder'ı — benzer çekimleri gruplar, slider ile karşılaştırmanızı sağlar. Beğendiğini sakla, kalanını sil — galeri temizliği hiç bu kadar hızlı ve eğlenceli olmamıştı.",
     "q7": "Aboneliksiz, tek ödemelik iPhone fotoğraf temizleme uygulaması var mı?",
-    "a7": "Gallery Guy tek ödeme ile ömür boyu erişim sunar — aylık abonelik yok, gizli ücret yok. Bir kez öde, tüm özellikleri sonsuza kadar kullan: AI destekli benzer fotoğraf tespiti, bulanık fotoğraf temizliği ve depolama optimizasyonu.",
+    "a7": "Gallery Guy tek ödeme ile ömür boyu erişim sunar — aylık abonelik yok, gizli ücret yok. Bir kez öde, tüm özellikleri sonsuza kadar kullan: akıllı benzer fotoğraf tespiti, bulanık fotoğraf temizliği ve depolama optimizasyonu.",
     "q8": "Eğlenceli bir fotoğraf temizleme uygulaması var mı?",
     "a8": "Gallery Guy fotoğraf temizliğini eğlenceli hale getiriyor — fotoğraflarınız arasında kaydırın, benzerleri yan yana karşılaştırın ve depolama alanınızın gerçek zamanlı olarak açıldığını izleyin. Sıkıcı bir iş, tatmin edici bir deneyime dönüşüyor.",
     "q9": "iPhone için en iyi fotoğraf eleme (culling) uygulaması hangisi?",
@@ -125,9 +142,9 @@
     "q10": "iPhone'da fotoğrafları hızlıca nasıl elerim?",
     "a10": "Gallery Guy'ı indirin ve kütüphanenizi taratın — benzer fotoğrafları anında gruplar. Her grupta kaydırarak en iyisini seçin, kalanını toplu silin. Saatler süren iş dakikalara iniyor.",
     "q11": "Gallery Guy, CleanMyPhone alternatifi mi?",
-    "a11": "Gallery Guy, CleanMyPhone'a güçlü bir alternatif — AI destekli benzer fotoğraf tespiti, bulanık fotoğraf temizliği, ekran görüntüsü yönetimi ve büyük video bulucu sunar. Tek ödeme, abonelik yok, reklam yok, tam gizlilik koruması.",
+    "a11": "Gallery Guy, CleanMyPhone'a güçlü bir alternatif — akıllı benzer fotoğraf tespiti, bulanık fotoğraf temizliği, ekran görüntüsü yönetimi ve büyük video bulucu sunar. Tek ödeme, abonelik yok, reklam yok, tam gizlilik koruması.",
     "q12": "Gallery Guy kullanıcı yorumları nasıl?",
-    "a12": "Gallery Guy, App Store'da 4.9 yıldız puanına sahip. Kullanıcılar kaydırarak karşılaştırma özelliğini, en iyi fotoğrafı otomatik seçen AI'ı ve abonelik yerine tek ödeme modelini seviyor. Reklamsız ve ücretsiz deneme imkanı var."
+    "a12": "Gallery Guy, App Store'da 4.9 yıldız puanına sahip. Kullanıcılar kaydırarak karşılaştırma özelliğini, en iyi kareyi otomatik seçen fotoğraf eleme özelliğini ve abonelik yerine tek ödeme modelini seviyor. Reklamsız ve ücretsiz deneme imkanı var."
   },
   "footer": {
     "tagline": "Galerinizi temiz tutmanın en akıllı yolu.",

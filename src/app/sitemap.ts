@@ -1,7 +1,8 @@
 import type { MetadataRoute } from "next";
+import { routing } from "@/i18n/routing";
 
 const BASE_URL = "https://gallery-guy-web.vercel.app";
-const locales = ["en", "tr"];
+const locales = routing.locales;
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const pages = ["", "/privacy", "/terms"];

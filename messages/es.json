@@ -1,0 +1,160 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "Funciones",
+    "howItWorks": "Cómo Funciona",
+    "about": "Acerca de"
+  },
+  "hero": {
+    "badge": "Gratis para iOS",
+    "taglineStatic": "Conoce al Gallery Guy que",
+    "rotating0": "encuentra las borrosas.",
+    "rotating1": "elimina fotos duplicadas.",
+    "rotating2": "limpia capturas de pantalla.",
+    "rotating3": "libera almacenamiento.",
+    "rotating4": "oculta tus fotos privadas.",
+    "subtagline": "La mejor app para limpiar fotos en iPhone — desliza para comparar como en Tinder, elige la mejor foto, elimina el resto.",
+    "download": "Descargar en App Store",
+    "rating": "Gratis · 4.9 ★",
+    "qrLabel": "Escanea con tu cámara de iPhone",
+    "qrSublabel": "Serás redirigido a la App Store",
+    "compareTitle": "Desliza para Comparar",
+    "compareDescription": "Desliza entre fotos similares para ver las diferencias — elige tus favoritas y deja que Gallery Guy limpie el resto.",
+    "explore": "Explorar"
+  },
+  "features": {
+    "label": "FUNCIONES",
+    "heading": "Todo en Una Sola App",
+    "smartMaintenance": {
+      "title": "Limpiador Inteligente de Fotos",
+      "description": "Detecta automáticamente fotos innecesarias y borrosas, recupera espacio de almacenamiento."
+    },
+    "similarPhotos": {
+      "title": "Eliminador de Fotos Duplicadas",
+      "description": "Agrupa fotos similares, elige la mejor y elimina el resto."
+    },
+    "screenshots": {
+      "title": "Capturas de Pantalla",
+      "description": "Reúne todas las capturas acumuladas en un solo lugar y limpia en lote."
+    },
+    "largeVideos": {
+      "title": "Buscador de Videos Grandes",
+      "description": "Encuentra y gestiona los videos que más espacio ocupan."
+    }
+  },
+  "showcase": {
+    "label": "APP",
+    "heading": "Explora Cada Función de Cerca",
+    "smartMaintenance": {
+      "title": "Limpiador Inteligente de Fotos",
+      "description": "Desliza entre fotos borrosas e innecesarias como en Tinder — elige la mejor toma, elimina el resto y recupera tu espacio.",
+      "bullet1": "El mejor limpiador de fotos borrosas y de baja calidad",
+      "bullet2": "Elimina fotos innecesarias con un solo toque",
+      "bullet3": "Ve cuánto espacio has liberado en tu iPhone"
+    },
+    "similarPhotos": {
+      "title": "Selecciona tus Fotos como un Profesional",
+      "description": "El eliminador de fotos duplicadas más rápido para iPhone — agrupa tomas similares, elige el mejor encuadre y elimina el resto en lote.",
+      "bullet1": "Encuentra y elimina fotos duplicadas al instante",
+      "bullet2": "Selección inteligente — elige automáticamente la foto más nítida",
+      "bullet3": "Elimina fotos similares y duplicadas en lote"
+    },
+    "screenshots": {
+      "title": "Capturas de Pantalla",
+      "description": "Reúne todas tus capturas acumuladas en un solo lugar y gestiónalas fácilmente.",
+      "bullet1": "Agrupa automáticamente todas las capturas",
+      "bullet2": "Ordena y filtra por fecha",
+      "bullet3": "Soporte para selección y eliminación en lote"
+    },
+    "largeVideos": {
+      "title": "Buscador de Videos Grandes",
+      "description": "Encuentra los videos que más espacio ocupan y optimiza tu almacenamiento.",
+      "bullet1": "Encuentra los videos que más espacio ocupan en tu iPhone",
+      "bullet2": "Ve el tamaño total de videos de un vistazo",
+      "bullet3": "Previsualiza y libera espacio al instante"
+    },
+    "hidePhotos": {
+      "title": "Ocultar Fotos",
+      "description": "Oculta de forma segura tus fotos privadas con protección Face ID.",
+      "bullet1": "Álbum oculto protegido con Face ID",
+      "bullet2": "Fotos completamente ocultas de la galería",
+      "bullet3": "Acceso rápido y seguro"
+    }
+  },
+  "howItWorks": {
+    "label": "CÓMO FUNCIONA",
+    "heading": "Galería Limpia en Tres Pasos",
+    "step1": {
+      "title": "Descarga",
+      "description": "Descarga Gallery Guy gratis desde la App Store."
+    },
+    "step2": {
+      "title": "Escanea",
+      "description": "Escanea automáticamente tu galería de fotos."
+    },
+    "step3": {
+      "title": "Limpia",
+      "description": "Selecciona archivos innecesarios y elimínalos con un toque."
+    }
+  },
+  "finalCta": {
+    "heading": "Empieza a Limpiar tu Galería",
+    "subtext": "Descarga gratis, nota la diferencia al instante.",
+    "download": "Descargar en App Store",
+    "badges": "Gratis · Sin Anuncios · Privacidad Protegida"
+  },
+  "pricing": {
+    "label": "SIN SUSCRIPCIÓN",
+    "heading": "Pago Único. Tuyo para Siempre.",
+    "subtext": "El mejor limpiador de fotos para iPhone sin suscripción — paga una vez, úsalo para siempre.",
+    "oneTime": {
+      "title": "Pago Único",
+      "description": "Paga una vez, tuyo para siempre. Sin cuotas mensuales, sin cargos ocultos."
+    },
+    "noAds": {
+      "title": "Sin Anuncios",
+      "description": "Cero anuncios, cero interrupciones. Solo una experiencia limpia."
+    },
+    "privacy": {
+      "title": "Privacidad Protegida",
+      "description": "Todo se procesa en tu dispositivo. Sin subidas a la nube, tus fotos son tuyas."
+    }
+  },
+  "faq": {
+    "q1": "¿Cuál es la mejor forma de eliminar fotos similares en iPhone?",
+    "a1": "Gallery Guy usa detección inteligente de similitud para agrupar fotos casi idénticas. Solo desliza entre cada grupo, elige tu favorita y elimina el resto con un toque — sin necesidad de comparar manualmente.",
+    "q2": "¿Cómo elijo la mejor foto de ráfagas en iPhone?",
+    "a2": "Gallery Guy analiza automáticamente tus ráfagas y fotos similares, sugiriendo el encuadre más nítido y mejor compuesto. Puedes deslizar entre fotos para comparar y confirmar tu elección antes de limpiar.",
+    "q3": "¿Cómo limpiar fotos duplicadas en iPhone?",
+    "a3": "Descarga Gallery Guy desde la App Store, deja que escanee tu biblioteca y agrupará duplicados y casi-duplicados al instante. Selecciona las que quieras conservar y elimina el resto en lote para liberar espacio.",
+    "q4": "¿Hay alguna app gratis para encontrar y eliminar fotos similares en iPhone?",
+    "a4": "Sí — Gallery Guy es completamente gratuita y sin anuncios. Detecta fotos similares, tomas borrosas, capturas de pantalla y videos grandes, ayudándote a recuperar espacio en tu iPhone.",
+    "q5": "¿Hay alguna app para eliminar fotos deslizando en iPhone?",
+    "a5": "Gallery Guy te permite deslizar entre fotos similares como en una app de citas — desliza para conservar tus favoritas y eliminar el resto. Es la forma más rápida de limpiar tu biblioteca de fotos.",
+    "q6": "¿Hay alguna app tipo Tinder para fotos?",
+    "a6": "Gallery Guy funciona como Tinder para tu galería — agrupa tomas similares y te permite deslizar entre ellas para elegir la mejor. Conserva o elimina con un simple deslizamiento, haciendo que limpiar fotos sea rápido y divertido.",
+    "q7": "¿Hay algún limpiador de fotos para iPhone con pago único y sin suscripción?",
+    "a7": "Gallery Guy es un pago único con acceso de por vida — sin suscripción mensual, sin cargos ocultos. Paga una vez y obtén todas las funciones para siempre, incluyendo detección inteligente de fotos similares, limpieza de fotos borrosas y optimización de almacenamiento.",
+    "q8": "¿Hay alguna app divertida para limpiar fotos en iPhone?",
+    "a8": "Gallery Guy hace que limpiar fotos sea realmente entretenido — desliza entre tus fotos como en una app de citas, compara tomas similares lado a lado y observa cómo se libera tu almacenamiento en tiempo real. Convierte una tarea aburrida en una experiencia satisfactoria.",
+    "q9": "¿Cuál es la mejor app para seleccionar fotos en iPhone?",
+    "a9": "Gallery Guy es la app de selección de fotos más rápida para iPhone. Agrupa automáticamente tomas similares y duplicadas, sugiere el mejor encuadre de cada conjunto y te permite eliminar el resto en lote. Perfecta para fotos de vacaciones, eventos o ráfagas del día a día.",
+    "q10": "¿Cómo seleccionar fotos rápido en iPhone?",
+    "a10": "Descarga Gallery Guy y deja que escanee tu biblioteca — agrupa fotos similares al instante. Desliza entre cada grupo, conserva la mejor toma y elimina el resto en lote. Lo que solía tomar horas ahora toma minutos.",
+    "q11": "¿Es Gallery Guy una buena alternativa a CleanMyPhone?",
+    "a11": "Gallery Guy es una excelente alternativa a CleanMyPhone — ofrece detección inteligente de fotos similares, limpieza de fotos borrosas, gestión de capturas de pantalla y buscador de videos grandes. Pago único sin suscripción, sin anuncios y con protección total de privacidad.",
+    "q12": "¿Vale la pena Gallery Guy? ¿Qué dicen las reseñas?",
+    "a12": "Gallery Guy tiene 4.9 estrellas en la App Store. Los usuarios adoran la función de deslizar para comparar, la selección automática de la mejor foto y el hecho de que es un pago único sin suscripción. Es gratis para probar y sin anuncios."
+  },
+  "footer": {
+    "tagline": "La forma más inteligente de mantener tu galería limpia.",
+    "product": "Producto",
+    "productFeatures": "Funciones",
+    "productDownload": "Descargar",
+    "legal": "Legal",
+    "legalPrivacy": "Política de Privacidad",
+    "legalTerms": "Términos de Uso",
+    "copyright": "© 2026 Gallery Guy. Todos los derechos reservados.",
+    "madeIn": "Hecho con ❤ en Turquía"
+  }
+}

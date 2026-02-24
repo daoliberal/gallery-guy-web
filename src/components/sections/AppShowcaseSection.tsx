@@ -96,7 +96,7 @@ export default function AppShowcaseSection() {
               : null;
             const screenshotSrc = !videoSrc && item.screenshotKey
               ? item.screenshotKey === "swipe"
-                ? `/screenshots/${item.screenshotKey}-${locale}.jpeg`
+                ? `/screenshots/${item.screenshotKey}-${["tr", "en"].includes(locale) ? locale : "en"}.jpeg`
                 : `/screenshots/${item.screenshotKey}.png`
               : null;
 

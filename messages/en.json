@@ -9,11 +9,11 @@
     "badge": "Free for iOS",
     "taglineStatic": "Meet the Gallery Guy who",
     "rotating0": "finds the blurry ones.",
-    "rotating1": "spots the duplicates.",
+    "rotating1": "removes duplicate photos.",
     "rotating2": "cleans up screenshots.",
     "rotating3": "frees up storage.",
     "rotating4": "hides your privates.",
-    "subtagline": "Detect unnecessary photos, screenshots, and large videos to keep your gallery clean.",
+    "subtagline": "The best photo cleaner app for iPhone — swipe to compare like Tinder, pick the best shot, delete the rest.",
     "download": "Download on the App Store",
     "rating": "Free · 4.9 ★",
     "qrLabel": "Scan with your iPhone camera",
@@ -26,11 +26,11 @@
     "label": "FEATURES",
     "heading": "Everything in One App",
     "smartMaintenance": {
-      "title": "Smart Maintenance",
+      "title": "Smart Photo Cleaner",
       "description": "Automatically detect unnecessary and blurry photos, reclaim storage space."
     },
     "similarPhotos": {
-      "title": "Similar Photos",
+      "title": "Duplicate Photo Remover",
       "description": "Group similar photos together, pick the best one and delete the rest."
     },
     "screenshots": {
@@ -38,7 +38,7 @@
       "description": "Collect all accumulated screenshots in one place and bulk clean."
     },
     "largeVideos": {
-      "title": "Large Videos",
+      "title": "Large Video Finder",
       "description": "Find and manage the videos taking up the most storage space."
     }
   },
@@ -46,18 +46,18 @@
     "label": "APP",
     "heading": "Explore Every Feature Up Close",
     "smartMaintenance": {
-      "title": "Smart Maintenance",
-      "description": "Automatically detect unnecessary and blurry photos to reclaim your storage space.",
-      "bullet1": "Instantly detects blurry and low-quality photos",
-      "bullet2": "Clean unnecessary files with one tap",
-      "bullet3": "See how much storage you've reclaimed"
+      "title": "Smart Photo Cleaner",
+      "description": "Swipe through blurry and unnecessary photos like Tinder — pick the best shot, delete the rest, and reclaim your storage space.",
+      "bullet1": "Best photo cleaner for blurry and low-quality shots",
+      "bullet2": "Remove unnecessary photos with one tap",
+      "bullet3": "See how much iPhone storage you've freed up"
     },
     "similarPhotos": {
-      "title": "Similar Photos",
-      "description": "Group similar photos together and pick the best shot from each set.",
-      "bullet1": "AI-powered similarity detection",
-      "bullet2": "Automatically suggests the best frame",
-      "bullet3": "Quick cleanup with bulk delete"
+      "title": "Cull Your Photos Like a Pro",
+      "description": "The fastest duplicate photo remover for iPhone — group similar shots, pick the sharpest frame, and bulk-delete the rest.",
+      "bullet1": "Find and remove duplicate photos instantly",
+      "bullet2": "Smart photo culling — auto-picks the sharpest frame",
+      "bullet3": "Bulk delete similar and duplicate photos"
     },
     "screenshots": {
       "title": "Screenshots",
@@ -67,11 +67,11 @@
       "bullet3": "Bulk selection and deletion support"
     },
     "largeVideos": {
-      "title": "Large Videos",
+      "title": "Large Video Finder",
       "description": "Find the videos taking up the most space and optimize your storage.",
-      "bullet1": "Sorts videos by file size",
-      "bullet2": "Shows total video storage usage",
-      "bullet3": "Quick preview and delete"
+      "bullet1": "Find videos taking up the most iPhone storage",
+      "bullet2": "See total video storage at a glance",
+      "bullet3": "Preview and free up space instantly"
     },
     "hidePhotos": {
       "title": "Hide Photos",
@@ -103,9 +103,26 @@
     "download": "Download on the App Store",
     "badges": "Free · No Ads · Privacy Friendly"
   },
+  "pricing": {
+    "label": "NO SUBSCRIPTION NEEDED",
+    "heading": "One-Time Purchase. Yours Forever.",
+    "subtext": "The best iPhone photo cleaner with no subscription — pay once, use forever.",
+    "oneTime": {
+      "title": "One-Time Purchase",
+      "description": "Pay once, own it forever. No monthly fees, no hidden charges."
+    },
+    "noAds": {
+      "title": "No Ads",
+      "description": "Zero ads, zero interruptions. Just a clean experience."
+    },
+    "privacy": {
+      "title": "Privacy Friendly",
+      "description": "All processing on device. No cloud uploads, your photos stay yours."
+    }
+  },
   "faq": {
     "q1": "What is the best way to delete similar photos on iPhone?",
-    "a1": "Gallery Guy uses AI-powered similarity detection to group nearly identical photos together. Just swipe through each group, pick your favorite, and delete the rest with one tap — no manual comparison needed.",
+    "a1": "Gallery Guy uses smart similarity detection to group nearly identical photos together. Just swipe through each group, pick your favorite, and delete the rest with one tap — no manual comparison needed.",
     "q2": "How do I pick the best photo from burst shots on iPhone?",
     "a2": "Gallery Guy automatically analyzes your burst shots and similar photos, then suggests the sharpest, best-composed frame. You can slide between photos to compare and confirm your choice before cleaning up.",
     "q3": "How to clean up duplicate photos on iPhone?",
@@ -117,7 +134,7 @@
     "q6": "Is there a Tinder for photos app?",
     "a6": "Gallery Guy works like Tinder for your photo gallery — it groups similar shots together and lets you swipe through them to pick the best one. Keep or delete with a simple swipe, making photo cleanup fast and fun.",
     "q7": "Is there an iPhone photo cleaner with one-time purchase and no subscription?",
-    "a7": "Gallery Guy is a one-time purchase with lifetime access — no monthly subscription, no hidden fees. Pay once and get all features forever, including AI-powered similar photo detection, blurry photo cleanup, and storage optimization.",
+    "a7": "Gallery Guy is a one-time purchase with lifetime access — no monthly subscription, no hidden fees. Pay once and get all features forever, including smart similar photo detection, blurry photo cleanup, and storage optimization.",
     "q8": "Is there a fun photo cleaner app for iPhone?",
     "a8": "Gallery Guy makes photo cleanup actually enjoyable — swipe through your photos like a dating app, slide to compare similar shots side by side, and watch your storage free up in real time. It turns a boring chore into a satisfying experience.",
     "q9": "What is the best photo culling app for iPhone?",
@@ -125,9 +142,9 @@
     "q10": "How to cull photos fast on iPhone?",
     "a10": "Download Gallery Guy and let it scan your library — it groups similar photos instantly. Swipe through each group, keep the best shot, and delete the rest in bulk. What used to take hours now takes minutes.",
     "q11": "Is Gallery Guy a good CleanMyPhone alternative?",
-    "a11": "Gallery Guy is a top alternative to CleanMyPhone — it offers AI-powered similar photo detection, blurry photo cleanup, screenshot management, and large video finder. One-time purchase with no subscription, no ads, and full privacy protection.",
+    "a11": "Gallery Guy is a top alternative to CleanMyPhone — it offers smart similar photo detection, blurry photo cleanup, screenshot management, and large video finder. One-time purchase with no subscription, no ads, and full privacy protection.",
     "q12": "Is Gallery Guy worth it? What do reviews say?",
-    "a12": "Gallery Guy is rated 4.9 stars on the App Store. Users love the swipe-to-compare feature, the AI that picks the best photo automatically, and the fact that it's a one-time purchase with no subscription. It's free to try with no ads."
+    "a12": "Gallery Guy is rated 4.9 stars on the App Store. Users love the swipe-to-compare feature, the photo culling feature that picks the best shot automatically, and the fact that it's a one-time purchase with no subscription. It's free to try with no ads."
   },
   "footer": {
     "tagline": "The smartest way to keep your gallery clean.",

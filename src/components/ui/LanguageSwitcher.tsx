@@ -1,40 +1,86 @@
 "use client";
 
+import { useState, useRef, useEffect } from "react";
 import { useLocale } from "next-intl";
 import { useRouter, usePathname } from "next/navigation";
+import { routing } from "@/i18n/routing";
+
+const LOCALE_LABELS: Record<string, { short: string; full: string }> = {
+  tr: { short: "TR", full: "Türkçe" },
+  en: { short: "EN", full: "English" },
+  es: { short: "ES", full: "Español" },
+  fr: { short: "FR", full: "Français" },
+  de: { short: "DE", full: "Deutsch" },
+  ar: { short: "AR", full: "العربية" },
+};
 
 export default function LanguageSwitcher() {
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
+  const [open, setOpen] = useState(false);
+  const ref = useRef<HTMLDivElement>(null);
 
   function switchLocale(newLocale: string) {
     const newPath = pathname.replace(`/${locale}`, `/${newLocale}`);
     router.push(newPath);
+    setOpen(false);
   }
 
+  useEffect(() => {
+    function handleClickOutside(e: MouseEvent) {
+      if (ref.current && !ref.current.contains(e.target as Node)) {
+        setOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
+
   return (
-    <div className="glass flex items-center gap-0.5 rounded-full p-1">
+    <div ref={ref} className="relative">
       <button
-        onClick={() => switchLocale("tr")}
-        className={`rounded-full px-3.5 py-1.5 text-xs font-semibold tracking-wide transition-all duration-200 ${
-          locale === "tr"
-            ? "bg-foreground text-white shadow-md"
-            : "text-muted hover:text-foreground"
-        }`}
+        onClick={() => setOpen(!open)}
+        className="glass flex items-center gap-1.5 rounded-full px-3.5 py-1.5 text-xs font-semibold tracking-wide text-foreground transition-all duration-200 hover:bg-white/80"
       >
-        TR
+        {LOCALE_LABELS[locale]?.short ?? locale.toUpperCase()}
+        <svg
+          width="12"
+          height="12"
+          viewBox="0 0 12 12"
+          fill="none"
+          className={`transition-transform duration-200 ${open ? "rotate-180" : ""}`}
+        >
+          <path
+            d="M3 4.5L6 7.5L9 4.5"
+            stroke="currentColor"
+            strokeWidth="1.5"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+          />
+        </svg>
       </button>
-      <button
-        onClick={() => switchLocale("en")}
-        className={`rounded-full px-3.5 py-1.5 text-xs font-semibold tracking-wide transition-all duration-200 ${
-          locale === "en"
-            ? "bg-foreground text-white shadow-md"
-            : "text-muted hover:text-foreground"
-        }`}
-      >
-        EN
-      </button>
+
+      {open && (
+        <div className="glass absolute right-0 mt-2 min-w-[140px] overflow-hidden rounded-xl border border-border p-1 shadow-lg">
+          {routing.locales.map((l) => (
+            <button
+              key={l}
+              onClick={() => switchLocale(l)}
+              className={`flex w-full items-center gap-2 rounded-lg px-3 py-2 text-xs font-semibold tracking-wide transition-all duration-150 ${
+                l === locale
+                  ? "bg-foreground text-white"
+                  : "text-muted hover:bg-black/5 hover:text-foreground"
+              }`}
+            >
+              {LOCALE_LABELS[l]?.short ?? l.toUpperCase()}
+              <span className="font-normal opacity-70">
+                {LOCALE_LABELS[l]?.full ?? l}
+              </span>
+            </button>
+          ))}
+        </div>
+      )}
     </div>
   );
 }

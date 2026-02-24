@@ -3,6 +3,7 @@ import Navbar from "@/components/ui/Navbar";
 import HeroSection from "@/components/sections/HeroSection";
 import AppShowcaseSection from "@/components/sections/AppShowcaseSection";
 import HowItWorksSection from "@/components/sections/HowItWorksSection";
+import PricingValueSection from "@/components/sections/PricingValueSection";
 import FinalCTASection from "@/components/sections/FinalCTASection";
 import Footer from "@/components/sections/Footer";
 import { APP_STORE_URL } from "@/lib/constants";
@@ -36,7 +37,7 @@ export default async function HomePage() {
         },
         url: APP_STORE_URL,
         description:
-          "AI-powered photo gallery cleaner for iPhone. Delete similar photos, blurry shots, screenshots, and large videos with a simple swipe.",
+          "Best photo cleaner app for iPhone — remove duplicate photos, blurry shots, and screenshots with a Tinder-like swipe. One-time purchase, no subscription.",
       },
       {
         "@type": "FAQPage",
@@ -60,6 +61,7 @@ export default async function HomePage() {
       />
       <Navbar />
       <HeroSection />
+      <PricingValueSection />
       <AppShowcaseSection />
       <HowItWorksSection />
       <FinalCTASection />
