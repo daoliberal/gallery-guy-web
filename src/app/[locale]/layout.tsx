@@ -16,23 +16,55 @@ const bricolage = Bricolage_Grotesque({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "Gallery Guy",
-  description: "Galerinizi temiz tutmanın en akıllı yolu.",
-  metadataBase: new URL("https://gallery-guy-web.vercel.app"),
-  openGraph: {
-    title: "Gallery Guy",
-    description: "Galerinizi temiz tutmanın en akıllı yolu.",
-    url: "https://gallery-guy-web.vercel.app",
-    siteName: "Gallery Guy",
-    type: "website",
+const BASE_URL = "https://gallery-guy-web.vercel.app";
+
+const meta: Record<string, { title: string; description: string }> = {
+  en: {
+    title: "Gallery Guy — Best iPhone Photo Cleaner · No Subscription",
+    description:
+      "The best way to delete similar photos on iPhone. AI-powered gallery cleaner — one-time purchase, no subscription. Swipe to compare, pick the best shot, free up storage.",
   },
-  twitter: {
-    card: "summary_large_image",
-    title: "Gallery Guy",
-    description: "Galerinizi temiz tutmanın en akıllı yolu.",
+  tr: {
+    title: "Gallery Guy — En İyi iPhone Galeri Temizleyici · Aboneliksiz",
+    description:
+      "iPhone'daki benzer fotoğrafları silmenin en kolay yolu. AI destekli galeri temizleyici — tek ödeme, abonelik yok. Kaydırarak karşılaştır, en iyisini seç, yer aç.",
   },
 };
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const { title, description } = meta[locale] ?? meta.en;
+  const altLocale = locale === "tr" ? "en" : "tr";
+
+  return {
+    title,
+    description,
+    metadataBase: new URL(BASE_URL),
+    alternates: {
+      canonical: `${BASE_URL}/${locale}`,
+      languages: {
+        [locale]: `${BASE_URL}/${locale}`,
+        [altLocale]: `${BASE_URL}/${altLocale}`,
+      },
+    },
+    openGraph: {
+      title,
+      description,
+      url: `${BASE_URL}/${locale}`,
+      siteName: "Gallery Guy",
+      type: "website",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+    },
+  };
+}
 
 export default async function LocaleLayout({
   children,
