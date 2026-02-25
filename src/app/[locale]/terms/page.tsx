@@ -1640,6 +1640,666 @@ Tətbiq tamamilə cihazınızda işləyir, bulud xidmətləri olmadan.`,
       },
     ],
   },
+  sl: {
+    title: "Pogoji uporabe",
+    effectiveDate: "Datum veljavnosti: 22. februar 2025",
+    sections: [
+      {
+        heading: "Sprejem pogojev",
+        body: "S prenosom, namestitvijo ali uporabo Gallery Guy se strinjate, da vas zavezujejo ti Pogoji uporabe. Če se s temi pogoji ne strinjate, aplikacije ne uporabljajte.",
+      },
+      {
+        heading: "Opis storitve",
+        body: `Gallery Guy je mobilna aplikacija za upravljanje in čiščenje vaše fotogalerije. Funkcije vključujejo:
+
+• Zaznavanje in kategorizacija posnetkov zaslona prek OCR
+• Združevanje in primerjava podobnih fotografij
+• Identifikacija velikih videov
+• Skriti trezor z biometrično zaščito
+• Pametno čiščenje (pregled datotek s podrsavanjem)
+• Upravljanje albumov
+
+Aplikacija deluje v celoti na vaši napravi brez storitev v oblaku.`,
+      },
+      {
+        heading: "Licenca",
+        body: "Podeljujemo vam neizključno, neprenosljivo, preklicljivo licenco za uporabo Gallery Guy za osebne, nekomercialne namene, v skladu s temi pogoji.",
+      },
+      {
+        heading: "Vaše odgovornosti",
+        body: `• Odgovorni ste za vsebino v vaši knjižnici fotografij.
+• Datoteke morate skrbno pregledati pred potrditvijo brisanja.
+• Izbrisane datoteke se premaknejo v mapo \u201ENedavno izbrisano\u201C na vaši napravi, kjer to podpira operacijski sistem, vendar je trajno brisanje nepovratno.
+• Odgovorni ste za vzdrževanje biometrične varnosti vaše naprave za funkcijo Skriti trezor.`,
+      },
+      {
+        heading: "Intelektualna lastnina",
+        body: `Gallery Guy in njegova zasnova, koda in blagovna znamka so v lasti razvijalca. Ime \u201EGallery Guy\u201C, logotip in povezani elementi so last Batur Cihan. Aplikacije ne smete kopirati, spreminjati, distribuirati ali obratno inženiriti.`,
+      },
+      {
+        heading: "Zavrnitev odgovornosti",
+        body: `• Aplikacija je zagotovljena \u201Ekot je\u201C brez kakršnih koli garancij.
+• Ne zagotavljamo, da bo brisanje datotek sprostilo določeno količino prostora.
+• Nismo odgovorni za nenamerno brisanje datotek.
+• Kategorizacija posnetkov zaslona na podlagi OCR morda ni 100 % natančna.
+• Zaznavanje podobnih fotografij je približno in lahko občasno združi različne fotografije.
+• Največja odgovornost je omejena na znesek, plačan za aplikacijo.`,
+      },
+      {
+        heading: "Naročnina in nakupi",
+        body: `• Gallery Guy ponuja enkratni nakup za dosmrtni dostop.
+• Ni samodejnega podaljševanja ali skritih pristojbin.
+• Nakupi se obdelujejo prek Apple App Store.
+• Vračila so predmet politik App Store.`,
+      },
+      {
+        heading: "Spremembe pogojev",
+        body: "Pridržujemo si pravico do posodobitve teh pogojev kadar koli. Nadaljnja uporaba aplikacije po spremembah pomeni sprejem novih pogojev.",
+      },
+      {
+        heading: "Prekinitev",
+        body: "Lahko prekinemo ali začasno ukinemo dostop do aplikacije, če kršite te pogoje. Aplikacijo lahko kadar koli odstranite.",
+      },
+      {
+        heading: "Veljavno pravo",
+        body: "Ti pogoji so urejeni v skladu z zakoni Republike Turčije.",
+      },
+      {
+        heading: "Kontakt",
+        body: "Za vprašanja v zvezi s temi pogoji nas kontaktirajte na: bfrkcihan@gmail.com",
+      },
+      {
+        heading: "Pogoji, specifični za Apple",
+        body: `• Ti pogoji so med vami in Gallery Guy, ne Apple Inc.
+• Apple nima obveznosti zagotavljati storitev vzdrževanja ali podpore za aplikacijo.
+• V primeru neskladnosti s katero koli garancijo lahko obvestite Apple za vračilo kupnine.
+• Apple ni odgovoren za zahtevke tretjih oseb, da aplikacija krši pravice intelektualne lastnine.
+• Apple in podružnice Apple so upravičenci tretjih oseb teh pogojev.`,
+      },
+    ],
+  },
+  pl: {
+    title: "Warunki użytkowania",
+    effectiveDate: "Data wejścia w życie: 22 lutego 2025",
+    sections: [
+      {
+        heading: "Akceptacja warunków",
+        body: "Pobierając, instalując lub korzystając z Gallery Guy, zgadzasz się na przestrzeganie niniejszych Warunków użytkowania. Jeśli nie zgadzasz się z tymi warunkami, nie korzystaj z aplikacji.",
+      },
+      {
+        heading: "Opis usługi",
+        body: `Gallery Guy to aplikacja mobilna do zarządzania i czyszczenia galerii zdjęć. Funkcje obejmują:
+
+• Wykrywanie i kategoryzacja zrzutów ekranu przez OCR
+• Grupowanie i porównywanie podobnych zdjęć
+• Identyfikacja dużych filmów
+• Ukryty sejf z ochroną biometryczną
+• Inteligentne czyszczenie (przegląd plików przesuwaniem)
+• Zarządzanie albumami
+
+Aplikacja działa całkowicie na Twoim urządzeniu bez usług chmurowych.`,
+      },
+      {
+        heading: "Licencja",
+        body: "Udzielamy Ci niewyłącznej, nieprzenoszalnej, odwołalnej licencji na korzystanie z Gallery Guy do celów osobistych, niekomercyjnych, zgodnie z niniejszymi warunkami.",
+      },
+      {
+        heading: "Twoje obowiązki",
+        body: `• Jesteś odpowiedzialny za zawartość swojej biblioteki zdjęć.
+• Powinieneś dokładnie przeglądać pliki przed potwierdzeniem usunięcia.
+• Usunięte pliki są przenoszone do folderu \u201EOstatnio usunięte\u201D na Twoim urządzeniu, gdzie obsługuje to system operacyjny, ale trwałe usunięcie jest nieodwracalne.
+• Jesteś odpowiedzialny za utrzymanie bezpieczeństwa biometrycznego urządzenia dla funkcji Ukryty sejf.`,
+      },
+      {
+        heading: "Własność intelektualna",
+        body: `Gallery Guy i jego projekt, kod i marka są własnością dewelopera. Nazwa \u201EGallery Guy\u201D, logo i powiązane elementy są własnością Batur Cihan. Nie wolno kopiować, modyfikować, dystrybuować ani odtwarzać kodu źródłowego aplikacji.`,
+      },
+      {
+        heading: "Wyłączenie odpowiedzialności",
+        body: `• Aplikacja jest dostarczana \u201Ejak jest\u201D bez jakichkolwiek gwarancji.
+• Nie gwarantujemy, że usunięcie plików zwolni określoną ilość miejsca.
+• Nie ponosimy odpowiedzialności za przypadkowe usunięcie plików.
+• Kategoryzacja zrzutów ekranu oparta na OCR może nie być w 100% dokładna.
+• Wykrywanie podobnych zdjęć jest przybliżone i może czasami grupować różne zdjęcia.
+• Maksymalna odpowiedzialność jest ograniczona do kwoty zapłaconej za aplikację.`,
+      },
+      {
+        heading: "Subskrypcja i zakupy",
+        body: `• Gallery Guy oferuje jednorazowy zakup dla dożywotniego dostępu.
+• Brak automatycznego odnawiania lub ukrytych opłat.
+• Zakupy są przetwarzane przez Apple App Store.
+• Zwroty podlegają zasadom App Store.`,
+      },
+      {
+        heading: "Zmiany warunków",
+        body: "Zastrzegamy sobie prawo do aktualizacji niniejszych warunków w dowolnym momencie. Dalsze korzystanie z aplikacji po zmianach oznacza akceptację nowych warunków.",
+      },
+      {
+        heading: "Rozwiązanie",
+        body: "Możemy zakończyć lub zawiesić dostęp do aplikacji, jeśli naruszysz te warunki. Możesz odinstalować aplikację w dowolnym momencie.",
+      },
+      {
+        heading: "Prawo właściwe",
+        body: "Niniejsze warunki podlegają prawu Republiki Turcji.",
+      },
+      {
+        heading: "Kontakt",
+        body: "W przypadku pytań dotyczących niniejszych warunków, skontaktuj się z nami: bfrkcihan@gmail.com",
+      },
+      {
+        heading: "Warunki specyficzne dla Apple",
+        body: `• Niniejsze warunki obowiązują między Tobą a Gallery Guy, nie Apple Inc.
+• Apple nie ma obowiązku świadczenia usług konserwacji lub wsparcia dla aplikacji.
+• W przypadku niezgodności z jakąkolwiek gwarancją, możesz powiadomić Apple o zwrocie ceny zakupu.
+• Apple nie ponosi odpowiedzialności za roszczenia osób trzecich, że aplikacja narusza prawa własności intelektualnej.
+• Apple i podmioty zależne Apple są beneficjentami trzecimi niniejszych warunków.`,
+      },
+    ],
+  },
+  uk: {
+    title: "Умови використання",
+    effectiveDate: "Дата набрання чинності: 22 лютого 2025",
+    sections: [
+      {
+        heading: "Прийняття умов",
+        body: "Завантажуючи, встановлюючи або використовуючи Gallery Guy, ви погоджуєтесь дотримуватися цих Умов використання. Якщо ви не погоджуєтесь з цими умовами, не використовуйте додаток.",
+      },
+      {
+        heading: "Опис послуги",
+        body: `Gallery Guy — мобільний додаток для керування та очищення вашої фотогалереї. Функції включають:
+
+• Виявлення та категоризація знімків екрана через OCR
+• Групування та порівняння схожих фото
+• Ідентифікація великих відео
+• Прихований сейф із біометричним захистом
+• Розумне очищення (перегляд файлів свайпом)
+• Керування альбомами
+
+Додаток працює повністю на вашому пристрої без хмарних сервісів.`,
+      },
+      {
+        heading: "Ліцензія",
+        body: "Ми надаємо вам невиключну, непередавану, відкличну ліцензію на використання Gallery Guy для особистих, некомерційних цілей, відповідно до цих умов.",
+      },
+      {
+        heading: "Ваші обов'язки",
+        body: `• Ви відповідаєте за вміст вашої бібліотеки фото.
+• Ви повинні ретельно переглядати файли перед підтвердженням видалення.
+• Видалені файли переміщуються до папки \u201CНещодавно видалені\u201D на вашому пристрої, де це підтримує операційна система, але остаточне видалення є безповоротним.
+• Ви відповідаєте за підтримку біометричної безпеки вашого пристрою для функції Прихований сейф.`,
+      },
+      {
+        heading: "Інтелектуальна власність",
+        body: `Gallery Guy та його дизайн, код і брендинг є власністю розробника. Назва \u201CGallery Guy\u201D, логотип та пов\u2019язані елементи є власністю Batur Cihan. Ви не маєте права копіювати, змінювати, розповсюджувати або здійснювати зворотну інженерію додатку.`,
+      },
+      {
+        heading: "Відмова від відповідальності",
+        body: `• Додаток надається \u201Cяк є\u201D без будь-яких гарантій.
+• Ми не гарантуємо, що видалення файлів звільнить певну кількість місця.
+• Ми не несемо відповідальності за випадкове видалення файлів.
+• Категоризація знімків екрана на основі OCR може бути не на 100% точною.
+• Виявлення схожих фото є приблизним і іноді може групувати різні фото.
+• Максимальна відповідальність обмежена сумою, сплаченою за додаток.`,
+      },
+      {
+        heading: "Підписка та покупки",
+        body: `• Gallery Guy пропонує одноразову покупку для довічного доступу.
+• Немає автоматичного поновлення або прихованих платежів.
+• Покупки обробляються через Apple App Store.
+• Повернення коштів підлягає політиці App Store.`,
+      },
+      {
+        heading: "Зміни умов",
+        body: "Ми залишаємо за собою право оновлювати ці умови в будь-який час. Подальше використання додатку після змін означає прийняття нових умов.",
+      },
+      {
+        heading: "Припинення",
+        body: "Ми можемо припинити або призупинити доступ до додатку, якщо ви порушуєте ці умови. Ви можете видалити додаток у будь-який час.",
+      },
+      {
+        heading: "Застосовне право",
+        body: "Ці умови регулюються відповідно до законів Республіки Туреччина.",
+      },
+      {
+        heading: "Контакт",
+        body: "З питань щодо цих умов зв'яжіться з нами: bfrkcihan@gmail.com",
+      },
+      {
+        heading: "Умови, специфічні для Apple",
+        body: `• Ці умови укладені між вами та Gallery Guy, а не Apple Inc.
+• Apple не зобов'язана надавати послуги обслуговування або підтримки додатку.
+• У разі невідповідності будь-якій гарантії, ви можете повідомити Apple про повернення ціни покупки.
+• Apple не несе відповідальності за претензії третіх сторін щодо порушення прав інтелектуальної власності.
+• Apple та дочірні компанії Apple є третіми сторонами-вигодонабувачами цих умов.`,
+      },
+    ],
+  },
+  fi: {
+    title: "Käyttöehdot",
+    effectiveDate: "Voimaantulopäivä: 22. helmikuuta 2025",
+    sections: [
+      {
+        heading: "Ehtojen hyväksyminen",
+        body: "Lataamalla, asentamalla tai käyttämällä Gallery Guyta hyväksyt nämä Käyttöehdot. Jos et hyväksy näitä ehtoja, älä käytä sovellusta.",
+      },
+      {
+        heading: "Palvelun kuvaus",
+        body: `Gallery Guy on mobiilisovellus valokuvagalleriasi hallintaan ja puhdistukseen. Ominaisuudet sisältävät:
+
+• Kuvakaappausten tunnistus ja luokittelu OCR:llä
+• Samankaltaisten kuvien ryhmittely ja vertailu
+• Suurten videoiden tunnistus
+• Piilotettu holvi biometrisellä suojauksella
+• Älykäs puhdistus (tiedostojen tarkastelu pyyhkäisemällä)
+• Albumien hallinta
+
+Sovellus toimii kokonaan laitteellasi ilman pilvipalveluja.`,
+      },
+      {
+        heading: "Lisenssi",
+        body: "Myönnämme sinulle ei-yksinomaisen, ei-siirrettävän, peruutettavissa olevan lisenssin Gallery Guyn käyttöön henkilökohtaisiin, ei-kaupallisiin tarkoituksiin näiden ehtojen mukaisesti.",
+      },
+      {
+        heading: "Sinun vastuusi",
+        body: `• Olet vastuussa valokuvakirjastosi sisällöstä.
+• Sinun tulee tarkistaa tiedostot huolellisesti ennen poiston vahvistamista.
+• Poistetut tiedostot siirretään laitteesi \u201CÄskettäin poistetut\u201D -kansioon, missä käyttöjärjestelmä tukee sitä, mutta pysyvä poisto on peruuttamaton.
+• Olet vastuussa laitteesi biometrisen turvallisuuden ylläpidosta Piilotettu holvi -ominaisuutta varten.`,
+      },
+      {
+        heading: "Immateriaalioikeudet",
+        body: `Gallery Guy ja sen suunnittelu, koodi ja brändäys ovat kehittäjän omaisuutta. \u201CGallery Guy\u201D -nimi, logo ja liittyvät elementit ovat Batur Cihanin omaisuutta. Et saa kopioida, muokata, levittää tai takaisinmallintaa sovellusta.`,
+      },
+      {
+        heading: "Vastuuvapauslauseke",
+        body: `• Sovellus tarjotaan \u201Csellaisenaan\u201D ilman minkäänlaisia takuita.
+• Emme takaa, että tiedostojen poistaminen vapauttaa tietyn määrän tallennustilaa.
+• Emme ole vastuussa tiedostojen tahattomasta poistamisesta.
+• OCR-pohjainen kuvakaappausten luokittelu ei välttämättä ole 100 % tarkka.
+• Samankaltaisten kuvien tunnistus on likimääräistä ja saattaa satunnaisesti ryhmitellä erilaisia kuvia.
+• Enimmäisvastuu rajoittuu sovelluksesta maksettuun summaan.`,
+      },
+      {
+        heading: "Tilaus ja ostot",
+        body: `• Gallery Guy tarjoaa kertaoston elinikäiseen käyttöön.
+• Ei automaattista uusimista tai piilotettuja maksuja.
+• Ostot käsitellään Apple App Storen kautta.
+• Hyvitykset ovat App Storen käytäntöjen alaisia.`,
+      },
+      {
+        heading: "Ehtojen muutokset",
+        body: "Pidätämme oikeuden päivittää näitä ehtoja milloin tahansa. Sovelluksen jatkuva käyttö muutosten jälkeen tarkoittaa uusien ehtojen hyväksymistä.",
+      },
+      {
+        heading: "Irtisanominen",
+        body: "Voimme lopettaa tai keskeyttää pääsyn sovellukseen, jos rikot näitä ehtoja. Voit poistaa sovelluksen milloin tahansa.",
+      },
+      {
+        heading: "Sovellettava laki",
+        body: "Näitä ehtoja säätelee Turkin tasavallan laki.",
+      },
+      {
+        heading: "Yhteystiedot",
+        body: "Näitä ehtoja koskevissa kysymyksissä ota yhteyttä: bfrkcihan@gmail.com",
+      },
+      {
+        heading: "Apple-kohtaiset ehdot",
+        body: `• Nämä ehdot ovat sinun ja Gallery Guyn välisiä, eivät Apple Inc:n.
+• Applella ei ole velvollisuutta tarjota ylläpito- tai tukipalveluja sovellukselle.
+• Takuun noudattamatta jättämisen tapauksessa voit ilmoittaa Applelle ostohinnan hyvitystä varten.
+• Apple ei ole vastuussa kolmansien osapuolten vaatimuksista, että sovellus loukkaa immateriaalioikeuksia.
+• Apple ja Applen tytäryhtiöt ovat näiden ehtojen kolmannen osapuolen edunsaajia.`,
+      },
+    ],
+  },
+  hu: {
+    title: "Felhasználási feltételek",
+    effectiveDate: "Hatálybalépés dátuma: 2025. február 22.",
+    sections: [
+      {
+        heading: "Feltételek elfogadása",
+        body: "A Gallery Guy letöltésével, telepítésével vagy használatával elfogadod ezeket a Felhasználási feltételeket. Ha nem értesz egyet ezekkel a feltételekkel, ne használd az alkalmazást.",
+      },
+      {
+        heading: "Szolgáltatás leírása",
+        body: `A Gallery Guy egy mobilalkalmazás a fotógalériád kezelésére és tisztítására. A funkciók a következők:
+
+• Képernyőképek felismerése és kategorizálása OCR-rel
+• Hasonló fotók csoportosítása és összehasonlítása
+• Nagy videók azonosítása
+• Rejtett széf biometrikus védelemmel
+• Intelligens tisztítás (fájlok áttekintése húzással)
+• Albumkezelés
+
+Az alkalmazás teljes egészében az eszközödön működik felhőszolgáltatások nélkül.`,
+      },
+      {
+        heading: "Licenc",
+        body: "Nem kizárólagos, nem átruházható, visszavonható licencet adunk a Gallery Guy személyes, nem kereskedelmi célú használatára, ezen feltételek szerint.",
+      },
+      {
+        heading: "Az te felelősséged",
+        body: `• Te vagy felelős a fotókönyvtárad tartalmáért.
+• A fájlokat gondosan át kell nézned a törlés megerősítése előtt.
+• A törölt fájlok az eszközöd \u201ENemrég törölt\u201D mappájába kerülnek, ahol az operációs rendszer támogatja, de a végleges törlés visszafordíthatatlan.
+• Te vagy felelős az eszközöd biometrikus biztonságának fenntartásáért a Rejtett széf funkcióhoz.`,
+      },
+      {
+        heading: "Szellemi tulajdon",
+        body: `A Gallery Guy és annak tervezése, kódja és márkája a fejlesztő tulajdonát képezi. A \u201EGallery Guy\u201D név, logó és kapcsolódó elemek Batur Cihan tulajdonát képezik. Nem másolhatod, módosíthatod, terjesztheted vagy visszafejtheted az alkalmazást.`,
+      },
+      {
+        heading: "Felelősségkizárás",
+        body: `• Az alkalmazás \u201Eúgy ahogy van\u201D állapotban kerül biztosításra, mindenféle garancia nélkül.
+• Nem garantáljuk, hogy a fájlok törlése meghatározott mennyiségű tárhelyet szabadít fel.
+• Nem vállalunk felelősséget a fájlok véletlen törléséért.
+• Az OCR-alapú képernyőkép-kategorizálás nem biztos, hogy 100%-ban pontos.
+• A hasonló fotók felismerése közelítő jellegű, és alkalmanként különböző fotókat is csoportosíthat.
+• A maximális felelősség az alkalmazásért fizetett összegre korlátozódik.`,
+      },
+      {
+        heading: "Előfizetés és vásárlások",
+        body: `• A Gallery Guy egyszeri vásárlást kínál élethosszig tartó hozzáférésért.
+• Nincs automatikus megújítás vagy rejtett díj.
+• A vásárlásokat az Apple App Store-on keresztül dolgozzák fel.
+• A visszatérítésekre az App Store irányelvei vonatkoznak.`,
+      },
+      {
+        heading: "Feltételek módosítása",
+        body: "Fenntartjuk a jogot ezen feltételek bármikori frissítésére. Az alkalmazás további használata a módosítások után az új feltételek elfogadását jelenti.",
+      },
+      {
+        heading: "Megszüntetés",
+        body: "Megszüntethetjük vagy felfüggeszthetjük az alkalmazáshoz való hozzáférést, ha megszeged ezeket a feltételeket. Az alkalmazást bármikor eltávolíthatod.",
+      },
+      {
+        heading: "Alkalmazandó jog",
+        body: "Ezeket a feltételeket a Török Köztársaság törvényei szabályozzák.",
+      },
+      {
+        heading: "Kapcsolat",
+        body: "A feltételekkel kapcsolatos kérdésekkel fordulj hozzánk: bfrkcihan@gmail.com",
+      },
+      {
+        heading: "Apple-specifikus feltételek",
+        body: `• Ezek a feltételek közted és a Gallery Guy között jöttek létre, nem az Apple Inc.-vel.
+• Az Apple-nek nincs kötelezettsége karbantartási vagy támogatási szolgáltatások nyújtására az alkalmazáshoz.
+• Bármely garancia be nem tartása esetén értesítheted az Apple-t a vételár visszatérítéséért.
+• Az Apple nem felelős harmadik felek azon állításaiért, hogy az alkalmazás szellemi tulajdonjogokat sért.
+• Az Apple és az Apple leányvállalatai ezen feltételek harmadik fél kedvezményezettjei.`,
+      },
+    ],
+  },
+  sr: {
+    title: "Uslovi korišćenja",
+    effectiveDate: "Datum stupanja na snagu: 22. februar 2025.",
+    sections: [
+      {
+        heading: "Prihvatanje uslova",
+        body: "Korišćenjem aplikacije Gallery Guy prihvatate ove Uslove korišćenja. Ako se ne slažete sa bilo kojim delom ovih uslova, ne koristite aplikaciju.",
+      },
+      {
+        heading: "Opis usluge",
+        body: "Gallery Guy je iOS aplikacija za upravljanje fotografijama koja korisnicima pomaže da organizuju, čiste i optimizuju svoju biblioteku fotografija. Aplikacija obrađuje fotografije lokalno na vašem uređaju.",
+      },
+      {
+        heading: "Privatnost i obrada podataka",
+        body: "Gallery Guy obrađuje sve fotografije lokalno na vašem uređaju. Ne prikupljamo, ne skladištimo i ne prenosimo vaše fotografije ili lične podatke na eksterne servere. Za više detalja pogledajte našu Politiku privatnosti.",
+      },
+      {
+        heading: "Korisnička licenca",
+        body: "Odobravamo vam ograničenu, neekskluzivnu, neprenosivu licencu za korišćenje Gallery Guy-a za lične, nekomercijalne svrhe na iOS uređajima koje posedujete ili kontrolišete.",
+      },
+      {
+        heading: "Kupovine unutar aplikacije",
+        body: "Gallery Guy nudi jednokratnu kupovinu za otključavanje premium funkcija. Sve kupovine se obrađuju preko Apple-ovog App Store-a i podležu Apple-ovim uslovima i politikama. Sve kupovine su konačne i nepovratne, osim ako Apple-ova politika ne nalaže drugačije.",
+      },
+      {
+        heading: "Zabranjena upotreba",
+        body: `Ne smete:\n• Vršiti obrnuti inženjering, dekompilaciju ili rastavljanje aplikacije\n• Koristiti aplikaciju u nezakonite svrhe\n• Pokušavati da pristupite neovlašćenim funkcijama ili sistemima\n• Redistribuirati ili preprodavati aplikaciju ili bilo koji njen deo`,
+      },
+      {
+        heading: "Intelektualna svojina",
+        body: `Sav sadržaj, funkcije i funkcionalnost Gallery Guy-a (uključujući ali ne ograničavajući se na dizajn, kod i grafiku) u vlasništvu su Gallery Guy-a i zaštićeni su međunarodnim zakonima o autorskim pravima, žigovima i drugim zakonima o intelektualnoj svojini.`,
+      },
+      {
+        heading: "Odricanje od garancija",
+        body: `Gallery Guy se pruža \u201Ekako jeste\u201C i \u201Ekako je dostupno\u201C bez ikakvih garancija. Ne garantujemo da će aplikacija biti bez grešaka, bezbedna ili neprekidno dostupna.`,
+      },
+      {
+        heading: "Ograničenje odgovornosti",
+        body: "U najvećoj meri dozvoljenoj zakonom, Gallery Guy neće biti odgovoran za bilo kakvu indirektnu, slučajnu, posebnu, posledičnu ili kaznenu štetu koja proizilazi iz vašeg korišćenja aplikacije ili nemogućnosti korišćenja.",
+      },
+      {
+        heading: "Izmene uslova",
+        body: "Zadržavamo pravo da izmenimo ove uslove u bilo kom trenutku. Nastavak korišćenja aplikacije nakon izmena predstavlja prihvatanje novih uslova.",
+      },
+      {
+        heading: "Merodavno pravo",
+        body: "Ovi uslovi se tumače u skladu sa zakonima Republike Turske, bez obzira na odredbe o sukobu zakona.",
+      },
+      {
+        heading: "Apple-ovi uslovi za licencirane aplikacije",
+        body: `Ovi uslovi uključuju odredbe koje zahteva Apple za aplikacije distribuirane putem App Store-a:\n• Ovi uslovi su između vas i Gallery Guy-a, ne sa Apple-om.\n• Apple nije odgovoran za Gallery Guy ili njegov sadržaj.\n• Apple nema obavezu pružanja usluga održavanja ili podrške za Gallery Guy.\n• U slučaju da aplikacija ne ispunjava garanciju, možete obavestiti Apple, a Apple može refundirati nabavnu cenu (ako je primenjivo). Apple nema druge garantne obaveze.\n• Apple nije odgovoran za potraživanja trećih strana da aplikacija krši prava intelektualne svojine.\n• Apple i Apple-ove filijale su treća lica korisnici ovih uslova.`,
+      },
+    ],
+  },
+  he: {
+    title: "תנאי שימוש",
+    effectiveDate: "תאריך תוקף: 22 בפברואר 2025",
+    sections: [
+      {
+        heading: "קבלת התנאים",
+        body: "השימוש באפליקציית Gallery Guy מהווה הסכמה לתנאי שימוש אלה. אם אינכם מסכימים לחלק כלשהו מתנאים אלה, אנא אל תשתמשו באפליקציה.",
+      },
+      {
+        heading: "תיאור השירות",
+        body: "Gallery Guy היא אפליקציית iOS לניהול תמונות שעוזרת למשתמשים לארגן, לנקות ולמטב את ספריית התמונות שלהם. האפליקציה מעבדת תמונות באופן מקומי על המכשיר שלכם.",
+      },
+      {
+        heading: "פרטיות ועיבוד נתונים",
+        body: "Gallery Guy מעבד את כל התמונות באופן מקומי על המכשיר שלכם. איננו אוספים, מאחסנים או מעבירים את התמונות או המידע האישי שלכם לשרתים חיצוניים. לפרטים נוספים עיינו במדיניות הפרטיות שלנו.",
+      },
+      {
+        heading: "רישיון משתמש",
+        body: "אנו מעניקים לכם רישיון מוגבל, לא בלעדי ולא ניתן להעברה לשימוש ב-Gallery Guy למטרות אישיות ולא מסחריות על מכשירי iOS שבבעלותכם או בשליטתכם.",
+      },
+      {
+        heading: "רכישות בתוך האפליקציה",
+        body: "Gallery Guy מציע רכישה חד-פעמית לפתיחת תכונות פרימיום. כל הרכישות מעובדות דרך App Store של Apple ובכפוף לתנאים ולמדיניות של Apple. כל הרכישות הן סופיות ואינן ניתנות להחזר, אלא אם מדיניות Apple מחייבת אחרת.",
+      },
+      {
+        heading: "שימוש אסור",
+        body: `אינכם רשאים:\n\u2022 לבצע הנדסה הפוכה, לפרק או לפענח את האפליקציה\n\u2022 להשתמש באפליקציה למטרות בלתי חוקיות\n\u2022 לנסות לגשת לתכונות או למערכות שאינן מורשות\n\u2022 להפיץ מחדש או למכור מחדש את האפליקציה או חלק ממנה`,
+      },
+      {
+        heading: "קניין רוחני",
+        body: `כל התוכן, התכונות והפונקציונליות של Gallery Guy (כולל אך לא מוגבל לעיצוב, קוד וגרפיקה) הם בבעלות Gallery Guy ומוגנים על ידי חוקי זכויות יוצרים, סימנים מסחריים וקניין רוחני בינלאומיים.`,
+      },
+      {
+        heading: "הגבלת אחריות",
+        body: `Gallery Guy מסופק \u201Eכמות שהוא\u201C ו\u201Eכפי שזמין\u201C ללא כל אחריות מכל סוג. איננו מתחייבים שהאפליקציה תהיה ללא שגיאות, מאובטחת או זמינה ללא הפרעה.`,
+      },
+      {
+        heading: "הגבלת חבות",
+        body: "במידה המרבית המותרת על פי החוק, Gallery Guy לא יהיה אחראי לכל נזק עקיף, מקרי, מיוחד, תוצאתי או עונשי הנובע משימושכם או מחוסר יכולתכם להשתמש באפליקציה.",
+      },
+      {
+        heading: "שינויים בתנאים",
+        body: "אנו שומרים לעצמנו את הזכות לשנות תנאים אלה בכל עת. המשך השימוש באפליקציה לאחר השינויים מהווה הסכמה לתנאים המעודכנים.",
+      },
+      {
+        heading: "דין חל",
+        body: "תנאים אלה יפורשו בהתאם לחוקי הרפובליקה של טורקיה, ללא התחשבות בהוראות ברירת דין.",
+      },
+      {
+        heading: "תנאי Apple לאפליקציות ברישיון",
+        body: `תנאים אלה כוללים הוראות הנדרשות על ידי Apple עבור אפליקציות המופצות דרך App Store:\n\u2022 תנאים אלה הם בינכם לבין Gallery Guy, לא עם Apple.\n\u2022 Apple אינה אחראית ל-Gallery Guy או לתוכנו.\n\u2022 ל-Apple אין חובה לספק שירותי תחזוקה או תמיכה עבור Gallery Guy.\n\u2022 אם האפליקציה אינה עומדת באחריות כלשהי, תוכלו להודיע ל-Apple, ו-Apple עשויה להחזיר את מחיר הרכישה (אם רלוונטי). ל-Apple אין חובות אחריות נוספות.\n\u2022 Apple אינה אחראית לתביעות צד שלישי לפיהן האפליקציה מפרה זכויות קניין רוחני.\n\u2022 Apple וחברות הבת של Apple הם צדדים שלישיים מוטבים של תנאים אלה.`,
+      },
+    ],
+  },
+  id: {
+    title: "Syarat Penggunaan",
+    effectiveDate: "Tanggal berlaku: 22 Februari 2025",
+    sections: [
+      {
+        heading: "Penerimaan Syarat",
+        body: "Dengan menggunakan aplikasi Gallery Guy, Anda menyetujui Syarat Penggunaan ini. Jika Anda tidak setuju dengan bagian mana pun dari syarat ini, mohon jangan gunakan aplikasi.",
+      },
+      {
+        heading: "Deskripsi Layanan",
+        body: "Gallery Guy adalah aplikasi manajemen foto iOS yang membantu pengguna mengatur, membersihkan, dan mengoptimalkan perpustakaan foto mereka. Aplikasi memproses foto secara lokal di perangkat Anda.",
+      },
+      {
+        heading: "Privasi dan Pemrosesan Data",
+        body: "Gallery Guy memproses semua foto secara lokal di perangkat Anda. Kami tidak mengumpulkan, menyimpan, atau mengirimkan foto atau informasi pribadi Anda ke server eksternal. Silakan lihat Kebijakan Privasi kami untuk detail lebih lanjut.",
+      },
+      {
+        heading: "Lisensi Pengguna",
+        body: "Kami memberikan Anda lisensi terbatas, non-eksklusif, dan tidak dapat dipindahtangankan untuk menggunakan Gallery Guy untuk tujuan pribadi dan non-komersial pada perangkat iOS yang Anda miliki atau kontrol.",
+      },
+      {
+        heading: "Pembelian Dalam Aplikasi",
+        body: "Gallery Guy menawarkan pembelian sekali bayar untuk membuka fitur premium. Semua pembelian diproses melalui App Store Apple dan tunduk pada syarat dan kebijakan Apple. Semua pembelian bersifat final dan tidak dapat dikembalikan, kecuali jika kebijakan Apple mengharuskan sebaliknya.",
+      },
+      {
+        heading: "Penggunaan yang Dilarang",
+        body: "Anda tidak boleh:\n\u2022 Melakukan rekayasa balik, mendekompilasi, atau membongkar aplikasi\n\u2022 Menggunakan aplikasi untuk tujuan ilegal\n\u2022 Mencoba mengakses fitur atau sistem yang tidak sah\n\u2022 Mendistribusikan ulang atau menjual kembali aplikasi atau bagian mana pun darinya",
+      },
+      {
+        heading: "Kekayaan Intelektual",
+        body: "Semua konten, fitur, dan fungsionalitas Gallery Guy (termasuk namun tidak terbatas pada desain, kode, dan grafik) dimiliki oleh Gallery Guy dan dilindungi oleh hak cipta internasional, merek dagang, dan hukum kekayaan intelektual lainnya.",
+      },
+      {
+        heading: "Penafian Jaminan",
+        body: `Gallery Guy disediakan \u201Eapa adanya\u201C dan \u201Esebagaimana tersedia\u201C tanpa jaminan apa pun. Kami tidak menjamin bahwa aplikasi akan bebas dari kesalahan, aman, atau tersedia tanpa gangguan.`,
+      },
+      {
+        heading: "Batasan Tanggung Jawab",
+        body: "Sejauh diizinkan oleh hukum, Gallery Guy tidak bertanggung jawab atas kerusakan tidak langsung, insidental, khusus, konsekuensial, atau hukuman yang timbul dari penggunaan atau ketidakmampuan Anda menggunakan aplikasi.",
+      },
+      {
+        heading: "Perubahan Syarat",
+        body: "Kami berhak mengubah syarat ini kapan saja. Penggunaan berkelanjutan atas aplikasi setelah perubahan merupakan persetujuan atas syarat yang diperbarui.",
+      },
+      {
+        heading: "Hukum yang Berlaku",
+        body: "Syarat ini akan ditafsirkan sesuai dengan hukum Republik Turki, tanpa memperhatikan ketentuan pertentangan hukum.",
+      },
+      {
+        heading: "Syarat Apple untuk Aplikasi Berlisensi",
+        body: `Syarat ini mencakup ketentuan yang diwajibkan oleh Apple untuk aplikasi yang didistribusikan melalui App Store:\n\u2022 Syarat ini adalah antara Anda dan Gallery Guy, bukan dengan Apple.\n\u2022 Apple tidak bertanggung jawab atas Gallery Guy atau kontennya.\n\u2022 Apple tidak memiliki kewajiban untuk menyediakan layanan pemeliharaan atau dukungan untuk Gallery Guy.\n\u2022 Jika aplikasi gagal memenuhi jaminan apa pun, Anda dapat memberitahu Apple, dan Apple dapat mengembalikan harga pembelian (jika berlaku). Apple tidak memiliki kewajiban jaminan lainnya.\n\u2022 Apple tidak bertanggung jawab atas klaim pihak ketiga bahwa aplikasi melanggar hak kekayaan intelektual.\n\u2022 Apple dan anak perusahaan Apple adalah penerima manfaat pihak ketiga dari syarat ini.`,
+      },
+    ],
+  },
+  th: {
+    title: "ข้อกำหนดการใช้งาน",
+    effectiveDate: "วันที่มีผลบังคับใช้: 22 กุมภาพันธ์ 2025",
+    sections: [
+      {
+        heading: "การยอมรับข้อกำหนด",
+        body: "การใช้แอปพลิเคชัน Gallery Guy ถือว่าคุณยอมรับข้อกำหนดการใช้งานเหล่านี้ หากคุณไม่เห็นด้วยกับส่วนใดของข้อกำหนดเหล่านี้ กรุณาอย่าใช้แอปพลิเคชัน",
+      },
+      {
+        heading: "รายละเอียดบริการ",
+        body: "Gallery Guy เป็นแอปพลิเคชัน iOS สำหรับจัดการรูปภาพที่ช่วยผู้ใช้จัดระเบียบ ทำความสะอาด และเพิ่มประสิทธิภาพคลังรูปภาพ แอปพลิเคชันประมวลผลรูปภาพภายในเครื่องบนอุปกรณ์ของคุณ",
+      },
+      {
+        heading: "ความเป็นส่วนตัวและการประมวลผลข้อมูล",
+        body: "Gallery Guy ประมวลผลรูปภาพทั้งหมดภายในเครื่องบนอุปกรณ์ของคุณ เราไม่เก็บรวบรวม จัดเก็บ หรือส่งรูปภาพหรือข้อมูลส่วนบุคคลของคุณไปยังเซิร์ฟเวอร์ภายนอก กรุณาดูนโยบายความเป็นส่วนตัวของเราสำหรับรายละเอียดเพิ่มเติม",
+      },
+      {
+        heading: "สิทธิ์การใช้งานของผู้ใช้",
+        body: "เราให้สิทธิ์การใช้งานที่จำกัด ไม่ผูกขาด และไม่สามารถโอนได้แก่คุณในการใช้ Gallery Guy เพื่อวัตถุประสงค์ส่วนบุคคลและไม่ใช่เชิงพาณิชย์บนอุปกรณ์ iOS ที่คุณเป็นเจ้าของหรือควบคุม",
+      },
+      {
+        heading: "การซื้อในแอป",
+        body: "Gallery Guy เสนอการซื้อครั้งเดียวเพื่อปลดล็อกฟีเจอร์พรีเมียม การซื้อทั้งหมดดำเนินการผ่าน App Store ของ Apple และอยู่ภายใต้ข้อกำหนดและนโยบายของ Apple การซื้อทั้งหมดเป็นที่สิ้นสุดและไม่สามารถคืนเงินได้ เว้นแต่นโยบายของ Apple กำหนดเป็นอย่างอื่น",
+      },
+      {
+        heading: "การใช้งานที่ห้าม",
+        body: "คุณไม่สามารถ:\n\u2022 ทำวิศวกรรมย้อนกลับ ถอดรหัส หรือแยกส่วนแอปพลิเคชัน\n\u2022 ใช้แอปพลิเคชันเพื่อวัตถุประสงค์ที่ผิดกฎหมาย\n\u2022 พยายามเข้าถึงฟีเจอร์หรือระบบที่ไม่ได้รับอนุญาต\n\u2022 แจกจ่ายซ้ำหรือขายต่อแอปพลิเคชันหรือส่วนใดส่วนหนึ่ง",
+      },
+      {
+        heading: "ทรัพย์สินทางปัญญา",
+        body: "เนื้อหา ฟีเจอร์ และฟังก์ชันทั้งหมดของ Gallery Guy (รวมถึงแต่ไม่จำกัดเพียงการออกแบบ โค้ด และกราฟิก) เป็นของ Gallery Guy และได้รับการคุ้มครองโดยกฎหมายลิขสิทธิ์ เครื่องหมายการค้า และทรัพย์สินทางปัญญาระหว่างประเทศ",
+      },
+      {
+        heading: "การปฏิเสธการรับประกัน",
+        body: `Gallery Guy ให้บริการ \u201Eตามสภาพ\u201C และ \u201Eตามที่มีให้บริการ\u201C โดยไม่มีการรับประกันใดๆ เราไม่รับประกันว่าแอปพลิเคชันจะปราศจากข้อผิดพลาด ปลอดภัย หรือพร้อมใช้งานอย่างต่อเนื่อง`,
+      },
+      {
+        heading: "การจำกัดความรับผิด",
+        body: "ในขอบเขตสูงสุดที่กฎหมายอนุญาต Gallery Guy จะไม่รับผิดชอบต่อความเสียหายทางอ้อม โดยบังเอิญ พิเศษ เป็นผลสืบเนื่อง หรือเชิงลงโทษที่เกิดจากการใช้งานหรือไม่สามารถใช้งานแอปพลิเคชันของคุณ",
+      },
+      {
+        heading: "การเปลี่ยนแปลงข้อกำหนด",
+        body: "เราขอสงวนสิทธิ์ในการแก้ไขข้อกำหนดเหล่านี้ได้ตลอดเวลา การใช้งานแอปพลิเคชันอย่างต่อเนื่องหลังจากการเปลี่ยนแปลงถือเป็นการยอมรับข้อกำหนดที่อัปเดต",
+      },
+      {
+        heading: "กฎหมายที่ใช้บังคับ",
+        body: "ข้อกำหนดเหล่านี้จะตีความตามกฎหมายของสาธารณรัฐตุรกี โดยไม่คำนึงถึงบทบัญญัติว่าด้วยการขัดกันของกฎหมาย",
+      },
+      {
+        heading: "ข้อกำหนดของ Apple สำหรับแอปพลิเคชันที่ได้รับอนุญาต",
+        body: `ข้อกำหนดเหล่านี้รวมถึงบทบัญญัติที่ Apple กำหนดสำหรับแอปพลิเคชันที่จำหน่ายผ่าน App Store:\n\u2022 ข้อกำหนดเหล่านี้เป็นระหว่างคุณกับ Gallery Guy ไม่ใช่กับ Apple\n\u2022 Apple ไม่รับผิดชอบต่อ Gallery Guy หรือเนื้อหาของมัน\n\u2022 Apple ไม่มีภาระผูกพันในการให้บริการบำรุงรักษาหรือสนับสนุนสำหรับ Gallery Guy\n\u2022 หากแอปพลิเคชันไม่เป็นไปตามการรับประกันใดๆ คุณสามารถแจ้ง Apple และ Apple อาจคืนเงินค่าซื้อ (ถ้ามี) Apple ไม่มีภาระผูกพันการรับประกันอื่นใด\n\u2022 Apple ไม่รับผิดชอบต่อการเรียกร้องของบุคคลที่สามว่าแอปพลิเคชันละเมิดสิทธิ์ทรัพย์สินทางปัญญา\n\u2022 Apple และบริษัทในเครือของ Apple เป็นผู้รับผลประโยชน์บุคคลที่สามของข้อกำหนดเหล่านี้`,
+      },
+    ],
+  },
+  vi: {
+    title: "Điều khoản sử dụng",
+    effectiveDate: "Ngày có hiệu lực: 22 tháng 2 năm 2025",
+    sections: [
+      {
+        heading: "Chấp nhận điều khoản",
+        body: "Bằng việc sử dụng ứng dụng Gallery Guy, bạn đồng ý với các Điều khoản sử dụng này. Nếu bạn không đồng ý với bất kỳ phần nào của các điều khoản này, vui lòng không sử dụng ứng dụng.",
+      },
+      {
+        heading: "Mô tả dịch vụ",
+        body: "Gallery Guy là ứng dụng quản lý ảnh iOS giúp người dùng sắp xếp, dọn dẹp và tối ưu hóa thư viện ảnh. Ứng dụng xử lý ảnh cục bộ trên thiết bị của bạn.",
+      },
+      {
+        heading: "Quyền riêng tư và xử lý dữ liệu",
+        body: "Gallery Guy xử lý tất cả ảnh cục bộ trên thiết bị của bạn. Chúng tôi không thu thập, lưu trữ hoặc truyền ảnh hoặc thông tin cá nhân của bạn đến máy chủ bên ngoài. Vui lòng xem Chính sách bảo mật của chúng tôi để biết thêm chi tiết.",
+      },
+      {
+        heading: "Giấy phép người dùng",
+        body: "Chúng tôi cấp cho bạn giấy phép hạn chế, không độc quyền, không thể chuyển nhượng để sử dụng Gallery Guy cho mục đích cá nhân, phi thương mại trên các thiết bị iOS mà bạn sở hữu hoặc kiểm soát.",
+      },
+      {
+        heading: "Mua hàng trong ứng dụng",
+        body: "Gallery Guy cung cấp gói mua một lần để mở khóa tính năng cao cấp. Tất cả giao dịch mua được xử lý qua App Store của Apple và tuân theo các điều khoản và chính sách của Apple. Tất cả giao dịch mua là cuối cùng và không hoàn lại, trừ khi chính sách của Apple yêu cầu khác.",
+      },
+      {
+        heading: "Sử dụng bị cấm",
+        body: "Bạn không được:\n\u2022 Dịch ngược, giải mã hoặc tháo rời ứng dụng\n\u2022 Sử dụng ứng dụng cho mục đích bất hợp pháp\n\u2022 Cố gắng truy cập các tính năng hoặc hệ thống trái phép\n\u2022 Phân phối lại hoặc bán lại ứng dụng hoặc bất kỳ phần nào của nó",
+      },
+      {
+        heading: "Sở hữu trí tuệ",
+        body: "Tất cả nội dung, tính năng và chức năng của Gallery Guy (bao gồm nhưng không giới hạn ở thiết kế, mã và đồ họa) thuộc sở hữu của Gallery Guy và được bảo vệ bởi luật bản quyền, thương hiệu và sở hữu trí tuệ quốc tế.",
+      },
+      {
+        heading: "Từ chối bảo hành",
+        body: `Gallery Guy được cung cấp \u201Enguyên trạng\u201C và \u201Enhư hiện có\u201C mà không có bất kỳ bảo hành nào. Chúng tôi không đảm bảo rằng ứng dụng sẽ không có lỗi, an toàn hoặc luôn khả dụng.`,
+      },
+      {
+        heading: "Giới hạn trách nhiệm",
+        body: "Trong phạm vi tối đa được pháp luật cho phép, Gallery Guy sẽ không chịu trách nhiệm cho bất kỳ thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, hậu quả hoặc trừng phạt nào phát sinh từ việc sử dụng hoặc không thể sử dụng ứng dụng.",
+      },
+      {
+        heading: "Thay đổi điều khoản",
+        body: "Chúng tôi có quyền sửa đổi các điều khoản này bất cứ lúc nào. Việc tiếp tục sử dụng ứng dụng sau khi thay đổi đồng nghĩa với việc chấp nhận các điều khoản cập nhật.",
+      },
+      {
+        heading: "Luật áp dụng",
+        body: "Các điều khoản này sẽ được diễn giải theo luật pháp của Cộng hòa Thổ Nhĩ Kỳ, không tính đến các quy định về xung đột pháp luật.",
+      },
+      {
+        heading: "Điều khoản của Apple cho ứng dụng được cấp phép",
+        body: `Các điều khoản này bao gồm các quy định mà Apple yêu cầu đối với ứng dụng phân phối qua App Store:\n\u2022 Các điều khoản này là giữa bạn và Gallery Guy, không phải với Apple.\n\u2022 Apple không chịu trách nhiệm về Gallery Guy hoặc nội dung của nó.\n\u2022 Apple không có nghĩa vụ cung cấp dịch vụ bảo trì hoặc hỗ trợ cho Gallery Guy.\n\u2022 Nếu ứng dụng không đáp ứng bảo hành nào, bạn có thể thông báo cho Apple và Apple có thể hoàn lại giá mua (nếu có). Apple không có nghĩa vụ bảo hành nào khác.\n\u2022 Apple không chịu trách nhiệm về các khiếu nại của bên thứ ba rằng ứng dụng vi phạm quyền sở hữu trí tuệ.\n\u2022 Apple và các công ty con của Apple là bên thụ hưởng thứ ba của các điều khoản này.`,
+      },
+    ],
+  },
   ar: {
     title: "شروط الخدمة",
     effectiveDate: "تاريخ السريان: 22 فبراير 2025",

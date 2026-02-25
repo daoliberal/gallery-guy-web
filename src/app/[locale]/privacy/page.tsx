@@ -1723,6 +1723,556 @@ Tətbiq heç bir üçüncü tərəf analitika, reklam və ya qəza hesabatı xid
       },
     ],
   },
+  sl: {
+    title: "Politika zasebnosti",
+    effectiveDate: "Datum veljavnosti: 22. februar 2025",
+    sections: [
+      {
+        heading: "Uvod",
+        body: `Gallery Guy (\u201Emi\u201D, \u201Cnaša\u201D, \u201Caplikacija\u201D) je razvil Batur Cihan. Ta Politika zasebnosti pojasnjuje, kako aplikacija obravnava vaše podatke. Gallery Guy je zasnovan z zasebnostjo kot jedrom \u2014 vsi vaši podatki ostanejo na vaši napravi. Ne zbiramo, prenašamo ali shranjujemo nobenih osebnih podatkov na zunanjih strežnikih.`,
+      },
+      {
+        heading: "Podatki, ki jih ne zbiramo",
+        body: `Gallery Guy ne zbira nobenih osebnih podatkov. Natančneje:
+
+• Brez osebnih podatkov (ime, e-pošta, telefonska številka)
+• Brez analitike ali telemetrije uporabe
+• Brez oglaševalskih identifikatorjev ali sledenja
+• Brez prstnih odtisov naprav
+• Brez podatkov o lokaciji
+• Brez potrebe po ustvarjanju računa
+• Brez nalaganja v oblak kakršne koli vrste
+• Brez piškotkov ali tehnologij spletnega sledenja`,
+      },
+      {
+        heading: "Podatki, shranjeni na vaši napravi",
+        body: `Naslednji podatki so shranjeni lokalno na vaši napravi in je nikoli ne zapustijo:
+
+• Dostop do knjižnice fotografij: Aplikacija bere vašo knjižnico fotografij za skeniranje, prikaz in upravljanje vaših fotografij in videov. Dostop za pisanje se uporablja za brisanje in premikanje datotek med albumi.
+
+• Rezultati OCR skeniranja: Besedilo, prepoznano iz posnetkov zaslona, je predpomnjeno lokalno na vaši napravi za namene kategorizacije. Ti podatki nikoli ne zapustijo vaše naprave.
+
+• Datoteke v skritem trezorju: Fotografije in videi, premaknjeni v Skriti trezor, so shranjeni v izoliranem datotečnem sistemu aplikacije na vaši napravi, zaščiteni z biometrično avtentikacijo.
+
+• Uporabniške nastavitve: Vaš način teme, jezikovna nastavitev in stanje dokončanja uvoda so shranjeni lokalno z uporabo shranjevanja na napravi.`,
+      },
+      {
+        heading: "Dovoljenja, ki jih zahtevamo",
+        body: `• Knjižnica fotografij (branje in pisanje): Potrebno za delovanje aplikacije. Uporablja se za skeniranje vaše galerije, zaznavanje posnetkov zaslona, iskanje podobnih fotografij, identifikacijo velikih videov ter brisanje ali premikanje datotek, ki jih izberete.
+
+• Biometrična avtentikacija (Face ID / Touch ID): Uporablja se izključno za zaščito dostopa do funkcije Skriti trezor. Biometrične podatke v celoti obdeluje operacijski sistem; aplikacija nikoli ne dostopa do biometričnih podatkov neposredno ali jih shranjuje.`,
+      },
+      {
+        heading: "SDK-ji tretjih oseb",
+        body: `• ML Kit Text Recognition: Uporablja se za OCR na napravi za klasifikacijo posnetkov zaslona po vsebini. Ta SDK deluje v celoti na vaši napravi — nobena slika ali besedilo se ne pošlje na strežnik.
+
+• Expo Framework moduli: Standardni moduli za dostop do medijske knjižnice, datotečnega sistema, lokalizacije in lokalne avtentikacije. Noben od teh modulov ne zbira ali prenaša podatkov.
+
+Aplikacija ne uporablja nobenih storitev za analitiko, oglaševanje ali poročanje o sesutjih tretjih oseb.`,
+      },
+      {
+        heading: "Varnost podatkov",
+        body: `• Vsi podatki ostanejo na vaši napravi.
+• Skriti trezor je zaščiten z biometrično avtentikacijo na ravni naprave.
+• Nobeni podatki se ne prenašajo prek interneta.
+• Ni strežniške infrastrukture ali shranjevanja v oblaku.`,
+      },
+      {
+        heading: "Zasebnost otrok",
+        body: "Gallery Guy ne zbira podatkov od nikogar, vključno z otroki. Aplikacija ne zahteva ustvarjanja računa in nima zmožnosti spletne komunikacije.",
+      },
+      {
+        heading: "Spremembe te politike",
+        body: "To Politiko zasebnosti lahko posodobimo. Spremembe bodo objavljene na tej strani s posodobljenim datumom. Nadaljnja uporaba aplikacije po spremembah pomeni sprejem.",
+      },
+      {
+        heading: "Kontakt",
+        body: "Če imate vprašanja o tej Politiki zasebnosti, nas kontaktirajte na: bfrkcihan@gmail.com",
+      },
+    ],
+  },
+  pl: {
+    title: "Polityka prywatności",
+    effectiveDate: "Data wejścia w życie: 22 lutego 2025",
+    sections: [
+      {
+        heading: "Wstęp",
+        body: `Gallery Guy (\u201Emy\u201D, \u201Cnasz\u201D, \u201Caplikacja\u201D) został opracowany przez Batur Cihan. Niniejsza Polityka prywatności wyjaśnia, jak aplikacja obsługuje Twoje dane. Gallery Guy został zaprojektowany z myślą o prywatności \u2014 wszystkie Twoje dane pozostają na Twoim urządzeniu. Nie zbieramy, nie przesyłamy ani nie przechowujemy żadnych danych osobowych na zewnętrznych serwerach.`,
+      },
+      {
+        heading: "Informacje, których nie zbieramy",
+        body: `Gallery Guy nie zbiera żadnych danych osobowych. W szczególności:
+
+• Brak danych osobowych (imię, e-mail, numer telefonu)
+• Brak analityki użytkowania lub telemetrii
+• Brak identyfikatorów reklamowych lub śledzenia
+• Brak odcisków palców urządzeń
+• Brak danych o lokalizacji
+• Brak wymogu tworzenia konta
+• Brak przesyłania do chmury jakiegokolwiek rodzaju
+• Brak plików cookie lub technologii śledzenia internetowego`,
+      },
+      {
+        heading: "Informacje przechowywane na Twoim urządzeniu",
+        body: `Następujące dane są przechowywane lokalnie na Twoim urządzeniu i nigdy go nie opuszczają:
+
+• Dostęp do biblioteki zdjęć: Aplikacja odczytuje Twoją bibliotekę zdjęć w celu skanowania, wyświetlania i zarządzania zdjęciami i filmami. Dostęp do zapisu jest używany do usuwania i przenoszenia plików między albumami.
+
+• Wyniki skanowania OCR: Tekst rozpoznany ze zrzutów ekranu jest buforowany lokalnie na Twoim urządzeniu w celach kategoryzacji. Te dane nigdy nie opuszczają Twojego urządzenia.
+
+• Pliki w ukrytym sejfie: Zdjęcia i filmy przeniesione do Ukrytego sejfu są przechowywane w izolowanym systemie plików aplikacji na Twoim urządzeniu, chronione uwierzytelnianiem biometrycznym.
+
+• Preferencje użytkownika: Tryb motywu, preferencje językowe i stan ukończenia wprowadzenia są przechowywane lokalnie za pomocą pamięci urządzenia.`,
+      },
+      {
+        heading: "Uprawnienia, o które prosimy",
+        body: `• Biblioteka zdjęć (odczyt i zapis): Wymagane do funkcjonowania aplikacji. Używane do skanowania galerii, wykrywania zrzutów ekranu, znajdowania podobnych zdjęć, identyfikacji dużych filmów oraz usuwania lub przenoszenia wybranych plików.
+
+• Uwierzytelnianie biometryczne (Face ID / Touch ID): Używane wyłącznie do ochrony dostępu do funkcji Ukryty sejf. Dane biometryczne są obsługiwane całkowicie przez system operacyjny; aplikacja nigdy nie uzyskuje bezpośredniego dostępu do danych biometrycznych ani ich nie przechowuje.`,
+      },
+      {
+        heading: "SDK firm trzecich",
+        body: `• ML Kit Text Recognition: Używany do OCR na urządzeniu w celu klasyfikacji zrzutów ekranu według zawartości. Ten SDK działa całkowicie na Twoim urządzeniu — żadne obrazy ani tekst nie są wysyłane na serwer.
+
+• Moduły Expo Framework: Standardowe moduły do dostępu do biblioteki mediów, systemu plików, lokalizacji i lokalnego uwierzytelniania. Żaden z tych modułów nie zbiera ani nie przesyła danych.
+
+Aplikacja nie korzysta z żadnych usług analitycznych, reklamowych ani raportowania awarii firm trzecich.`,
+      },
+      {
+        heading: "Bezpieczeństwo danych",
+        body: `• Wszystkie dane pozostają na Twoim urządzeniu.
+• Ukryty sejf jest chroniony uwierzytelnianiem biometrycznym na poziomie urządzenia.
+• Żadne dane nie są przesyłane przez internet.
+• Brak infrastruktury serwerowej ani przechowywania w chmurze.`,
+      },
+      {
+        heading: "Prywatność dzieci",
+        body: "Gallery Guy nie zbiera danych od nikogo, w tym od dzieci. Aplikacja nie wymaga tworzenia konta i nie posiada możliwości komunikacji online.",
+      },
+      {
+        heading: "Zmiany niniejszej polityki",
+        body: "Możemy zaktualizować niniejszą Politykę prywatności. Zmiany zostaną opublikowane na tej stronie z zaktualizowaną datą. Dalsze korzystanie z aplikacji po zmianach oznacza akceptację.",
+      },
+      {
+        heading: "Kontakt",
+        body: "Jeśli masz pytania dotyczące niniejszej Polityki prywatności, skontaktuj się z nami: bfrkcihan@gmail.com",
+      },
+    ],
+  },
+  uk: {
+    title: "Політика конфіденційності",
+    effectiveDate: "Дата набрання чинності: 22 лютого 2025",
+    sections: [
+      {
+        heading: "Вступ",
+        body: `Gallery Guy (\u201Cми\u201D, \u201Cнаш\u201D, \u201Cдодаток\u201D) розроблений Batur Cihan. Ця Політика конфіденційності пояснює, як додаток обробляє вашу інформацію. Gallery Guy створений із конфіденційністю як основою \u2014 усі ваші дані залишаються на вашому пристрої. Ми не збираємо, не передаємо та не зберігаємо жодних особистих даних на зовнішніх серверах.`,
+      },
+      {
+        heading: "Інформація, яку ми не збираємо",
+        body: `Gallery Guy не збирає жодних особистих даних. Зокрема:
+
+• Жодних особистих даних (ім'я, електронна пошта, номер телефону)
+• Жодної аналітики використання або телеметрії
+• Жодних рекламних ідентифікаторів або відстеження
+• Жодних відбитків пристроїв
+• Жодних даних про місцезнаходження
+• Створення облікового запису не потрібне
+• Жодного завантаження в хмару будь-якого виду
+• Жодних файлів cookie або технологій веб-відстеження`,
+      },
+      {
+        heading: "Інформація, що зберігається на вашому пристрої",
+        body: `Наступні дані зберігаються локально на вашому пристрої та ніколи його не покидають:
+
+• Доступ до бібліотеки фото: Додаток читає вашу бібліотеку фото для сканування, відображення та керування вашими фото та відео. Доступ на запис використовується для видалення та переміщення файлів між альбомами.
+
+• Результати OCR-сканування: Текст, розпізнаний зі знімків екрана, кешується локально на вашому пристрої для цілей категоризації. Ці дані ніколи не покидають ваш пристрій.
+
+• Файли прихованого сейфа: Фото та відео, переміщені до Прихованого сейфа, зберігаються в ізольованій файловій системі додатку на вашому пристрої, захищені біометричною автентифікацією.
+
+• Налаштування користувача: Ваш режим теми, мовні налаштування та стан завершення вступу зберігаються локально за допомогою сховища пристрою.`,
+      },
+      {
+        heading: "Дозволи, які ми запитуємо",
+        body: `• Бібліотека фото (читання та запис): Необхідно для роботи додатку. Використовується для сканування вашої галереї, виявлення знімків екрана, пошуку схожих фото, ідентифікації великих відео та видалення або переміщення обраних файлів.
+
+• Біометрична автентифікація (Face ID / Touch ID): Використовується виключно для захисту доступу до функції Прихований сейф. Біометричні дані повністю обробляються операційною системою; додаток ніколи не отримує доступу до біометричних даних безпосередньо та не зберігає їх.`,
+      },
+      {
+        heading: "SDK третіх сторін",
+        body: `• ML Kit Text Recognition: Використовується для OCR на пристрої для класифікації знімків екрана за вмістом. Цей SDK працює повністю на вашому пристрої — жодні зображення чи текст не надсилаються на сервер.
+
+• Модулі Expo Framework: Стандартні модулі для доступу до медіатеки, файлової системи, локалізації та локальної автентифікації. Жоден із цих модулів не збирає та не передає дані.
+
+Додаток не використовує жодних сервісів аналітики, реклами або звітування про збої третіх сторін.`,
+      },
+      {
+        heading: "Безпека даних",
+        body: `• Усі дані залишаються на вашому пристрої.
+• Прихований сейф захищений біометричною автентифікацією на рівні пристрою.
+• Жодні дані не передаються через інтернет.
+• Немає серверної інфраструктури або хмарного сховища.`,
+      },
+      {
+        heading: "Конфіденційність дітей",
+        body: "Gallery Guy не збирає дані від нікого, включаючи дітей. Додаток не вимагає створення облікового запису та не має можливостей онлайн-комунікації.",
+      },
+      {
+        heading: "Зміни цієї політики",
+        body: "Ми можемо оновити цю Політику конфіденційності. Зміни будуть опубліковані на цій сторінці з оновленою датою. Подальше використання додатку після змін означає прийняття.",
+      },
+      {
+        heading: "Контакт",
+        body: "Якщо у вас є питання щодо цієї Політики конфіденційності, зв'яжіться з нами: bfrkcihan@gmail.com",
+      },
+    ],
+  },
+  fi: {
+    title: "Tietosuojakäytäntö",
+    effectiveDate: "Voimaantulopäivä: 22. helmikuuta 2025",
+    sections: [
+      {
+        heading: "Johdanto",
+        body: `Gallery Guy (\u201Cme\u201D, \u201Cmeidän\u201D, \u201Csovellus\u201D) on Batur Cihanin kehittämä. Tämä Tietosuojakäytäntö selittää, miten sovellus käsittelee tietojasi. Gallery Guy on suunniteltu yksityisyys ytimessään \u2014 kaikki tietosi pysyvät laitteellasi. Emme kerää, lähetä tai tallenna mitään henkilökohtaisia tietoja ulkoisille palvelimille.`,
+      },
+      {
+        heading: "Tiedot joita emme kerää",
+        body: `Gallery Guy ei kerää mitään henkilökohtaisia tietoja. Erityisesti:
+
+• Ei henkilökohtaisia tietoja (nimi, sähköposti, puhelinnumero)
+• Ei käytön analytiikkaa tai telemetriaa
+• Ei mainostunnisteita tai seurantaa
+• Ei laitteen sormenjälkeä
+• Ei sijaintitietoja
+• Ei tilin luontia vaadita
+• Ei pilvilatauksia minkäänlaisia
+• Ei evästeitä tai verkonseurantateknologioita`,
+      },
+      {
+        heading: "Laitteellesi tallennetut tiedot",
+        body: `Seuraavat tiedot tallennetaan paikallisesti laitteellesi eivätkä koskaan poistu sieltä:
+
+• Valokuvakirjaston käyttöoikeus: Sovellus lukee valokuvakirjastoasi skannatakseen, näyttääkseen ja hallinnoidakseen valokuviasi ja videoitasi. Kirjoitusoikeutta käytetään tiedostojen poistamiseen ja siirtämiseen albumien välillä.
+
+• OCR-skannauksen tulokset: Kuvakaappauksista tunnistettu teksti välimuistitetaan paikallisesti laitteellesi luokittelutarkoituksiin. Nämä tiedot eivät koskaan poistu laitteeltasi.
+
+• Piilotetun holvin tiedostot: Piilotettuun holviin siirretyt valokuvat ja videot tallennetaan sovelluksen eristettyyn tiedostojärjestelmään laitteellasi, suojattuna biometrisellä todennuksella.
+
+• Käyttäjäasetukset: Teematila, kieliasetus ja perehdytyksen valmistumistila tallennetaan paikallisesti laitteen tallennustilaan.`,
+      },
+      {
+        heading: "Pyytämämme käyttöoikeudet",
+        body: `• Valokuvakirjasto (luku ja kirjoitus): Vaaditaan sovelluksen toimintaan. Käytetään gallerian skannaamiseen, kuvakaappausten tunnistamiseen, samankaltaisten kuvien etsimiseen, suurten videoiden tunnistamiseen ja valitsemiesi tiedostojen poistamiseen tai siirtämiseen.
+
+• Biometrinen todennus (Face ID / Touch ID): Käytetään yksinomaan Piilotettu holvi -ominaisuuden pääsyn suojaamiseen. Biometriset tiedot käsittelee kokonaan käyttöjärjestelmä; sovellus ei koskaan pääse suoraan biometrisiin tietoihin tai tallenna niitä.`,
+      },
+      {
+        heading: "Kolmannen osapuolen SDK:t",
+        body: `• ML Kit Text Recognition: Käytetään laitteella tapahtuvaan OCR:ään kuvakaappausten sisällön luokitteluun. Tämä SDK toimii kokonaan laitteellasi — mitään kuvia tai tekstiä ei lähetetä palvelimelle.
+
+• Expo Framework -moduulit: Vakiomoduulit mediakirjaston käyttöön, tiedostojärjestelmään, lokalisointiin ja paikalliseen todennukseen. Mikään näistä moduuleista ei kerää tai lähetä tietoja.
+
+Sovellus ei käytä mitään kolmannen osapuolen analytiikka-, mainonta- tai kaatumisraportointipalveluja.`,
+      },
+      {
+        heading: "Tietoturva",
+        body: `• Kaikki tiedot pysyvät laitteellasi.
+• Piilotettu holvi on suojattu laitetason biometrisellä todennuksella.
+• Mitään tietoja ei lähetetä internetin kautta.
+• Ei palvelininfrastruktuuria tai pilvitallennusta.`,
+      },
+      {
+        heading: "Lasten yksityisyys",
+        body: "Gallery Guy ei kerää tietoja keneltäkään, mukaan lukien lapsilta. Sovellus ei vaadi tilin luontia eikä siinä ole verkkoviestintäominaisuuksia.",
+      },
+      {
+        heading: "Tämän käytännön muutokset",
+        body: "Voimme päivittää tätä Tietosuojakäytäntöä. Muutokset julkaistaan tällä sivulla päivitetyllä päivämäärällä. Sovelluksen jatkuva käyttö muutosten jälkeen tarkoittaa hyväksymistä.",
+      },
+      {
+        heading: "Yhteystiedot",
+        body: "Jos sinulla on kysymyksiä tästä Tietosuojakäytännöstä, ota yhteyttä: bfrkcihan@gmail.com",
+      },
+    ],
+  },
+  hu: {
+    title: "Adatvédelmi irányelvek",
+    effectiveDate: "Hatálybalépés dátuma: 2025. február 22.",
+    sections: [
+      {
+        heading: "Bevezetés",
+        body: `A Gallery Guy (\u201Emi\u201D, \u201Ca miénk\u201D, \u201Caz alkalmazás\u201D) fejlesztője Batur Cihan. Ez az Adatvédelmi irányelv elmagyarázza, hogyan kezeli az alkalmazás az adataidat. A Gallery Guy az adatvédelmet szem előtt tartva készült \u2014 minden adatod az eszközödön marad. Nem gyűjtünk, nem továbbítunk és nem tárolunk semmilyen személyes adatot külső szervereken.`,
+      },
+      {
+        heading: "Információk, amelyeket nem gyűjtünk",
+        body: `A Gallery Guy nem gyűjt semmilyen személyes adatot. Konkrétan:
+
+• Nincs személyes adat (név, e-mail, telefonszám)
+• Nincs használati analitika vagy telemetria
+• Nincsenek hirdetési azonosítók vagy nyomon követés
+• Nincs eszköz-ujjlenyomat
+• Nincs helyadat
+• Nincs szükség fiók létrehozására
+• Nincs semmilyen felhőfeltöltés
+• Nincsenek sütik vagy webes nyomkövető technológiák`,
+      },
+      {
+        heading: "Az eszközödön tárolt információk",
+        body: `A következő adatok helyben, az eszközödön vannak tárolva és soha nem hagyják el:
+
+• Fotókönyvtár hozzáférés: Az alkalmazás olvassa a fotókönyvtáradat a szkenneléshez, megjelenítéshez és a fotóid és videóid kezeléséhez. Az írási hozzáférés a fájlok törléséhez és albumok közötti mozgatásához használatos.
+
+• OCR szkennelés eredményei: A képernyőképekből felismert szöveg helyben kerül gyorsítótárazásra az eszközödön kategorizálási célokra. Ezek az adatok soha nem hagyják el az eszközödet.
+
+• Rejtett széf fájljai: A Rejtett széfbe áthelyezett fotók és videók az alkalmazás elszigetelt fájlrendszerében vannak tárolva az eszközödön, biometrikus hitelesítéssel védve.
+
+• Felhasználói beállítások: A téma mód, nyelvi beállítás és a bevezető befejezési állapota helyben van tárolva az eszköz tárhelyén.`,
+      },
+      {
+        heading: "Kért engedélyek",
+        body: `• Fotókönyvtár (olvasás és írás): Az alkalmazás működéséhez szükséges. A galéria szkenneléséhez, képernyőképek felismeréséhez, hasonló fotók kereséséhez, nagy videók azonosításához és a kiválasztott fájlok törléséhez vagy mozgatásához használatos.
+
+• Biometrikus hitelesítés (Face ID / Touch ID): Kizárólag a Rejtett széf funkció hozzáférésének védelméhez használatos. A biometrikus adatokat teljes egészében az operációs rendszer kezeli; az alkalmazás soha nem fér hozzá közvetlenül a biometrikus adatokhoz és nem tárolja azokat.`,
+      },
+      {
+        heading: "Harmadik fél SDK-k",
+        body: `• ML Kit Text Recognition: Az eszközön történő OCR-hez használatos a képernyőképek tartalom szerinti osztályozásához. Ez az SDK teljes egészében az eszközödön fut — semmilyen kép vagy szöveg nem kerül elküldésre szerverre.
+
+• Expo Framework modulok: Standard modulok a médiakönyvtár-hozzáféréshez, fájlrendszerhez, lokalizációhoz és helyi hitelesítéshez. Ezen modulok egyike sem gyűjt vagy továbbít adatokat.
+
+Az alkalmazás nem használ semmilyen harmadik fél analitikai, hirdetési vagy összeomlás-jelentési szolgáltatást.`,
+      },
+      {
+        heading: "Adatbiztonság",
+        body: `• Minden adat az eszközödön marad.
+• A Rejtett széf eszközszintű biometrikus hitelesítéssel van védve.
+• Semmilyen adat nem kerül továbbításra az interneten keresztül.
+• Nincs szerver-infrastruktúra vagy felhőtárhely.`,
+      },
+      {
+        heading: "Gyermekek adatvédelme",
+        body: "A Gallery Guy nem gyűjt adatokat senkitől, beleértve a gyermekeket sem. Az alkalmazás nem igényel fiók létrehozását és nincsenek online kommunikációs képességei.",
+      },
+      {
+        heading: "Ezen irányelvek módosítása",
+        body: "Frissíthetjük ezt az Adatvédelmi irányelvet. A módosítások frissített dátummal kerülnek közzétételre ezen az oldalon. Az alkalmazás további használata a módosítások után elfogadást jelent.",
+      },
+      {
+        heading: "Kapcsolat",
+        body: "Ha kérdésed van ezzel az Adatvédelmi irányelvvel kapcsolatban, lépj kapcsolatba velünk: bfrkcihan@gmail.com",
+      },
+    ],
+  },
+  sr: {
+    title: "Politika privatnosti",
+    effectiveDate: "Datum stupanja na snagu: 22. februar 2025.",
+    sections: [
+      {
+        heading: "Uvod",
+        body: `Dobrodošli u Gallery Guy (\u201Emi\u201C, \u201Enas\u201C ili \u201Enaš\u201C). Posvećeni smo zaštiti vaše privatnosti. Ova Politika privatnosti objašnjava kako Gallery Guy obrađuje informacije kada koristite našu iOS aplikaciju.`,
+      },
+      {
+        heading: "Informacije koje prikupljamo",
+        body: "Gallery Guy je dizajniran sa privatnošću na prvom mestu. Ne prikupljamo, ne skladištimo i ne prenosimo vaše lične podatke ili fotografije. Sva obrada fotografija odvija se lokalno na vašem uređaju.",
+      },
+      {
+        heading: "Kako koristimo vaše informacije",
+        body: "Pošto ne prikupljamo lične podatke, ne koristimo vaše informacije ni u kakve svrhe. Sva obrada fotografija i analiza odvija se na uređaju i nikada ne napušta vaš telefon.",
+      },
+      {
+        heading: "Skladištenje podataka",
+        body: "Gallery Guy ne skladišti nikakve korisničke podatke na eksternim serverima. Sve podatke o aplikaciji (podešavanja, postavke) čuva lokalno na vašem uređaju koristeći standardne iOS mehanizme skladištenja.",
+      },
+      {
+        heading: "Usluge trećih strana",
+        body: "Gallery Guy ne integriše analitičke alate, oglašivačke mreže ili bilo koje SDK-ove trećih strana koji prikupljaju korisničke podatke. Jedina usluga treće strane je Apple-ov App Store za distribuciju aplikacije i obradu kupovina.",
+      },
+      {
+        heading: "Privatnost dece",
+        body: "Gallery Guy ne prikuplja lične podatke ni od koga, uključujući decu mlađu od 13 godina. Naša aplikacija je bezbedna za korišćenje od strane korisnika svih uzrasta jer ne vrši prikupljanje podataka.",
+      },
+      {
+        heading: "Izmene ove politike",
+        body: "Možemo povremeno ažurirati ovu Politiku privatnosti. Obavestićemo vas o svim izmenama objavljivanjem nove Politike privatnosti na ovoj stranici i ažuriranjem datuma stupanja na snagu.",
+      },
+      {
+        heading: "Vaša prava",
+        body: "Pošto ne prikupljamo nikakve lične podatke, nema podataka koje možete zahtevati, izmeniti ili obrisati. Vaše fotografije i podaci uvek ostaju pod vašom kontrolom na vašem uređaju.",
+      },
+      {
+        heading: "Kontakt",
+        body: "Ako imate pitanja o ovoj Politici privatnosti, kontaktirajte nas na: bfrkcihan@gmail.com",
+      },
+    ],
+  },
+  he: {
+    title: "מדיניות פרטיות",
+    effectiveDate: "תאריך תוקף: 22 בפברואר 2025",
+    sections: [
+      {
+        heading: "מבוא",
+        body: `ברוכים הבאים ל-Gallery Guy (\u201Eאנחנו\u201C, \u201Eאותנו\u201C או \u201Eשלנו\u201C). אנו מחויבים להגן על פרטיותכם. מדיניות פרטיות זו מסבירה כיצד Gallery Guy מטפל במידע כאשר אתם משתמשים באפליקציית ה-iOS שלנו.`,
+      },
+      {
+        heading: "מידע שאנו אוספים",
+        body: "Gallery Guy תוכנן עם פרטיות בראש סדר העדיפויות. איננו אוספים, מאחסנים או מעבירים את המידע האישי או התמונות שלכם. כל עיבוד התמונות מתבצע באופן מקומי על המכשיר שלכם.",
+      },
+      {
+        heading: "כיצד אנו משתמשים במידע שלכם",
+        body: "מכיוון שאיננו אוספים מידע אישי, איננו משתמשים במידע שלכם לשום מטרה. כל עיבוד וניתוח התמונות מתבצע על המכשיר ולעולם לא עוזב את הטלפון שלכם.",
+      },
+      {
+        heading: "אחסון נתונים",
+        body: "Gallery Guy אינו מאחסן נתוני משתמש בשרתים חיצוניים. כל נתוני האפליקציה (הגדרות, העדפות) מאוחסנים באופן מקומי על המכשיר שלכם באמצעות מנגנוני אחסון סטנדרטיים של iOS.",
+      },
+      {
+        heading: "שירותי צד שלישי",
+        body: "Gallery Guy אינו משלב כלי אנליטיקה, רשתות פרסום או SDK של צד שלישי שאוספים נתוני משתמש. שירות הצד השלישי היחיד הוא App Store של Apple להפצת האפליקציה ועיבוד רכישות.",
+      },
+      {
+        heading: "פרטיות ילדים",
+        body: "Gallery Guy אינו אוסף מידע אישי מאף אחד, כולל ילדים מתחת לגיל 13. האפליקציה שלנו בטוחה לשימוש על ידי משתמשים בכל גיל מכיוון שהיא אינה מבצעת איסוף נתונים.",
+      },
+      {
+        heading: "שינויים במדיניות זו",
+        body: "אנו עשויים לעדכן מדיניות פרטיות זו מעת לעת. נודיע לכם על שינויים על ידי פרסום מדיניות הפרטיות החדשה בדף זה ועדכון תאריך התוקף.",
+      },
+      {
+        heading: "הזכויות שלכם",
+        body: "מכיוון שאיננו אוספים מידע אישי כלשהו, אין נתונים שתוכלו לבקש, לשנות או למחוק. התמונות והנתונים שלכם נשארים תמיד בשליטתכם על המכשיר שלכם.",
+      },
+      {
+        heading: "יצירת קשר",
+        body: "אם יש לכם שאלות לגבי מדיניות פרטיות זו, צרו איתנו קשר בכתובת: bfrkcihan@gmail.com",
+      },
+    ],
+  },
+  id: {
+    title: "Kebijakan Privasi",
+    effectiveDate: "Tanggal berlaku: 22 Februari 2025",
+    sections: [
+      {
+        heading: "Pendahuluan",
+        body: `Selamat datang di Gallery Guy (\u201Ekami\u201C, \u201Ekita\u201C atau \u201Emilik kami\u201C). Kami berkomitmen melindungi privasi Anda. Kebijakan Privasi ini menjelaskan bagaimana Gallery Guy menangani informasi saat Anda menggunakan aplikasi iOS kami.`,
+      },
+      {
+        heading: "Informasi yang Kami Kumpulkan",
+        body: "Gallery Guy dirancang dengan mengutamakan privasi. Kami tidak mengumpulkan, menyimpan, atau mengirimkan informasi pribadi atau foto Anda. Semua pemrosesan foto dilakukan secara lokal di perangkat Anda.",
+      },
+      {
+        heading: "Bagaimana Kami Menggunakan Informasi Anda",
+        body: "Karena kami tidak mengumpulkan informasi pribadi, kami tidak menggunakan informasi Anda untuk tujuan apa pun. Semua pemrosesan dan analisis foto dilakukan di perangkat dan tidak pernah meninggalkan ponsel Anda.",
+      },
+      {
+        heading: "Penyimpanan Data",
+        body: "Gallery Guy tidak menyimpan data pengguna di server eksternal. Semua data aplikasi (pengaturan, preferensi) disimpan secara lokal di perangkat Anda menggunakan mekanisme penyimpanan iOS standar.",
+      },
+      {
+        heading: "Layanan Pihak Ketiga",
+        body: "Gallery Guy tidak mengintegrasikan alat analitik, jaringan iklan, atau SDK pihak ketiga yang mengumpulkan data pengguna. Satu-satunya layanan pihak ketiga adalah App Store Apple untuk distribusi aplikasi dan pemrosesan pembelian.",
+      },
+      {
+        heading: "Privasi Anak",
+        body: "Gallery Guy tidak mengumpulkan informasi pribadi dari siapa pun, termasuk anak di bawah 13 tahun. Aplikasi kami aman digunakan oleh pengguna segala usia karena tidak melakukan pengumpulan data.",
+      },
+      {
+        heading: "Perubahan Kebijakan Ini",
+        body: "Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Kami akan memberi tahu Anda tentang perubahan dengan memposting Kebijakan Privasi baru di halaman ini dan memperbarui tanggal berlaku.",
+      },
+      {
+        heading: "Hak Anda",
+        body: "Karena kami tidak mengumpulkan informasi pribadi apa pun, tidak ada data yang dapat Anda minta, ubah, atau hapus. Foto dan data Anda selalu tetap di bawah kendali Anda di perangkat Anda.",
+      },
+      {
+        heading: "Hubungi Kami",
+        body: "Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, hubungi kami di: bfrkcihan@gmail.com",
+      },
+    ],
+  },
+  th: {
+    title: "นโยบายความเป็นส่วนตัว",
+    effectiveDate: "วันที่มีผลบังคับใช้: 22 กุมภาพันธ์ 2025",
+    sections: [
+      {
+        heading: "บทนำ",
+        body: `ยินดีต้อนรับสู่ Gallery Guy (\u201Eเรา\u201C, \u201Eพวกเรา\u201C หรือ \u201Eของเรา\u201C) เรามุ่งมั่นที่จะปกป้องความเป็นส่วนตัวของคุณ นโยบายความเป็นส่วนตัวนี้อธิบายวิธีที่ Gallery Guy จัดการข้อมูลเมื่อคุณใช้แอปพลิเคชัน iOS ของเรา`,
+      },
+      {
+        heading: "ข้อมูลที่เราเก็บรวบรวม",
+        body: "Gallery Guy ออกแบบโดยให้ความสำคัญกับความเป็นส่วนตัวเป็นอันดับแรก เราไม่เก็บรวบรวม จัดเก็บ หรือส่งข้อมูลส่วนบุคคลหรือรูปภาพของคุณ การประมวลผลรูปภาพทั้งหมดดำเนินการภายในเครื่องบนอุปกรณ์ของคุณ",
+      },
+      {
+        heading: "วิธีที่เราใช้ข้อมูลของคุณ",
+        body: "เนื่องจากเราไม่เก็บรวบรวมข้อมูลส่วนบุคคล เราจึงไม่ใช้ข้อมูลของคุณเพื่อวัตถุประสงค์ใดๆ การประมวลผลและวิเคราะห์รูปภาพทั้งหมดดำเนินการบนอุปกรณ์และไม่เคยออกจากโทรศัพท์ของคุณ",
+      },
+      {
+        heading: "การจัดเก็บข้อมูล",
+        body: "Gallery Guy ไม่จัดเก็บข้อมูลผู้ใช้บนเซิร์ฟเวอร์ภายนอก ข้อมูลแอปพลิเคชันทั้งหมด (การตั้งค่า ค่าปรับแต่ง) จัดเก็บภายในเครื่องบนอุปกรณ์ของคุณโดยใช้กลไกการจัดเก็บมาตรฐานของ iOS",
+      },
+      {
+        heading: "บริการของบุคคลที่สาม",
+        body: "Gallery Guy ไม่รวมเครื่องมือวิเคราะห์ เครือข่ายโฆษณา หรือ SDK ของบุคคลที่สามที่เก็บรวบรวมข้อมูลผู้ใช้ บริการบุคคลที่สามเพียงอย่างเดียวคือ App Store ของ Apple สำหรับการจำหน่ายแอปพลิเคชันและการประมวลผลการซื้อ",
+      },
+      {
+        heading: "ความเป็นส่วนตัวของเด็ก",
+        body: "Gallery Guy ไม่เก็บรวบรวมข้อมูลส่วนบุคคลจากบุคคลใดๆ รวมถึงเด็กอายุต่ำกว่า 13 ปี แอปพลิเคชันของเราปลอดภัยสำหรับผู้ใช้ทุกวัยเนื่องจากไม่มีการเก็บรวบรวมข้อมูล",
+      },
+      {
+        heading: "การเปลี่ยนแปลงนโยบายนี้",
+        body: "เราอาจอัปเดตนโยบายความเป็นส่วนตัวนี้เป็นครั้งคราว เราจะแจ้งให้คุณทราบเกี่ยวกับการเปลี่ยนแปลงโดยการโพสต์นโยบายความเป็นส่วนตัวใหม่บนหน้านี้และอัปเดตวันที่มีผลบังคับใช้",
+      },
+      {
+        heading: "สิทธิ์ของคุณ",
+        body: "เนื่องจากเราไม่เก็บรวบรวมข้อมูลส่วนบุคคลใดๆ จึงไม่มีข้อมูลที่คุณสามารถร้องขอ แก้ไข หรือลบได้ รูปภาพและข้อมูลของคุณยังคงอยู่ภายใต้การควบคุมของคุณบนอุปกรณ์ของคุณเสมอ",
+      },
+      {
+        heading: "ติดต่อเรา",
+        body: "หากคุณมีคำถามเกี่ยวกับนโยบายความเป็นส่วนตัวนี้ ติดต่อเราได้ที่: bfrkcihan@gmail.com",
+      },
+    ],
+  },
+  vi: {
+    title: "Chính sách bảo mật",
+    effectiveDate: "Ngày có hiệu lực: 22 tháng 2 năm 2025",
+    sections: [
+      {
+        heading: "Giới thiệu",
+        body: `Chào mừng đến với Gallery Guy (\u201Echúng tôi\u201C, \u201Ecủa chúng tôi\u201C). Chúng tôi cam kết bảo vệ quyền riêng tư của bạn. Chính sách bảo mật này giải thích cách Gallery Guy xử lý thông tin khi bạn sử dụng ứng dụng iOS của chúng tôi.`,
+      },
+      {
+        heading: "Thông tin chúng tôi thu thập",
+        body: "Gallery Guy được thiết kế với quyền riêng tư là ưu tiên hàng đầu. Chúng tôi không thu thập, lưu trữ hoặc truyền thông tin cá nhân hoặc ảnh của bạn. Tất cả xử lý ảnh được thực hiện cục bộ trên thiết bị của bạn.",
+      },
+      {
+        heading: "Cách chúng tôi sử dụng thông tin của bạn",
+        body: "Vì chúng tôi không thu thập thông tin cá nhân, chúng tôi không sử dụng thông tin của bạn cho bất kỳ mục đích nào. Tất cả xử lý và phân tích ảnh được thực hiện trên thiết bị và không bao giờ rời khỏi điện thoại của bạn.",
+      },
+      {
+        heading: "Lưu trữ dữ liệu",
+        body: "Gallery Guy không lưu trữ dữ liệu người dùng trên máy chủ bên ngoài. Tất cả dữ liệu ứng dụng (cài đặt, tùy chọn) được lưu trữ cục bộ trên thiết bị của bạn bằng cơ chế lưu trữ tiêu chuẩn của iOS.",
+      },
+      {
+        heading: "Dịch vụ bên thứ ba",
+        body: "Gallery Guy không tích hợp công cụ phân tích, mạng quảng cáo hoặc SDK bên thứ ba nào thu thập dữ liệu người dùng. Dịch vụ bên thứ ba duy nhất là App Store của Apple để phân phối ứng dụng và xử lý giao dịch mua.",
+      },
+      {
+        heading: "Quyền riêng tư của trẻ em",
+        body: "Gallery Guy không thu thập thông tin cá nhân từ bất kỳ ai, bao gồm trẻ em dưới 13 tuổi. Ứng dụng của chúng tôi an toàn cho người dùng mọi lứa tuổi vì không thực hiện thu thập dữ liệu.",
+      },
+      {
+        heading: "Thay đổi chính sách này",
+        body: "Chúng tôi có thể cập nhật Chính sách bảo mật này theo thời gian. Chúng tôi sẽ thông báo cho bạn về các thay đổi bằng cách đăng Chính sách bảo mật mới trên trang này và cập nhật ngày có hiệu lực.",
+      },
+      {
+        heading: "Quyền của bạn",
+        body: "Vì chúng tôi không thu thập bất kỳ thông tin cá nhân nào, không có dữ liệu nào bạn có thể yêu cầu, sửa đổi hoặc xóa. Ảnh và dữ liệu của bạn luôn nằm trong tầm kiểm soát của bạn trên thiết bị của bạn.",
+      },
+      {
+        heading: "Liên hệ",
+        body: "Nếu bạn có câu hỏi về Chính sách bảo mật này, vui lòng liên hệ chúng tôi tại: bfrkcihan@gmail.com",
+      },
+    ],
+  },
   ar: {
     title: "سياسة الخصوصية",
     effectiveDate: "تاريخ السريان: 22 فبراير 2025",

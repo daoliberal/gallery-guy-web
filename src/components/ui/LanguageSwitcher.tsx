@@ -29,6 +29,16 @@ const LOCALE_LABELS: Record<string, { short: string; full: string }> = {
   cs: { short: "CS", full: "Čeština" },
   az: { short: "AZ", full: "Azərbaycan" },
   mk: { short: "MK", full: "Македонски" },
+  sl: { short: "SL", full: "Slovenščina" },
+  pl: { short: "PL", full: "Polski" },
+  uk: { short: "UK", full: "Українська" },
+  fi: { short: "FI", full: "Suomi" },
+  hu: { short: "HU", full: "Magyar" },
+  sr: { short: "SR", full: "Srpski" },
+  he: { short: "HE", full: "עברית" },
+  id: { short: "ID", full: "Bahasa Indonesia" },
+  th: { short: "TH", full: "ไทย" },
+  vi: { short: "VI", full: "Tiếng Việt" },
 };
 
 export default function LanguageSwitcher() {
@@ -79,8 +89,8 @@ export default function LanguageSwitcher() {
       </button>
 
       {open && (
-        <div className="glass absolute right-0 mt-2 min-w-[140px] overflow-hidden rounded-xl border border-border p-1 shadow-lg">
-          {routing.locales.map((l) => (
+        <div className="glass absolute right-0 mt-2 max-h-[320px] min-w-[140px] overflow-y-auto rounded-xl border border-border p-1 shadow-lg">
+          {[...routing.locales].sort((a, b) => a.localeCompare(b)).map((l) => (
             <button
               key={l}
               onClick={() => switchLocale(l)}

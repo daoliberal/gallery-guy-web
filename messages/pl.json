@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "Funkcje",
+    "howItWorks": "Jak to działa",
+    "about": "O aplikacji"
+  },
+  "hero": {
+    "badge": "Darmowe na iOS",
+    "taglineStatic": "Poznaj Gallery Guy.",
+    "rotating0": "Wybiera zdjęcia jak profesjonalista.",
+    "rotating1": "Usuwa duplikaty.",
+    "rotating2": "Sprawia, że usuwanie jest zabawne.",
+    "rotating3": "Zwalnia miejsce.",
+    "rotating4": "Ukrywa prywatne zdjęcia.",
+    "subtagline": "Najlepszy organizator zdjęć na iPhone — przesuń, aby porównać jak na Tinderze, wybierz najlepsze zdjęcie, usuń resztę.",
+    "download": "Pobierz z App Store",
+    "rating": "Darmowe · 4.9 ★",
+    "qrLabel": "Zeskanuj aparatem iPhone'a",
+    "qrSublabel": "Zostaniesz przekierowany do App Store",
+    "compareTitle": "Przesuń, aby porównać",
+    "compareDescription": "Przesuwaj między podobnymi zdjęciami, aby odkryć różnice — wybierz ulubione, a Gallery Guy zajmie się resztą.",
+    "explore": "Odkryj"
+  },
+  "features": {
+    "label": "Funkcje",
+    "heading": "Wszystko w jednej aplikacji",
+    "smartMaintenance": {
+      "title": "Inteligentne czyszczenie zdjęć",
+      "description": "Automatycznie wykrywaj niepotrzebne i rozmyte zdjęcia i odzyskuj miejsce na dysku."
+    },
+    "similarPhotos": {
+      "title": "Usuwanie duplikatów",
+      "description": "Grupuj podobne zdjęcia, wybierz najlepsze i usuń resztę."
+    },
+    "screenshots": {
+      "title": "Zrzuty ekranu",
+      "description": "Zbierz wszystkie zrzuty ekranu w jednym miejscu i wyczyść je naraz."
+    },
+    "largeVideos": {
+      "title": "Znajdowanie dużych filmów",
+      "description": "Znajdź filmy zajmujące najwięcej miejsca i zarządzaj nimi."
+    }
+  },
+  "showcase": {
+    "label": "Aplikacja",
+    "heading": "Zobacz każdą funkcję z bliska",
+    "smartMaintenance": {
+      "title": "Inteligentne czyszczenie zdjęć",
+      "description": "Przesuwaj rozmyte i niepotrzebne zdjęcia jak na Tinderze — wybierz najlepsze, usuń resztę, odzyskaj miejsce.",
+      "bullet1": "Najlepsze narzędzie do czyszczenia rozmytych i niskiej jakości zdjęć",
+      "bullet2": "Usuń niepotrzebne zdjęcia jednym dotknięciem",
+      "bullet3": "Zobacz, ile miejsca na iPhone zwolniłeś"
+    },
+    "similarPhotos": {
+      "title": "Wybieraj zdjęcia jak profesjonalista",
+      "description": "Najlepsza aplikacja do usuwania duplikatów na iPhone — grupuj podobne zdjęcia, wybierz najostrzejsze, usuń resztę hurtowo.",
+      "bullet1": "Znajdź i usuń duplikaty natychmiast",
+      "bullet2": "Inteligentny wybór — automatycznie wybiera najostrzejsze zdjęcie",
+      "bullet3": "Hurtowe usuwanie podobnych i zduplikowanych zdjęć"
+    },
+    "screenshots": {
+      "title": "Zrzuty ekranu",
+      "description": "Zbierz wszystkie zrzuty ekranu w jednym miejscu i łatwo nimi zarządzaj.",
+      "bullet1": "Automatyczne grupowanie wszystkich zrzutów ekranu",
+      "bullet2": "Sortuj i filtruj według daty",
+      "bullet3": "Hurtowe zaznaczanie i usuwanie"
+    },
+    "largeVideos": {
+      "title": "Znajdowanie dużych filmów",
+      "description": "Znajdź filmy zajmujące najwięcej miejsca i zoptymalizuj pamięć.",
+      "bullet1": "Znajdź filmy zajmujące najwięcej miejsca na iPhone",
+      "bullet2": "Zobacz łączny rozmiar filmów na jeden rzut oka",
+      "bullet3": "Zwolnij miejsce natychmiast po podglądzie"
+    },
+    "hidePhotos": {
+      "title": "Ukrywanie zdjęć",
+      "description": "Bezpiecznie ukryj prywatne zdjęcia z ochroną Face ID.",
+      "bullet1": "Ukryty album chroniony Face ID",
+      "bullet2": "Zdjęcia całkowicie ukryte z galerii",
+      "bullet3": "Szybki i bezpieczny dostęp"
+    }
+  },
+  "howItWorks": {
+    "label": "Jak to działa",
+    "heading": "Czysta galeria w trzech krokach",
+    "step1": {
+      "title": "Pobierz",
+      "description": "Pobierz Gallery Guy za darmo z App Store."
+    },
+    "step2": {
+      "title": "Skanuj",
+      "description": "Automatycznie skanuje Twoją galerię zdjęć."
+    },
+    "step3": {
+      "title": "Wyczyść",
+      "description": "Wybierz niepotrzebne pliki i usuń jednym dotknięciem."
+    }
+  },
+  "finalCta": {
+    "heading": "Zacznij czyścić swoją galerię",
+    "subtext": "Pobierz za darmo i natychmiast poczuj różnicę.",
+    "download": "Pobierz z App Store",
+    "badges": "Darmowe · Bez reklam · Ochrona prywatności"
+  },
+  "pricing": {
+    "label": "Bez subskrypcji",
+    "heading": "Jednorazowy zakup. Twoja na zawsze.",
+    "subtext": "Najlepszy dożywotni czyszczacz zdjęć na iPhone — bez subskrypcji, jedna płatność, używaj na zawsze.",
+    "oneTime": {
+      "title": "Jednorazowy zakup",
+      "description": "Zapłać raz, używaj na zawsze. Bez miesięcznych opłat, bez ukrytych kosztów."
+    },
+    "noAds": {
+      "title": "Bez reklam",
+      "description": "Bez reklam, bez przerw. Po prostu czyste doświadczenie."
+    },
+    "privacy": {
+      "title": "Ochrona prywatności",
+      "description": "Całe przetwarzanie odbywa się na Twoim urządzeniu. Bez przesyłania do chmury, Twoje zdjęcia pozostają Twoje."
+    }
+  },
+  "faq": {
+    "q1": "Jaki jest najlepszy sposób na usunięcie podobnych zdjęć na iPhone?",
+    "a1": "Gallery Guy używa inteligentnego wykrywania podobieństwa do grupowania prawie identycznych zdjęć. Przejrzyj każdą grupę, wybierz ulubione i usuń resztę jednym dotknięciem — bez ręcznego porównywania.",
+    "q2": "Jak wybrać najlepsze zdjęcie z serii na iPhone?",
+    "a2": "Gallery Guy automatycznie analizuje serie i podobne zdjęcia i poleca najostrzejsze, najlepiej skomponowane. Przesuń między zdjęciami, aby porównać i potwierdzić wybór — najłatwiejszy sposób na usuwanie zdjęć seryjnych na iPhone.",
+    "q3": "Jak usunąć duplikaty na iPhone?",
+    "a3": "Pobierz Gallery Guy z App Store i zeskanuj bibliotekę zdjęć — natychmiast grupuje duplikaty i podobne zdjęcia. Najłatwiejszy sposób na wyczyszczenie biblioteki zdjęć iPhone — wybierz, które chcesz zachować, usuń resztę hurtowo.",
+    "q4": "Czy istnieje darmowa aplikacja do znajdowania i usuwania podobnych zdjęć na iPhone?",
+    "a4": "Tak — Gallery Guy jest całkowicie darmowy i bez reklam. Wykrywa podobne zdjęcia, rozmyte zdjęcia, zrzuty ekranu i duże filmy, aby pomóc Ci zwolnić miejsce na iPhone.",
+    "q5": "Czy istnieje aplikacja na iPhone, która usuwa zdjęcia przesuwaniem?",
+    "a5": "Z Gallery Guy możesz przesuwać między podobnymi zdjęciami jak w aplikacji randkowej — zachowaj ulubione, usuń resztę. Najszybszy sposób na wyczyszczenie biblioteki zdjęć.",
+    "q6": "Czy istnieje aplikacja typu Tinder do zdjęć?",
+    "a6": "Gallery Guy działa jak Tinder dla Twojej galerii — grupuje podobne zdjęcia i pozwala przesuwać, aby wybrać najlepsze. Proste przesunięcie, aby zachować lub usunąć, sprawia, że sortowanie zdjęć jest szybkie i zabawne.",
+    "q7": "Czy istnieje czyszczacz zdjęć na iPhone z jednorazowym zakupem bez subskrypcji?",
+    "a7": "Gallery Guy to dożywotni jednorazowy zakup — bez miesięcznych opłat, bez ukrytych kosztów. Zapłać raz i uzyskaj wszystkie funkcje na zawsze, w tym inteligentne wykrywanie podobieństwa, czyszczenie rozmytych zdjęć i optymalizację pamięci.",
+    "q8": "Czy istnieje zabawny organizator zdjęć na iPhone?",
+    "a8": "Gallery Guy sprawia, że sortowanie zdjęć jest naprawdę zabawne — przeglądaj zdjęcia jak w aplikacji randkowej, porównuj podobne zdjęcia obok siebie i obserwuj, jak zwalnia się miejsce w czasie rzeczywistym. Nudna praca zamienia się w satysfakcjonujące doświadczenie.",
+    "q9": "Jaka jest najlepsza aplikacja do sortowania zdjęć na iPhone?",
+    "a9": "Gallery Guy to najszybsza aplikacja do sortowania zdjęć na iPhone. Automatycznie grupuje podobne i zduplikowane zdjęcia, poleca najlepsze w każdej grupie i może usunąć resztę hurtowo. Idealna do organizowania zdjęć z wakacji, wydarzeń i codziennych serii.",
+    "q10": "Jak szybko posortować zdjęcia na iPhone?",
+    "a10": "Pobierz Gallery Guy i zeskanuj bibliotekę — natychmiast grupuje podobne zdjęcia. Przejrzyj każdą grupę, wybierz najlepsze, usuń resztę hurtowo. Godziny pracy zrobione w minuty.",
+    "q11": "Czy Gallery Guy to dobra alternatywa dla CleanMyPhone?",
+    "a11": "Gallery Guy to doskonała alternatywa dla CleanMyPhone — inteligentne wykrywanie podobieństwa, czyszczenie rozmytych zdjęć, zarządzanie zrzutami ekranu, wyszukiwanie dużych filmów. Jednorazowy zakup bez subskrypcji, bez reklam, pełna ochrona prywatności.",
+    "q12": "Czy Gallery Guy jest wart? Co mówią opinie?",
+    "a12": "Gallery Guy ma 4,9 gwiazdek w App Store. Użytkownicy cenią funkcję przesuń-aby-porównać, automatyczny wybór najlepszego zdjęcia i jednorazowy zakup bez subskrypcji. Wypróbuj za darmo, bez reklam.",
+    "q13": "Miejsce na iPhone jest pełne, ale nie mogę znaleźć nic do usunięcia — co zrobić?",
+    "a13": "Jeśli miejsce na iPhone jest pełne, ale nie możesz znaleźć nic do usunięcia, problem to zwykle setki podobnych zdjęć, stare zrzuty ekranu i duże filmy ukryte w bibliotece. Gallery Guy skanuje wszystko i pokazuje dokładnie, co zajmuje miejsce — usuń duplikaty, rozmyte zdjęcia i zapomniane filmy, aby natychmiast zwolnić miejsce.",
+    "q14": "Co zrobić, gdy masz tysiące zdjęć na iPhone?",
+    "a14": "Gallery Guy został stworzony właśnie do tego — skanuje tysiące zdjęć w sekundy, grupuje podobne i duplikaty, pomaga zachować tylko najlepsze. Zamiast ręcznie przewijać całą bibliotekę, pozwól Gallery Guy zorganizować za Ciebie.",
+    "q15": "Jak zorganizować zdjęcia na iPhone i zwolnić miejsce?",
+    "a15": "Gallery Guy pomaga zorganizować zdjęcia na iPhone, grupując podobne zdjęcia, zrzuty ekranu i duże filmy osobno. Wybierz najlepsze zdjęcie z każdej grupy, usuń resztę i zwolnij miejsce na iPhone ze zdjęć, których już nie potrzebujesz."
+  },
+  "footer": {
+    "tagline": "Najinteligentniejszy sposób na utrzymanie czystej galerii.",
+    "product": "Produkt",
+    "productFeatures": "Funkcje",
+    "productDownload": "Pobierz",
+    "legal": "Prawne",
+    "legalPrivacy": "Polityka prywatności",
+    "legalTerms": "Warunki użytkowania",
+    "copyright": "© 2026 Gallery Guy. All rights reserved.",
+    "madeIn": "Stworzone z ❤ w Turcji"
+  }
+}

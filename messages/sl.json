@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "Funkcije",
+    "howItWorks": "Kako deluje",
+    "about": "O aplikaciji"
+  },
+  "hero": {
+    "badge": "Brezplačno za iOS",
+    "taglineStatic": "Spoznaj Gallery Guy.",
+    "rotating0": "Izbira fotografije kot profesionalec.",
+    "rotating1": "Odstranjuje dvojnike.",
+    "rotating2": "Naredi brisanje zabavno.",
+    "rotating3": "Sprosti prostor za shranjevanje.",
+    "rotating4": "Skrije zasebne fotografije.",
+    "subtagline": "Najboljši organizator fotografij za iPhone — podrsajte za primerjavo kot na Tinderu, izberite najboljšo fotografijo, izbrišite ostalo.",
+    "download": "Prenesi iz App Store",
+    "rating": "Brezplačno · 4.9 ★",
+    "qrLabel": "Skenirajte s kamero iPhona",
+    "qrSublabel": "Preusmerjeni boste v App Store",
+    "compareTitle": "Podrsajte za primerjavo",
+    "compareDescription": "Podrsajte med podobnimi fotografijami, da odkrijete razlike — izberite svojo najljubšo in Gallery Guy poskrbi za ostalo.",
+    "explore": "Razišči"
+  },
+  "features": {
+    "label": "Funkcije",
+    "heading": "Vse v eni aplikaciji",
+    "smartMaintenance": {
+      "title": "Pametno čiščenje fotografij",
+      "description": "Samodejno odkrijte nepotrebne in zamegljene fotografije ter sprostite prostor za shranjevanje."
+    },
+    "similarPhotos": {
+      "title": "Odstranjevanje dvojnikov",
+      "description": "Združite podobne fotografije, izberite najboljšo in izbrišite ostalo."
+    },
+    "screenshots": {
+      "title": "Posnetki zaslona",
+      "description": "Zberite vse posnetke zaslona na enem mestu in jih očistite naenkrat."
+    },
+    "largeVideos": {
+      "title": "Iskanje velikih videov",
+      "description": "Poiščite videe, ki zasedejo največ prostora, in jih upravljajte."
+    }
+  },
+  "showcase": {
+    "label": "Aplikacija",
+    "heading": "Oglejte si vsako funkcijo od blizu",
+    "smartMaintenance": {
+      "title": "Pametno čiščenje fotografij",
+      "description": "Podrsajte skozi zamegljene in nepotrebne fotografije kot na Tinderu — izberite najboljše, izbrišite ostalo, sprostite prostor.",
+      "bullet1": "Najboljše orodje za čiščenje zamegljenih in nekakovostnih fotografij",
+      "bullet2": "Odstranite nepotrebne fotografije z enim dotikom",
+      "bullet3": "Poglejte, koliko iPhone prostora ste sprostili"
+    },
+    "similarPhotos": {
+      "title": "Izbirajte fotografije kot profesionalec",
+      "description": "Najboljša aplikacija za odstranjevanje dvojnikov za iPhone — združite podobne fotografije, izberite najostrejšo, izbrišite ostalo množično.",
+      "bullet1": "Poiščite in odstranite dvojnike takoj",
+      "bullet2": "Pameten izbor — samodejno izbere najostrejšo fotografijo",
+      "bullet3": "Množično brisanje podobnih in podvojenih fotografij"
+    },
+    "screenshots": {
+      "title": "Posnetki zaslona",
+      "description": "Zberite vse posnetke zaslona na enem mestu in jih enostavno upravljajte.",
+      "bullet1": "Samodejno združevanje vseh posnetkov zaslona",
+      "bullet2": "Razvrstite in filtrirajte po datumu",
+      "bullet3": "Množično izbiranje in brisanje"
+    },
+    "largeVideos": {
+      "title": "Iskanje velikih videov",
+      "description": "Poiščite videe, ki zasedejo največ prostora, in optimizirajte shranjevanje.",
+      "bullet1": "Poiščite videe, ki zasedejo največ prostora na iPhonu",
+      "bullet2": "Oglejte si skupno velikost videov na en pogled",
+      "bullet3": "Sprostite prostor takoj po predogledu"
+    },
+    "hidePhotos": {
+      "title": "Skrivanje fotografij",
+      "description": "Varno skrijte zasebne fotografije z zaščito Face ID.",
+      "bullet1": "Skriti album zaščiten s Face ID",
+      "bullet2": "Fotografije popolnoma skrite iz galerije",
+      "bullet3": "Hiter in varen dostop"
+    }
+  },
+  "howItWorks": {
+    "label": "Kako deluje",
+    "heading": "Čista galerija v treh korakih",
+    "step1": {
+      "title": "Prenesite",
+      "description": "Prenesite Gallery Guy brezplačno iz App Store."
+    },
+    "step2": {
+      "title": "Skenirajte",
+      "description": "Samodejno skenira vašo fotogalerijo."
+    },
+    "step3": {
+      "title": "Očistite",
+      "description": "Izberite nepotrebne datoteke in izbrišite z enim dotikom."
+    }
+  },
+  "finalCta": {
+    "heading": "Začnite čistiti svojo galerijo",
+    "subtext": "Prenesite brezplačno in takoj občutite razliko.",
+    "download": "Prenesi iz App Store",
+    "badges": "Brezplačno · Brez oglasov · Zaščita zasebnosti"
+  },
+  "pricing": {
+    "label": "Brez naročnine",
+    "heading": "Enkratni nakup. Vaša za vedno.",
+    "subtext": "Najboljši dosmrtni čistilec fotografij za iPhone — brez naročnine, eno plačilo, uporabljajte za vedno.",
+    "oneTime": {
+      "title": "Enkratni nakup",
+      "description": "Plačajte enkrat, uporabljajte za vedno. Brez mesečnih pristojbin, brez skritih stroškov."
+    },
+    "noAds": {
+      "title": "Brez oglasov",
+      "description": "Brez oglasov, brez prekinitev. Samo čista izkušnja."
+    },
+    "privacy": {
+      "title": "Zaščita zasebnosti",
+      "description": "Vsa obdelava poteka na vaši napravi. Brez nalaganja v oblak, vaše fotografije ostanejo vaše."
+    }
+  },
+  "faq": {
+    "q1": "Kateri je najboljši način za brisanje podobnih fotografij na iPhonu?",
+    "a1": "Gallery Guy uporablja pametno zaznavanje podobnosti za združevanje skoraj identičnih fotografij. Preglejte vsako skupino, izberite svojo najljubšo in izbrišite ostalo z enim dotikom — brez ročnega primerjanja.",
+    "q2": "Kako izbrati najboljšo fotografijo iz serijskih posnetkov na iPhonu?",
+    "a2": "Gallery Guy samodejno analizira serije in podobne fotografije ter priporoči najostrejšo, najbolje komponirano. Podrsajte med fotografijami za primerjavo in potrdite svoj izbor — najlažji način za brisanje serijskih posnetkov na iPhonu.",
+    "q3": "Kako izbrisati dvojnike na iPhonu?",
+    "a3": "Prenesite Gallery Guy iz App Store in skenirajte knjižnico fotografij — takoj združi dvojnike in podobne fotografije. Najlažji način za čiščenje knjižnice fotografij na iPhonu — izberite, katere želite obdržati, izbrišite ostalo množično.",
+    "q4": "Ali obstaja brezplačna aplikacija za iskanje in odstranjevanje podobnih fotografij na iPhonu?",
+    "a4": "Da — Gallery Guy je popolnoma brezplačen in brez oglasov. Odkriva podobne fotografije, zamegljene fotografije, posnetke zaslona in velike videe, da vam pomaga sprostiti prostor na iPhonu.",
+    "q5": "Ali obstaja iPhone aplikacija, ki briše fotografije s podrsavanjem?",
+    "a5": "Z Gallery Guy lahko podrsate med podobnimi fotografijami kot na zmenkovalni aplikaciji — obdržite najljubše, izbrišite ostalo. Najhitrejši način za čiščenje knjižnice fotografij.",
+    "q6": "Ali obstaja Tinder aplikacija za fotografije?",
+    "a6": "Gallery Guy deluje kot Tinder za vašo galerijo — združuje podobne fotografije in vam omogoča podrsavanje za izbiro najboljše. Preprosto podrsavanje za obdržanje ali brisanje naredi razvrščanje fotografij hitro in zabavno.",
+    "q7": "Ali obstaja čistilec fotografij za iPhone z enkratnim nakupom brez naročnine?",
+    "a7": "Gallery Guy je dosmrtni enkratni nakup — brez mesečnih pristojbin, brez skritih stroškov. Plačajte enkrat in dobite vse funkcije za vedno, vključno s pametnim zaznavanjem podobnosti, čiščenjem zamegljenih fotografij in optimizacijo shranjevanja.",
+    "q8": "Ali obstaja zabaven organizator fotografij za iPhone?",
+    "a8": "Gallery Guy naredi razvrščanje fotografij resnično zabavno — pregledujte fotografije kot na zmenkovalni aplikaciji, primerjajte podobne fotografije eno ob drugi in opazujte, kako se prostor sprošča v realnem času. Dolgočasno delo se spremeni v zadovoljujočo izkušnjo.",
+    "q9": "Katera je najboljša aplikacija za razvrščanje fotografij na iPhonu?",
+    "a9": "Gallery Guy je najhitrejša aplikacija za razvrščanje fotografij za iPhone. Samodejno združuje podobne in podvojene fotografije, priporoča najboljšo v vsaki skupini in lahko izbriše ostalo množično. Popolna za organiziranje počitniških fotografij, fotografij z dogodkov in vsakodnevnih serij.",
+    "q10": "Kako hitro razvrstiti fotografije na iPhonu?",
+    "a10": "Prenesite Gallery Guy in skenirajte knjižnico — takoj združi podobne fotografije. Preglejte vsako skupino, izberite najboljšo, izbrišite ostalo množično. Ure dela opravljenega v minutah.",
+    "q11": "Ali je Gallery Guy dobra alternativa za CleanMyPhone?",
+    "a11": "Gallery Guy je odlična alternativa za CleanMyPhone — pametno zaznavanje podobnosti, čiščenje zamegljenih fotografij, upravljanje posnetkov zaslona, iskanje velikih videov. Enkratni nakup brez naročnine, brez oglasov, popolna zaščita zasebnosti.",
+    "q12": "Ali se Gallery Guy splača? Kaj pravijo ocene?",
+    "a12": "Gallery Guy ima 4,9 zvezdic v App Store. Uporabniki cenijo funkcijo podrsaj-za-primerjavo, samodejni izbor najboljše fotografije in enkratni nakup brez naročnine. Preizkusite brezplačno, brez oglasov.",
+    "q13": "Prostor na iPhonu je poln, a ne najdem ničesar za brisanje — kaj naj naredim?",
+    "a13": "Če je prostor na iPhonu poln, a ne najdete ničesar za brisanje, je problem običajno na stotine podobnih fotografij, starih posnetkov zaslona in velikih videov, skritih v knjižnici. Gallery Guy skenira vse in pokaže natančno, kaj zaseda prostor — odstranite dvojnike, zamegljene fotografije in pozabljene videe za takojšnje sproščanje prostora.",
+    "q14": "Kaj narediti, če imate na iPhonu na tisoče fotografij?",
+    "a14": "Gallery Guy je ustvarjen natanko za to — skenira na tisoče fotografij v sekundah, združi podobne in dvojnike, vam pomaga obdržati le najboljše. Namesto ročnega listanja skozi celotno knjižnico pustite Gallery Guy, da organizira za vas.",
+    "q15": "Kako organizirati fotografije na iPhonu in sprostiti prostor?",
+    "a15": "Gallery Guy vam pomaga organizirati fotografije na iPhonu z združevanjem podobnih fotografij, posnetkov zaslona in velikih videov ločeno. Izberite najboljšo fotografijo iz vsake skupine, izbrišite ostalo in sprostite prostor na iPhonu od fotografij, ki jih ne potrebujete več."
+  },
+  "footer": {
+    "tagline": "Najpametnejši način za vzdrževanje čiste galerije.",
+    "product": "Izdelek",
+    "productFeatures": "Funkcije",
+    "productDownload": "Prenesi",
+    "legal": "Pravno",
+    "legalPrivacy": "Politika zasebnosti",
+    "legalTerms": "Pogoji uporabe",
+    "copyright": "© 2026 Gallery Guy. All rights reserved.",
+    "madeIn": "Narejeno z ❤ v Turčiji"
+  }
+}

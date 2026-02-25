@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "Funkciók",
+    "howItWorks": "Hogyan működik",
+    "about": "Rólunk"
+  },
+  "hero": {
+    "badge": "Ingyenes iOS-re",
+    "taglineStatic": "Ismerd meg a Gallery Guy-t.",
+    "rotating0": "Profiként válogat fotókat.",
+    "rotating1": "Eltávolítja a duplikátumokat.",
+    "rotating2": "Szórakoztatóvá teszi a törlést.",
+    "rotating3": "Tárhelyet szabadít fel.",
+    "rotating4": "Elrejti a privát fotókat.",
+    "subtagline": "A legjobb fotórendező iPhone-ra — húzd az ujjad az összehasonlításhoz mint a Tinderen, válaszd a legjobb fotót, töröld a többit.",
+    "download": "Letöltés az App Store-ból",
+    "rating": "Ingyenes · 4.9 ★",
+    "qrLabel": "Szkenneld be az iPhone kamerájával",
+    "qrSublabel": "Az App Store-ba leszel átirányítva",
+    "compareTitle": "Húzd az ujjad az összehasonlításhoz",
+    "compareDescription": "Húzd az ujjad a hasonló fotók között a különbségek felfedezéséhez — válaszd ki a kedvencedet és a Gallery Guy intézi a többit.",
+    "explore": "Felfedezés"
+  },
+  "features": {
+    "label": "Funkciók",
+    "heading": "Minden egy alkalmazásban",
+    "smartMaintenance": {
+      "title": "Intelligens fotótisztítás",
+      "description": "Automatikusan felismeri a felesleges és elmosódott fotókat, és felszabadítja a tárhelyet."
+    },
+    "similarPhotos": {
+      "title": "Duplikátumok eltávolítása",
+      "description": "Csoportosítsd a hasonló fotókat, válaszd ki a legjobbat és töröld a többit."
+    },
+    "screenshots": {
+      "title": "Képernyőképek",
+      "description": "Gyűjtsd össze az összes képernyőképet egy helyen és tisztítsd meg őket egyszerre."
+    },
+    "largeVideos": {
+      "title": "Nagy videók keresése",
+      "description": "Találd meg a legtöbb tárhelyet foglaló videókat és kezeld őket."
+    }
+  },
+  "showcase": {
+    "label": "Alkalmazás",
+    "heading": "Nézd meg közelebbről az összes funkciót",
+    "smartMaintenance": {
+      "title": "Intelligens fotótisztítás",
+      "description": "Húzd az ujjad az elmosódott és felesleges fotókon mint a Tinderen — válaszd a legjobbakat, töröld a többit, szabadíts fel tárhelyet.",
+      "bullet1": "A legjobb eszköz az elmosódott és gyenge minőségű fotók tisztításához",
+      "bullet2": "Távolítsd el a felesleges fotókat egyetlen érintéssel",
+      "bullet3": "Nézd meg, mennyi iPhone tárhelyet szabadítottál fel"
+    },
+    "similarPhotos": {
+      "title": "Válogatsd a fotókat mint egy profi",
+      "description": "A legjobb duplikátum-eltávolító alkalmazás iPhone-ra — csoportosítsd a hasonló fotókat, válaszd a legélesebbet, töröld a többit tömegesen.",
+      "bullet1": "Azonnal megtalálja és eltávolítja a duplikátumokat",
+      "bullet2": "Intelligens kiválasztás — automatikusan a legélesebb fotót választja",
+      "bullet3": "Hasonló és duplikált fotók tömeges törlése"
+    },
+    "screenshots": {
+      "title": "Képernyőképek",
+      "description": "Gyűjtsd össze az összes képernyőképedet egy helyen és könnyen kezeld őket.",
+      "bullet1": "Összes képernyőkép automatikus csoportosítása",
+      "bullet2": "Rendezés és szűrés dátum szerint",
+      "bullet3": "Tömeges kijelölés és törlés"
+    },
+    "largeVideos": {
+      "title": "Nagy videók keresése",
+      "description": "Találd meg a legtöbb helyet foglaló videókat és optimalizáld a tárhelyet.",
+      "bullet1": "Találd meg a legtöbb helyet foglaló videókat az iPhone-on",
+      "bullet2": "Nézd meg a videók összméretét egyetlen pillantással",
+      "bullet3": "Azonnal szabadíts fel helyet az előnézet után"
+    },
+    "hidePhotos": {
+      "title": "Fotók elrejtése",
+      "description": "Biztonságosan rejtsd el a privát fotókat Face ID védelemmel.",
+      "bullet1": "Face ID-vel védett rejtett album",
+      "bullet2": "Fotók teljesen elrejtve a galériából",
+      "bullet3": "Gyors és biztonságos hozzáférés"
+    }
+  },
+  "howItWorks": {
+    "label": "Hogyan működik",
+    "heading": "Tiszta galéria három lépésben",
+    "step1": {
+      "title": "Töltsd le",
+      "description": "Töltsd le a Gallery Guy-t ingyen az App Store-ból."
+    },
+    "step2": {
+      "title": "Szkenneld",
+      "description": "Automatikusan átvizsgálja a fotógalériádat."
+    },
+    "step3": {
+      "title": "Tisztítsd",
+      "description": "Válaszd ki a felesleges fájlokat és töröld egyetlen érintéssel."
+    }
+  },
+  "finalCta": {
+    "heading": "Kezdd el tisztítani a galériádat",
+    "subtext": "Töltsd le ingyen és azonnal érezd a különbséget.",
+    "download": "Letöltés az App Store-ból",
+    "badges": "Ingyenes · Reklámmentes · Adatvédelem"
+  },
+  "pricing": {
+    "label": "Előfizetés nélkül",
+    "heading": "Egyszeri vásárlás. Örökre a tiéd.",
+    "subtext": "A legjobb élethosszig tartó fotótisztító iPhone-ra — előfizetés nélkül, egy fizetés, használd örökre.",
+    "oneTime": {
+      "title": "Egyszeri vásárlás",
+      "description": "Fizess egyszer, használd örökre. Nincs havi díj, nincsenek rejtett költségek."
+    },
+    "noAds": {
+      "title": "Reklámmentes",
+      "description": "Nincs reklám, nincs megszakítás. Csak tiszta élmény."
+    },
+    "privacy": {
+      "title": "Adatvédelem",
+      "description": "Minden feldolgozás az eszközödön történik. Nincs felhőfeltöltés, a fotóid a tieid maradnak."
+    }
+  },
+  "faq": {
+    "q1": "Mi a legjobb módja a hasonló fotók törlésének iPhone-on?",
+    "a1": "A Gallery Guy intelligens hasonlóság-felismerést használ a szinte azonos fotók csoportosítására. Nézd át az egyes csoportokat, válaszd ki a kedvencedet és töröld a többit egyetlen érintéssel — nincs szükség kézi összehasonlításra.",
+    "q2": "Hogyan válasszuk ki a legjobb fotót sorozatfelvételekből iPhone-on?",
+    "a2": "A Gallery Guy automatikusan elemzi a sorozatokat és hasonló fotókat, és a legélesebb, legjobban komponált képet ajánlja. Húzd az ujjad a fotók között az összehasonlításhoz és erősítsd meg a választásodat — a legegyszerűbb módja a sorozatfelvételek törlésének iPhone-on.",
+    "q3": "Hogyan töröljük a duplikátumokat iPhone-on?",
+    "a3": "Töltsd le a Gallery Guy-t az App Store-ból és szkenneld be a fotókönyvtáradat — azonnal csoportosítja a duplikátumokat és hasonló fotókat. A legegyszerűbb módja az iPhone fotókönyvtár tisztításának — válaszd ki melyeket szeretnéd megtartani, töröld a többit tömegesen.",
+    "q4": "Van ingyenes alkalmazás hasonló fotók keresésére és eltávolítására iPhone-on?",
+    "a4": "Igen — a Gallery Guy teljesen ingyenes és reklámmentes. Felismeri a hasonló fotókat, elmosódott fotókat, képernyőképeket és nagy videókat, hogy segítsen iPhone tárhelyet felszabadítani.",
+    "q5": "Van iPhone alkalmazás, ami húzással törli a fotókat?",
+    "a5": "A Gallery Guy-jal húzhatod az ujjad a hasonló fotók között mint egy társkereső alkalmazásban — tartsd meg a kedvenceket, töröld a többit. A leggyorsabb módja a fotókönyvtár tisztításának.",
+    "q6": "Van Tinder típusú alkalmazás fotókhoz?",
+    "a6": "A Gallery Guy úgy működik mint a Tinder a galériádhoz — csoportosítja a hasonló fotókat és lehetővé teszi, hogy húzással válaszd ki a legjobbat. Az egyszerű húzás a megtartáshoz vagy törléshez gyorssá és szórakoztatóvá teszi a fotóválogatást.",
+    "q7": "Van iPhone fotótisztító egyszeri vásárlással előfizetés nélkül?",
+    "a7": "A Gallery Guy élethosszig tartó egyszeri vásárlás — nincs havi díj, nincsenek rejtett költségek. Fizess egyszer és kapd meg az összes funkciót örökre, beleértve az intelligens hasonlóság-felismerést, elmosódott fotók tisztítását és tárhely-optimalizálást.",
+    "q8": "Van szórakoztató fotórendező iPhone-ra?",
+    "a8": "A Gallery Guy valóban szórakoztatóvá teszi a fotóválogatást — nézd át a fotókat mint egy társkereső alkalmazásban, hasonlítsd össze a hasonló fotókat egymás mellett és figyeld, ahogy valós időben felszabadul a tárhely. Az unalmas munka kielégítő élménnyé változik.",
+    "q9": "Mi a legjobb alkalmazás fotók válogatásához iPhone-on?",
+    "a9": "A Gallery Guy a leggyorsabb fotóválogató alkalmazás iPhone-ra. Automatikusan csoportosítja a hasonló és duplikált fotókat, ajánlja a legjobbat minden csoportban és tömegesen törölheti a többit. Tökéletes nyaralási fotók, eseményfotók és napi sorozatok rendezéséhez.",
+    "q10": "Hogyan válogassuk gyorsan a fotókat iPhone-on?",
+    "a10": "Töltsd le a Gallery Guy-t és szkenneld be a könyvtáradat — azonnal csoportosítja a hasonló fotókat. Nézd át az egyes csoportokat, válaszd ki a legjobbat, töröld a többit tömegesen. Órák munkája percek alatt.",
+    "q11": "A Gallery Guy jó alternatíva a CleanMyPhone-hoz?",
+    "a11": "A Gallery Guy kiváló alternatíva a CleanMyPhone-hoz — intelligens hasonlóság-felismerés, elmosódott fotók tisztítása, képernyőképek kezelése, nagy videók keresése. Egyszeri vásárlás előfizetés nélkül, reklámmentes, teljes adatvédelem.",
+    "q12": "Megéri a Gallery Guy? Mit mondanak az értékelések?",
+    "a12": "A Gallery Guy 4,9 csillagos az App Store-ban. A felhasználók szeretik a húzd-az-összehasonlításhoz funkciót, az automatikus legjobb fotó kiválasztást és az egyszeri vásárlást előfizetés nélkül. Próbáld ki ingyen, reklámmentes.",
+    "q13": "Az iPhone tárhelye megtelt, de nem találok mit törölni — mit tegyek?",
+    "a13": "Ha az iPhone tárhelye megtelt, de nem találsz mit törölni, a probléma általában a könyvtárban rejtőző több száz hasonló fotó, régi képernyőkép és nagy videó. A Gallery Guy mindent átvizsgál és pontosan megmutatja, mi foglalja a helyet — távolítsd el a duplikátumokat, elmosódott fotókat és elfelejtett videókat az azonnali helyfelszabadításhoz.",
+    "q14": "Mit tegyünk, ha több ezer fotó van az iPhone-on?",
+    "a14": "A Gallery Guy pontosan erre készült — másodpercek alatt átvizsgál több ezer fotót, csoportosítja a hasonlókat és duplikátumokat, segít csak a legjobbakat megtartani. Ahelyett, hogy kézzel görgetnéd végig az egész könyvtárat, engedd a Gallery Guy-nak rendszerezni helyetted.",
+    "q15": "Hogyan rendezzük az iPhone fotókat és szabadítsunk fel tárhelyet?",
+    "a15": "A Gallery Guy segít rendezni az iPhone fotókat a hasonló fotók, képernyőképek és nagy videók külön csoportosításával. Válaszd ki a legjobb fotót minden csoportból, töröld a többit és szabadíts fel iPhone tárhelyet a már nem szükséges fotóktól."
+  },
+  "footer": {
+    "tagline": "A legokosabb módja a galéria tisztán tartásának.",
+    "product": "Termék",
+    "productFeatures": "Funkciók",
+    "productDownload": "Letöltés",
+    "legal": "Jogi",
+    "legalPrivacy": "Adatvédelmi irányelvek",
+    "legalTerms": "Felhasználási feltételek",
+    "copyright": "© 2026 Gallery Guy. All rights reserved.",
+    "madeIn": "❤-vel készült Törökországban"
+  }
+}

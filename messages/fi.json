@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "Ominaisuudet",
+    "howItWorks": "Miten se toimii",
+    "about": "Tietoja"
+  },
+  "hero": {
+    "badge": "Ilmainen iOS:lle",
+    "taglineStatic": "Tutustu Gallery Guyhin.",
+    "rotating0": "Valitsee kuvat kuin ammattilainen.",
+    "rotating1": "Poistaa kaksoiskappaleet.",
+    "rotating2": "Tekee poistamisesta hauskaa.",
+    "rotating3": "Vapauttaa tallennustilaa.",
+    "rotating4": "Piilottaa yksityiset kuvat.",
+    "subtagline": "iPhonen paras valokuvien järjestäjä — pyyhkäise vertaillaksesi kuin Tinderissä, valitse paras kuva, poista loput.",
+    "download": "Lataa App Storesta",
+    "rating": "Ilmainen · 4.9 ★",
+    "qrLabel": "Skannaa iPhonen kameralla",
+    "qrSublabel": "Sinut ohjataan App Storeen",
+    "compareTitle": "Pyyhkäise vertaillaksesi",
+    "compareDescription": "Pyyhkäise samankaltaisten kuvien välillä löytääksesi erot — valitse suosikkisi ja Gallery Guy hoitaa loput.",
+    "explore": "Tutustu"
+  },
+  "features": {
+    "label": "Ominaisuudet",
+    "heading": "Kaikki yhdessä sovelluksessa",
+    "smartMaintenance": {
+      "title": "Älykäs valokuvien puhdistus",
+      "description": "Tunnista automaattisesti tarpeettomat ja epätarkat kuvat ja vapauta tallennustilaa."
+    },
+    "similarPhotos": {
+      "title": "Kaksoiskappaleiden poisto",
+      "description": "Ryhmittele samankaltaiset kuvat, valitse paras ja poista loput."
+    },
+    "screenshots": {
+      "title": "Kuvakaappaukset",
+      "description": "Kerää kaikki kuvakaappaukset yhteen paikkaan ja puhdista ne kerralla."
+    },
+    "largeVideos": {
+      "title": "Suurten videoiden etsintä",
+      "description": "Etsi eniten tilaa vievät videot ja hallinnoi niitä."
+    }
+  },
+  "showcase": {
+    "label": "Sovellus",
+    "heading": "Tutustu jokaiseen ominaisuuteen läheltä",
+    "smartMaintenance": {
+      "title": "Älykäs valokuvien puhdistus",
+      "description": "Pyyhkäise epätarkkojen ja tarpeettomien kuvien läpi kuin Tinderissä — valitse parhaat, poista loput, vapauta tallennustilaa.",
+      "bullet1": "Paras työkalu epätarkkojen ja heikkolaatuisten kuvien puhdistukseen",
+      "bullet2": "Poista tarpeettomat kuvat yhdellä napautuksella",
+      "bullet3": "Katso kuinka paljon iPhone-tallennustilaa vapautit"
+    },
+    "similarPhotos": {
+      "title": "Valitse kuvat kuin ammattilainen",
+      "description": "iPhonen paras kaksoiskappaleiden poistosovellus — ryhmittele samankaltaiset kuvat, valitse terävin, poista loput kerralla.",
+      "bullet1": "Etsi ja poista kaksoiskappaleet välittömästi",
+      "bullet2": "Älykäs valinta — valitsee automaattisesti terävimmän kuvan",
+      "bullet3": "Samankaltaisten ja kaksoiskappalekuvien massapoisto"
+    },
+    "screenshots": {
+      "title": "Kuvakaappaukset",
+      "description": "Kerää kaikki kuvakaappauksesi yhteen paikkaan ja hallinnoi niitä helposti.",
+      "bullet1": "Kaikkien kuvakaappausten automaattinen ryhmittely",
+      "bullet2": "Lajittele ja suodata päivämäärän mukaan",
+      "bullet3": "Massavalinta ja -poisto"
+    },
+    "largeVideos": {
+      "title": "Suurten videoiden etsintä",
+      "description": "Etsi eniten tilaa vievät videot ja optimoi tallennustila.",
+      "bullet1": "Etsi eniten tilaa vievät videot iPhonesta",
+      "bullet2": "Katso videoiden kokonaiskoko yhdellä silmäyksellä",
+      "bullet3": "Vapauta tilaa heti esikatselun jälkeen"
+    },
+    "hidePhotos": {
+      "title": "Kuvien piilotus",
+      "description": "Piilota yksityiset kuvat turvallisesti Face ID -suojauksella.",
+      "bullet1": "Face ID -suojattu piilotettu albumi",
+      "bullet2": "Kuvat täysin piilossa galleriasta",
+      "bullet3": "Nopea ja turvallinen pääsy"
+    }
+  },
+  "howItWorks": {
+    "label": "Miten se toimii",
+    "heading": "Puhdas galleria kolmessa vaiheessa",
+    "step1": {
+      "title": "Lataa",
+      "description": "Lataa Gallery Guy ilmaiseksi App Storesta."
+    },
+    "step2": {
+      "title": "Skannaa",
+      "description": "Skannaa valokuvagalleriasi automaattisesti."
+    },
+    "step3": {
+      "title": "Puhdista",
+      "description": "Valitse tarpeettomat tiedostot ja poista yhdellä napautuksella."
+    }
+  },
+  "finalCta": {
+    "heading": "Aloita galleriasi puhdistaminen",
+    "subtext": "Lataa ilmaiseksi ja tunne ero heti.",
+    "download": "Lataa App Storesta",
+    "badges": "Ilmainen · Ei mainoksia · Yksityisyyden suoja"
+  },
+  "pricing": {
+    "label": "Ei tilausta",
+    "heading": "Kertaosto. Sinun ikuisesti.",
+    "subtext": "iPhonen paras elinikäinen valokuvien puhdistaja — ei tilausta, yksi maksu, käytä ikuisesti.",
+    "oneTime": {
+      "title": "Kertaosto",
+      "description": "Maksa kerran, käytä ikuisesti. Ei kuukausimaksuja, ei piilotettuja kuluja."
+    },
+    "noAds": {
+      "title": "Ei mainoksia",
+      "description": "Ei mainoksia, ei keskeytyksiä. Vain puhdas kokemus."
+    },
+    "privacy": {
+      "title": "Yksityisyyden suoja",
+      "description": "Kaikki käsittely tapahtuu laitteellasi. Ei pilvilatauksia, valokuvasi pysyvät sinun."
+    }
+  },
+  "faq": {
+    "q1": "Mikä on paras tapa poistaa samankaltaiset kuvat iPhonesta?",
+    "a1": "Gallery Guy käyttää älykästä samankaltaisuuden tunnistusta ryhmitelläkseen lähes identtiset kuvat. Selaa jokainen ryhmä, valitse suosikkisi ja poista loput yhdellä napautuksella — ei manuaalista vertailua.",
+    "q2": "Miten valita paras kuva sarjakuvista iPhonessa?",
+    "a2": "Gallery Guy analysoi automaattisesti sarjat ja samankaltaiset kuvat ja suosittelee terävintä, parhaiten sommiteltua. Pyyhkäise kuvien välillä vertaillaksesi ja vahvista valintasi — helpoin tapa poistaa sarjakuvia iPhonesta.",
+    "q3": "Miten poistaa kaksoiskappaleet iPhonesta?",
+    "a3": "Lataa Gallery Guy App Storesta ja skannaa valokuvakirjastosi — ryhmittelee kaksoiskappaleet ja samankaltaiset kuvat välittömästi. Helpoin tapa puhdistaa iPhonen valokuvakirjasto — valitse mitkä haluat pitää, poista loput kerralla.",
+    "q4": "Onko ilmainen sovellus samankaltaisten kuvien etsimiseen ja poistamiseen iPhonesta?",
+    "a4": "Kyllä — Gallery Guy on täysin ilmainen ja mainokseton. Se tunnistaa samankaltaiset kuvat, epätarkat kuvat, kuvakaappaukset ja suuret videot auttaakseen sinua vapauttamaan iPhone-tallennustilaa.",
+    "q5": "Onko iPhone-sovellus, joka poistaa kuvia pyyhkäisemällä?",
+    "a5": "Gallery Guyn avulla voit pyyhkäistä samankaltaisten kuvien välillä kuin deittisovelluksessa — pidä suosikit, poista loput. Nopein tapa puhdistaa valokuvakirjasto.",
+    "q6": "Onko Tinder-tyyppinen sovellus kuville?",
+    "a6": "Gallery Guy toimii kuin Tinder galleriastasi — ryhmittelee samankaltaiset kuvat ja antaa sinun pyyhkäistä valitaksesi parhaan. Yksinkertainen pyyhkäisy pitämiseen tai poistamiseen tekee kuvien lajittelusta nopeaa ja hauskaa.",
+    "q7": "Onko iPhone-valokuvien puhdistaja kertaostoksella ilman tilausta?",
+    "a7": "Gallery Guy on elinikäinen kertaosto — ei kuukausimaksuja, ei piilotettuja kuluja. Maksa kerran ja saa kaikki ominaisuudet ikuisesti, mukaan lukien älykäs samankaltaisuuden tunnistus, epätarkkojen kuvien puhdistus ja tallennustilan optimointi.",
+    "q8": "Onko hauska valokuvien järjestäjä iPhonelle?",
+    "a8": "Gallery Guy tekee kuvien lajittelusta todella hauskaa — selaa kuvia kuin deittisovelluksessa, vertaa samankaltaisia kuvia vierekkäin ja katso tallennustilan vapautuvan reaaliajassa. Tylsä työ muuttuu tyydyttäväksi kokemukseksi.",
+    "q9": "Mikä on paras sovellus kuvien lajitteluun iPhonessa?",
+    "a9": "Gallery Guy on nopein kuvien lajittelusovellus iPhonelle. Ryhmittelee automaattisesti samankaltaiset ja kaksoiskappalekuvat, suosittelee parasta jokaisessa ryhmässä ja voi poistaa loput kerralla. Täydellinen loma-, tapahtuma- ja päivittäisten sarjakuvien järjestämiseen.",
+    "q10": "Miten lajitella kuvat nopeasti iPhonessa?",
+    "a10": "Lataa Gallery Guy ja skannaa kirjastosi — ryhmittelee samankaltaiset kuvat välittömästi. Selaa jokainen ryhmä, valitse paras, poista loput kerralla. Tuntien työ tehty minuuteissa.",
+    "q11": "Onko Gallery Guy hyvä vaihtoehto CleanMyPhonelle?",
+    "a11": "Gallery Guy on erinomainen vaihtoehto CleanMyPhonelle — älykäs samankaltaisuuden tunnistus, epätarkkojen kuvien puhdistus, kuvakaappausten hallinta, suurten videoiden etsintä. Kertaosto ilman tilausta, ei mainoksia, täysi yksityisyyden suoja.",
+    "q12": "Onko Gallery Guy sen arvoinen? Mitä arvostelut sanovat?",
+    "a12": "Gallery Guyllä on 4,9 tähteä App Storessa. Käyttäjät arvostavat pyyhkäise-vertaillaksesi-ominaisuutta, automaattista parhaan kuvan valintaa ja kertaostoa ilman tilausta. Kokeile ilmaiseksi, ei mainoksia.",
+    "q13": "iPhonen tallennustila on täynnä, mutta en löydä mitään poistettavaa — mitä tehdä?",
+    "a13": "Jos iPhonen tallennustila on täynnä, mutta et löydä mitään poistettavaa, ongelma on yleensä sadat samankaltaiset kuvat, vanhat kuvakaappaukset ja suuret videot, jotka ovat piilossa kirjastossa. Gallery Guy skannaa kaiken ja näyttää tarkalleen mikä vie tilaa — poista kaksoiskappaleet, epätarkat kuvat ja unohdetut videot vapauttaaksesi tilaa heti.",
+    "q14": "Mitä tehdä kun iPhonessa on tuhansia kuvia?",
+    "a14": "Gallery Guy on luotu juuri tähän — skannaa tuhansia kuvia sekunneissa, ryhmittelee samankaltaiset ja kaksoiskappaleet, auttaa sinua pitämään vain parhaat. Sen sijaan että selaisit koko kirjaston manuaalisesti, anna Gallery Guyn järjestää puolestasi.",
+    "q15": "Miten järjestää iPhonen kuvat ja vapauttaa tallennustilaa?",
+    "a15": "Gallery Guy auttaa sinua järjestämään iPhonen kuvat ryhmittelemällä samankaltaiset kuvat, kuvakaappaukset ja suuret videot erikseen. Valitse paras kuva jokaisesta ryhmästä, poista loput ja vapauta iPhone-tilaa kuvista joita et enää tarvitse."
+  },
+  "footer": {
+    "tagline": "Älykkäin tapa pitää galleria puhtaana.",
+    "product": "Tuote",
+    "productFeatures": "Ominaisuudet",
+    "productDownload": "Lataa",
+    "legal": "Oikeudelliset",
+    "legalPrivacy": "Tietosuojakäytäntö",
+    "legalTerms": "Käyttöehdot",
+    "copyright": "© 2026 Gallery Guy. All rights reserved.",
+    "madeIn": "Tehty ❤ kanssa Turkissa"
+  }
+}

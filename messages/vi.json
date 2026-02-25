@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "Tính năng",
+    "howItWorks": "Cách hoạt động",
+    "about": "Giới thiệu"
+  },
+  "hero": {
+    "badge": "Miễn phí cho iOS",
+    "taglineStatic": "Làm quen với Gallery Guy.",
+    "rotating0": "Chọn lọc ảnh như chuyên gia.",
+    "rotating1": "Xóa ảnh trùng lặp.",
+    "rotating2": "Biến việc xóa thành niềm vui.",
+    "rotating3": "Giải phóng bộ nhớ.",
+    "rotating4": "Ẩn ảnh riêng tư.",
+    "subtagline": "Ứng dụng dọn ảnh tốt nhất cho iPhone — vuốt để so sánh như Tinder, chọn ảnh đẹp nhất, xóa phần còn lại.",
+    "download": "Tải từ App Store",
+    "rating": "Miễn phí · 4.9 ★",
+    "qrLabel": "Quét bằng camera iPhone",
+    "qrSublabel": "Bạn sẽ được chuyển đến App Store",
+    "compareTitle": "Vuốt để So sánh",
+    "compareDescription": "Vuốt giữa các ảnh tương tự để phát hiện sự khác biệt — chọn ảnh yêu thích và Gallery Guy sẽ lo phần còn lại.",
+    "explore": "Khám phá"
+  },
+  "features": {
+    "label": "Tính năng",
+    "heading": "Tất cả trong Một Ứng dụng",
+    "smartMaintenance": {
+      "title": "Dọn ảnh thông minh",
+      "description": "Tự động phát hiện ảnh không cần thiết và mờ, giải phóng không gian lưu trữ."
+    },
+    "similarPhotos": {
+      "title": "Xóa ảnh trùng lặp",
+      "description": "Nhóm các ảnh tương tự, chọn ảnh đẹp nhất và xóa phần còn lại."
+    },
+    "screenshots": {
+      "title": "Ảnh chụp màn hình",
+      "description": "Tập hợp tất cả ảnh chụp màn hình vào một nơi và dọn sạch cùng lúc."
+    },
+    "largeVideos": {
+      "title": "Tìm video lớn",
+      "description": "Tìm và quản lý các video chiếm nhiều dung lượng nhất."
+    }
+  },
+  "showcase": {
+    "label": "Ứng dụng",
+    "heading": "Xem từng tính năng chi tiết",
+    "smartMaintenance": {
+      "title": "Dọn ảnh thông minh",
+      "description": "Vuốt qua ảnh mờ và không cần thiết như Tinder — chọn ảnh đẹp nhất, xóa phần còn lại, giải phóng bộ nhớ.",
+      "bullet1": "Công cụ tốt nhất để dọn ảnh mờ và chất lượng thấp",
+      "bullet2": "Xóa ảnh không cần thiết chỉ với một chạm",
+      "bullet3": "Xem bạn đã giải phóng bao nhiêu dung lượng iPhone"
+    },
+    "similarPhotos": {
+      "title": "Chọn lọc ảnh như chuyên gia",
+      "description": "Ứng dụng xóa ảnh trùng tốt nhất cho iPhone — nhóm ảnh tương tự, chọn ảnh sắc nét nhất, xóa hàng loạt phần còn lại.",
+      "bullet1": "Tìm và xóa ảnh trùng lặp ngay lập tức",
+      "bullet2": "Chọn lọc thông minh — tự động chọn ảnh sắc nét nhất",
+      "bullet3": "Xóa hàng loạt ảnh tương tự và trùng lặp"
+    },
+    "screenshots": {
+      "title": "Ảnh chụp màn hình",
+      "description": "Tập hợp tất cả ảnh chụp màn hình của bạn vào một nơi và quản lý dễ dàng.",
+      "bullet1": "Tự động nhóm tất cả ảnh chụp màn hình",
+      "bullet2": "Sắp xếp và lọc theo ngày",
+      "bullet3": "Chọn và xóa hàng loạt"
+    },
+    "largeVideos": {
+      "title": "Tìm video lớn",
+      "description": "Tìm video chiếm nhiều dung lượng nhất và tối ưu hóa bộ nhớ.",
+      "bullet1": "Tìm video chiếm nhiều dung lượng nhất trên iPhone",
+      "bullet2": "Xem tổng dung lượng video trong nháy mắt",
+      "bullet3": "Giải phóng dung lượng ngay sau khi xem trước"
+    },
+    "hidePhotos": {
+      "title": "Ẩn ảnh",
+      "description": "Ẩn ảnh riêng tư một cách an toàn với bảo vệ Face ID.",
+      "bullet1": "Album ẩn được bảo vệ bằng Face ID",
+      "bullet2": "Ảnh được ẩn hoàn toàn khỏi thư viện",
+      "bullet3": "Truy cập nhanh và an toàn"
+    }
+  },
+  "howItWorks": {
+    "label": "Cách hoạt động",
+    "heading": "Thư viện sạch trong Ba bước",
+    "step1": {
+      "title": "Tải xuống",
+      "description": "Tải Gallery Guy miễn phí từ App Store."
+    },
+    "step2": {
+      "title": "Quét",
+      "description": "Tự động quét thư viện ảnh của bạn."
+    },
+    "step3": {
+      "title": "Dọn dẹp",
+      "description": "Chọn các file không cần thiết và xóa chỉ với một chạm."
+    }
+  },
+  "finalCta": {
+    "heading": "Bắt đầu dọn dẹp thư viện của bạn",
+    "subtext": "Tải miễn phí và cảm nhận sự khác biệt ngay lập tức.",
+    "download": "Tải từ App Store",
+    "badges": "Miễn phí · Không quảng cáo · Bảo vệ quyền riêng tư"
+  },
+  "pricing": {
+    "label": "Không cần đăng ký",
+    "heading": "Mua một lần. Sở hữu mãi mãi.",
+    "subtext": "Ứng dụng dọn ảnh iPhone tốt nhất trọn đời — không cần đăng ký, trả một lần, sử dụng mãi mãi.",
+    "oneTime": {
+      "title": "Mua một lần",
+      "description": "Trả một lần, sở hữu mãi mãi. Không phí hàng tháng, không phí ẩn."
+    },
+    "noAds": {
+      "title": "Không quảng cáo",
+      "description": "Không quảng cáo, không gián đoạn. Chỉ trải nghiệm sạch sẽ."
+    },
+    "privacy": {
+      "title": "Bảo vệ quyền riêng tư",
+      "description": "Tất cả xử lý trên thiết bị của bạn. Không tải lên đám mây, ảnh của bạn vẫn là của bạn."
+    }
+  },
+  "faq": {
+    "q1": "Cách tốt nhất để xóa ảnh tương tự trên iPhone là gì?",
+    "a1": "Gallery Guy sử dụng phát hiện tương đồng thông minh để nhóm các ảnh gần giống nhau. Lướt qua từng nhóm, chọn ảnh yêu thích và xóa phần còn lại chỉ với một chạm — không cần so sánh thủ công.",
+    "q2": "Làm thế nào để chọn ảnh đẹp nhất từ ảnh chụp liên tiếp trên iPhone?",
+    "a2": "Gallery Guy tự động phân tích ảnh chụp liên tiếp và ảnh tương tự, rồi đề xuất ảnh sắc nét nhất với bố cục tốt nhất. Vuốt giữa các ảnh để so sánh và xác nhận lựa chọn — cách dễ nhất để xóa ảnh chụp liên tiếp trên iPhone.",
+    "q3": "Làm thế nào để xóa ảnh trùng lặp trên iPhone?",
+    "a3": "Tải Gallery Guy từ App Store và quét thư viện ảnh — ngay lập tức nhóm các ảnh trùng lặp và tương tự. Cách dễ nhất để dọn dẹp thư viện ảnh iPhone — chọn ảnh muốn giữ, xóa hàng loạt phần còn lại.",
+    "q4": "Có ứng dụng miễn phí nào tìm và xóa ảnh tương tự trên iPhone không?",
+    "a4": "Có — Gallery Guy hoàn toàn miễn phí và không có quảng cáo. Phát hiện ảnh tương tự, ảnh mờ, ảnh chụp màn hình và video lớn để giúp bạn giải phóng bộ nhớ iPhone.",
+    "q5": "Có ứng dụng iPhone nào xóa ảnh bằng cách vuốt không?",
+    "a5": "Với Gallery Guy, bạn có thể vuốt giữa các ảnh tương tự như ứng dụng hẹn hò — giữ ảnh yêu thích, xóa phần còn lại. Cách nhanh nhất để dọn dẹp thư viện ảnh.",
+    "q6": "Có ứng dụng Tinder cho ảnh không?",
+    "a6": "Gallery Guy hoạt động như Tinder cho thư viện ảnh của bạn — nhóm ảnh tương tự và cho phép bạn vuốt để chọn ảnh đẹp nhất. Vuốt đơn giản để giữ hoặc xóa giúp việc sắp xếp ảnh nhanh chóng và thú vị.",
+    "q7": "Có ứng dụng dọn ảnh iPhone mua một lần không cần đăng ký không?",
+    "a7": "Gallery Guy là mua một lần trọn đời — không phí hàng tháng, không phí ẩn. Trả một lần và nhận tất cả tính năng mãi mãi, bao gồm phát hiện tương đồng thông minh, dọn ảnh mờ và tối ưu hóa bộ nhớ.",
+    "q8": "Có ứng dụng dọn ảnh thú vị cho iPhone không?",
+    "a8": "Gallery Guy biến việc dọn ảnh thành niềm vui thực sự — lướt qua ảnh như ứng dụng hẹn hò, so sánh ảnh tương tự cạnh nhau và xem bộ nhớ được giải phóng theo thời gian thực. Công việc nhàm chán trở thành trải nghiệm thú vị.",
+    "q9": "Ứng dụng sắp xếp ảnh tốt nhất cho iPhone là gì?",
+    "a9": "Gallery Guy là ứng dụng sắp xếp ảnh nhanh nhất cho iPhone. Tự động nhóm ảnh tương tự và trùng lặp, đề xuất ảnh đẹp nhất trong mỗi nhóm và xóa hàng loạt phần còn lại. Hoàn hảo để sắp xếp ảnh du lịch, sự kiện và ảnh hàng ngày.",
+    "q10": "Làm thế nào để sắp xếp ảnh nhanh trên iPhone?",
+    "a10": "Tải Gallery Guy và quét thư viện — nhóm ảnh tương tự ngay lập tức. Lướt qua từng nhóm, chọn ảnh đẹp nhất, xóa hàng loạt phần còn lại. Công việc mất hàng giờ giờ chỉ mất vài phút.",
+    "q11": "Gallery Guy có phải là lựa chọn thay thế tốt cho CleanMyPhone không?",
+    "a11": "Gallery Guy là lựa chọn thay thế tuyệt vời cho CleanMyPhone — phát hiện tương đồng thông minh, dọn ảnh mờ, quản lý ảnh chụp màn hình, tìm video lớn. Mua một lần không cần đăng ký, không quảng cáo, bảo vệ quyền riêng tư đầy đủ.",
+    "q12": "Gallery Guy có đáng không? Đánh giá nói gì?",
+    "a12": "Gallery Guy được đánh giá 4,9 sao trên App Store. Người dùng yêu thích tính năng vuốt để so sánh, tự động chọn ảnh đẹp nhất và mua một lần không cần đăng ký. Dùng thử miễn phí, không quảng cáo.",
+    "q13": "Bộ nhớ iPhone đầy nhưng không có gì để xóa — phải làm sao?",
+    "a13": "Nếu bộ nhớ iPhone đầy nhưng không có gì để xóa, vấn đề thường là hàng trăm ảnh tương tự, ảnh chụp màn hình cũ và video lớn ẩn trong thư viện. Gallery Guy quét tất cả và cho thấy chính xác thứ gì chiếm dung lượng — xóa ảnh trùng, ảnh mờ và video bị quên để giải phóng dung lượng ngay lập tức.",
+    "q14": "Phải làm gì khi có hàng ngàn ảnh trên iPhone?",
+    "a14": "Gallery Guy được tạo ra chính xác cho điều này — quét hàng ngàn ảnh trong vài giây, nhóm ảnh tương tự và trùng lặp, giúp bạn chỉ giữ ảnh đẹp nhất. Thay vì cuộn qua toàn bộ thư viện thủ công, hãy để Gallery Guy sắp xếp cho bạn.",
+    "q15": "Làm thế nào để sắp xếp ảnh iPhone và giải phóng bộ nhớ?",
+    "a15": "Gallery Guy giúp bạn sắp xếp ảnh iPhone bằng cách nhóm ảnh tương tự, ảnh chụp màn hình và video lớn riêng biệt. Chọn ảnh đẹp nhất từ mỗi nhóm, xóa phần còn lại và giải phóng bộ nhớ iPhone khỏi những ảnh không còn cần thiết."
+  },
+  "footer": {
+    "tagline": "Cách thông minh nhất để giữ thư viện ảnh sạch sẽ.",
+    "product": "Sản phẩm",
+    "productFeatures": "Tính năng",
+    "productDownload": "Tải xuống",
+    "legal": "Pháp lý",
+    "legalPrivacy": "Chính sách bảo mật",
+    "legalTerms": "Điều khoản sử dụng",
+    "copyright": "© 2026 Gallery Guy. All rights reserved.",
+    "madeIn": "Được tạo với ❤ tại Thổ Nhĩ Kỳ"
+  }
+}

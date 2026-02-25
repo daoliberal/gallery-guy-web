@@ -183,6 +183,76 @@ const meta: Record<
     ogDescription:
       "Лизгајте низ фотографиите како на Tinder — најдете дупликати, изберете ја најдобрата фотографија, ослободете простор на iPhone. Најдобар чистач на фотографии без претплата.",
   },
+  sl: {
+    title: "Gallery Guy — Najboljši čistilec fotografij za iPhone · Brez naročnine",
+    description:
+      "Najboljši način za brisanje podobnih fotografij na iPhone. Pametni čistilec fotografij — enkratni nakup, brez naročnine. Podrsajte za primerjavo, izberite najboljšo fotografijo, sprostite prostor.",
+    ogDescription:
+      "Podrsajte skozi fotografije kot na Tinderu — poiščite dvojnike, izberite najboljšo fotografijo, sprostite prostor na iPhone. Najboljši čistilec fotografij brez naročnine.",
+  },
+  pl: {
+    title: "Gallery Guy — Najlepszy czyszczacz zdjęć na iPhone · Bez subskrypcji",
+    description:
+      "Najlepszy sposób na usuwanie podobnych zdjęć na iPhone. Inteligentny czyszczacz zdjęć — jednorazowy zakup, bez subskrypcji. Przesuń, aby porównać, wybierz najlepsze zdjęcie, zwolnij miejsce.",
+    ogDescription:
+      "Przesuwaj zdjęcia jak na Tinderze — znajdź duplikaty, wybierz najlepsze zdjęcie, zwolnij miejsce na iPhone. Najlepszy czyszczacz zdjęć bez subskrypcji.",
+  },
+  uk: {
+    title: "Gallery Guy — Найкращий очищувач фото для iPhone · Без підписки",
+    description:
+      "Найкращий спосіб видалити схожі фото на iPhone. Розумний очищувач фото — одноразова покупка, без підписки. Свайпніть для порівняння, оберіть найкраще фото, звільніть місце.",
+    ogDescription:
+      "Гортайте фото як у Тіндері — знаходьте дублікати, обирайте найкраще фото, звільняйте місце на iPhone. Найкращий очищувач фото без підписки.",
+  },
+  fi: {
+    title: "Gallery Guy — Paras iPhone-valokuvien puhdistaja · Ei tilausta",
+    description:
+      "Paras tapa poistaa samankaltaiset valokuvat iPhonesta. Älykäs valokuvien puhdistaja — kertaosto, ei tilausta. Pyyhkäise vertaillaksesi, valitse paras kuva, vapauta tallennustilaa.",
+    ogDescription:
+      "Pyyhkäise valokuvien läpi kuin Tinderissä — löydä kaksoiskappaleet, valitse paras kuva, vapauta iPhone-tallennustilaa. Paras valokuvien puhdistaja ilman tilausta.",
+  },
+  hu: {
+    title: "Gallery Guy — A legjobb iPhone fotótisztító · Előfizetés nélkül",
+    description:
+      "A legjobb módja a hasonló fotók törlésének iPhone-on. Intelligens fotótisztító — egyszeri vásárlás, előfizetés nélkül. Húzd az ujjad az összehasonlításhoz, válaszd a legjobb fotót, szabadíts fel tárhelyet.",
+    ogDescription:
+      "Húzd a fotóidat mint a Tinderen — találd meg a duplikátumokat, válaszd a legjobb fotót, szabadíts fel iPhone tárhelyet. A legjobb fotótisztító előfizetés nélkül.",
+  },
+  sr: {
+    title: "Gallery Guy — Najbolji čistač fotografija za iPhone · Bez pretplate",
+    description:
+      "Najbolji način za brisanje sličnih fotografija na iPhone-u. Pametni čistač fotografija — jednokratna kupovina, bez pretplate. Prevucite za poređenje, izaberite najbolju fotografiju, oslobodite prostor.",
+    ogDescription:
+      "Prevlačite fotografije kao na Tinderu — pronađite duplikate, izaberite najbolju fotografiju, oslobodite prostor na iPhone-u. Najbolji čistač fotografija bez pretplate.",
+  },
+  he: {
+    title: "Gallery Guy — מנקה התמונות הטוב ביותר לאייפון · ללא מנוי",
+    description:
+      "הדרך הטובה ביותר למחוק תמונות דומות באייפון. אפליקציית ניקוי תמונות חכמה — רכישה חד-פעמית, ללא מנוי. החלק להשוואה, בחר את התמונה הטובה ביותר, פנה מקום אחסון.",
+    ogDescription:
+      "החלק בין התמונות כמו בטינדר — מצא כפילויות, בחר את הצילום הטוב ביותר, פנה מקום אחסון באייפון. אפליקציית ניקוי התמונות הטובה ביותר ללא מנוי.",
+  },
+  id: {
+    title: "Gallery Guy — Pembersih Foto iPhone Terbaik · Tanpa Langganan",
+    description:
+      "Cara terbaik menghapus foto serupa di iPhone. Aplikasi pembersih foto cerdas — pembelian sekali bayar, tanpa langganan. Geser untuk membandingkan, pilih foto terbaik, kosongkan penyimpanan.",
+    ogDescription:
+      "Geser foto seperti Tinder — temukan duplikat, pilih foto terbaik, kosongkan penyimpanan iPhone. Aplikasi pembersih foto terbaik tanpa langganan.",
+  },
+  th: {
+    title: "Gallery Guy — แอปทำความสะอาดรูปภาพ iPhone ที่ดีที่สุด · ไม่ต้องสมัครสมาชิก",
+    description:
+      "วิธีที่ดีที่สุดในการลบรูปภาพที่คล้ายกันบน iPhone แอปทำความสะอาดรูปภาพอัจฉริยะ — ซื้อครั้งเดียว ไม่ต้องสมัครสมาชิก ปัดเพื่อเปรียบเทียบ เลือกรูปที่ดีที่สุด เพิ่มพื้นที่จัดเก็บ",
+    ogDescription:
+      "ปัดดูรูปภาพเหมือน Tinder — ค้นหารูปซ้ำ เลือกรูปที่ดีที่สุด เพิ่มพื้นที่จัดเก็บ iPhone แอปทำความสะอาดรูปภาพที่ดีที่สุดไม่ต้องสมัครสมาชิก",
+  },
+  vi: {
+    title: "Gallery Guy — Ứng dụng dọn ảnh iPhone tốt nhất · Không cần đăng ký",
+    description:
+      "Cách tốt nhất để xóa ảnh trùng lặp trên iPhone. Ứng dụng dọn ảnh thông minh — mua một lần, không cần đăng ký. Vuốt để so sánh, chọn ảnh đẹp nhất, giải phóng bộ nhớ.",
+    ogDescription:
+      "Vuốt qua ảnh như Tinder — tìm ảnh trùng, chọn ảnh đẹp nhất, giải phóng bộ nhớ iPhone. Ứng dụng dọn ảnh tốt nhất không cần đăng ký.",
+  },
 };
 
 export async function generateMetadata({
@@ -230,7 +300,7 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html lang={locale} dir={locale === "ar" ? "rtl" : "ltr"}>
+    <html lang={locale} dir={locale === "ar" || locale === "he" ? "rtl" : "ltr"}>
       <body
         className={`${inter.variable} ${bricolage.variable} font-sans antialiased`}
       >

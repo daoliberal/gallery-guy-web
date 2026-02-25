@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "Fitur",
+    "howItWorks": "Cara Kerja",
+    "about": "Tentang"
+  },
+  "hero": {
+    "badge": "Gratis untuk iOS",
+    "taglineStatic": "Kenalan dengan Gallery Guy.",
+    "rotating0": "Memilih foto seperti profesional.",
+    "rotating1": "Menghapus foto duplikat.",
+    "rotating2": "Membuat penghapusan jadi seru.",
+    "rotating3": "Membebaskan ruang penyimpanan.",
+    "rotating4": "Menyembunyikan foto pribadi.",
+    "subtagline": "Aplikasi pembersih foto terbaik untuk iPhone — geser untuk membandingkan seperti Tinder, pilih foto terbaik, hapus sisanya.",
+    "download": "Unduh di App Store",
+    "rating": "Gratis · 4.9 ★",
+    "qrLabel": "Pindai dengan kamera iPhone",
+    "qrSublabel": "Anda akan dialihkan ke App Store",
+    "compareTitle": "Geser untuk Membandingkan",
+    "compareDescription": "Geser di antara foto serupa untuk menemukan perbedaan — pilih favorit Anda dan Gallery Guy akan mengurus sisanya.",
+    "explore": "Jelajahi"
+  },
+  "features": {
+    "label": "Fitur",
+    "heading": "Semua dalam Satu Aplikasi",
+    "smartMaintenance": {
+      "title": "Pembersih Foto Cerdas",
+      "description": "Deteksi otomatis foto yang tidak perlu dan buram, bebaskan ruang penyimpanan."
+    },
+    "similarPhotos": {
+      "title": "Penghapus Foto Duplikat",
+      "description": "Kelompokkan foto serupa, pilih yang terbaik dan hapus sisanya."
+    },
+    "screenshots": {
+      "title": "Tangkapan Layar",
+      "description": "Kumpulkan semua tangkapan layar di satu tempat dan bersihkan sekaligus."
+    },
+    "largeVideos": {
+      "title": "Pencari Video Besar",
+      "description": "Temukan dan kelola video yang paling banyak menggunakan ruang penyimpanan."
+    }
+  },
+  "showcase": {
+    "label": "Aplikasi",
+    "heading": "Lihat Setiap Fitur Lebih Dekat",
+    "smartMaintenance": {
+      "title": "Pembersih Foto Cerdas",
+      "description": "Geser foto buram dan tidak perlu seperti Tinder — pilih yang terbaik, hapus sisanya, bebaskan ruang penyimpanan.",
+      "bullet1": "Pembersih foto terbaik untuk foto buram dan berkualitas rendah",
+      "bullet2": "Hapus foto yang tidak perlu dengan satu ketukan",
+      "bullet3": "Lihat berapa banyak ruang penyimpanan iPhone yang telah dibebaskan"
+    },
+    "similarPhotos": {
+      "title": "Pilih Foto Seperti Profesional",
+      "description": "Aplikasi penghapus duplikat terbaik untuk iPhone — kelompokkan foto serupa, pilih yang paling tajam, hapus sisanya secara massal.",
+      "bullet1": "Temukan dan hapus duplikat secara instan",
+      "bullet2": "Pemilihan cerdas — otomatis memilih foto paling tajam",
+      "bullet3": "Hapus massal foto serupa dan duplikat"
+    },
+    "screenshots": {
+      "title": "Tangkapan Layar",
+      "description": "Kumpulkan semua tangkapan layar Anda di satu tempat dan kelola dengan mudah.",
+      "bullet1": "Pengelompokan otomatis semua tangkapan layar",
+      "bullet2": "Urutkan dan filter berdasarkan tanggal",
+      "bullet3": "Pilih dan hapus secara massal"
+    },
+    "largeVideos": {
+      "title": "Pencari Video Besar",
+      "description": "Temukan video yang paling banyak menggunakan ruang dan optimalkan penyimpanan.",
+      "bullet1": "Temukan video yang paling banyak menggunakan ruang di iPhone",
+      "bullet2": "Lihat total ukuran video dalam sekejap",
+      "bullet3": "Bebaskan ruang langsung setelah pratinjau"
+    },
+    "hidePhotos": {
+      "title": "Sembunyikan Foto",
+      "description": "Sembunyikan foto pribadi dengan aman menggunakan perlindungan Face ID.",
+      "bullet1": "Album tersembunyi dilindungi Face ID",
+      "bullet2": "Foto sepenuhnya tersembunyi dari galeri",
+      "bullet3": "Akses cepat dan aman"
+    }
+  },
+  "howItWorks": {
+    "label": "Cara Kerja",
+    "heading": "Galeri Bersih dalam Tiga Langkah",
+    "step1": {
+      "title": "Unduh",
+      "description": "Unduh Gallery Guy gratis dari App Store."
+    },
+    "step2": {
+      "title": "Pindai",
+      "description": "Otomatis memindai galeri foto Anda."
+    },
+    "step3": {
+      "title": "Bersihkan",
+      "description": "Pilih file yang tidak perlu dan hapus dengan satu ketukan."
+    }
+  },
+  "finalCta": {
+    "heading": "Mulai Bersihkan Galeri Anda",
+    "subtext": "Unduh gratis dan rasakan perbedaannya langsung.",
+    "download": "Unduh di App Store",
+    "badges": "Gratis · Tanpa Iklan · Privasi Terjaga"
+  },
+  "pricing": {
+    "label": "Tanpa Langganan",
+    "heading": "Pembelian Sekali Bayar. Milik Anda Selamanya.",
+    "subtext": "Pembersih foto iPhone terbaik seumur hidup — tanpa langganan, bayar sekali, miliki selamanya.",
+    "oneTime": {
+      "title": "Pembelian Sekali Bayar",
+      "description": "Bayar sekali, miliki selamanya. Tanpa biaya bulanan, tanpa biaya tersembunyi."
+    },
+    "noAds": {
+      "title": "Tanpa Iklan",
+      "description": "Tanpa iklan, tanpa gangguan. Hanya pengalaman bersih."
+    },
+    "privacy": {
+      "title": "Privasi Terjaga",
+      "description": "Semua pemrosesan dilakukan di perangkat Anda. Tanpa unggahan ke cloud, foto Anda tetap milik Anda."
+    }
+  },
+  "faq": {
+    "q1": "Apa cara terbaik untuk menghapus foto serupa di iPhone?",
+    "a1": "Gallery Guy menggunakan deteksi kemiripan cerdas untuk mengelompokkan foto yang hampir identik. Telusuri setiap kelompok, pilih favorit Anda dan hapus sisanya dengan satu ketukan — tanpa perlu perbandingan manual.",
+    "q2": "Bagaimana cara memilih foto terbaik dari foto burst di iPhone?",
+    "a2": "Gallery Guy secara otomatis menganalisis foto burst dan foto serupa, lalu merekomendasikan foto paling tajam dan komposisi terbaik. Geser di antara foto untuk membandingkan dan konfirmasi pilihan Anda — cara termudah menghapus foto burst di iPhone.",
+    "q3": "Bagaimana cara menghapus duplikat di iPhone?",
+    "a3": "Unduh Gallery Guy dari App Store dan pindai perpustakaan foto Anda — langsung mengelompokkan duplikat dan foto serupa. Cara termudah membersihkan perpustakaan foto iPhone — pilih mana yang ingin disimpan, hapus sisanya secara massal.",
+    "q4": "Apakah ada aplikasi gratis untuk menemukan dan menghapus foto serupa di iPhone?",
+    "a4": "Ya — Gallery Guy sepenuhnya gratis dan tanpa iklan. Mendeteksi foto serupa, foto buram, tangkapan layar dan video besar untuk membantu Anda membebaskan ruang penyimpanan iPhone.",
+    "q5": "Apakah ada aplikasi iPhone yang menghapus foto dengan menggeser?",
+    "a5": "Dengan Gallery Guy Anda bisa menggeser di antara foto serupa seperti aplikasi kencan — simpan favorit, hapus sisanya. Cara tercepat membersihkan perpustakaan foto.",
+    "q6": "Apakah ada aplikasi Tinder untuk foto?",
+    "a6": "Gallery Guy bekerja seperti Tinder untuk galeri Anda — mengelompokkan foto serupa dan memungkinkan Anda menggeser untuk memilih yang terbaik. Gesekan sederhana untuk menyimpan atau menghapus membuat penyortiran foto cepat dan menyenangkan.",
+    "q7": "Apakah ada pembersih foto iPhone dengan pembelian sekali bayar tanpa langganan?",
+    "a7": "Gallery Guy adalah pembelian sekali bayar seumur hidup — tanpa biaya bulanan, tanpa biaya tersembunyi. Bayar sekali dan dapatkan semua fitur selamanya, termasuk deteksi kemiripan cerdas, pembersihan foto buram dan optimasi penyimpanan.",
+    "q8": "Apakah ada aplikasi pembersih foto yang seru untuk iPhone?",
+    "a8": "Gallery Guy membuat pembersihan foto benar-benar menyenangkan — telusuri foto seperti aplikasi kencan, bandingkan foto serupa berdampingan dan lihat penyimpanan terbebas secara real-time. Pekerjaan membosankan berubah jadi pengalaman yang memuaskan.",
+    "q9": "Apa aplikasi penyortir foto terbaik untuk iPhone?",
+    "a9": "Gallery Guy adalah aplikasi penyortir foto tercepat untuk iPhone. Secara otomatis mengelompokkan foto serupa dan duplikat, merekomendasikan yang terbaik di setiap kelompok dan memungkinkan penghapusan massal sisanya. Sempurna untuk menyortir foto liburan, acara dan foto sehari-hari.",
+    "q10": "Bagaimana cara menyortir foto dengan cepat di iPhone?",
+    "a10": "Unduh Gallery Guy dan pindai perpustakaan Anda — langsung mengelompokkan foto serupa. Telusuri setiap kelompok, pilih yang terbaik, hapus sisanya secara massal. Pekerjaan berjam-jam selesai dalam hitungan menit.",
+    "q11": "Apakah Gallery Guy alternatif yang bagus untuk CleanMyPhone?",
+    "a11": "Gallery Guy adalah alternatif terbaik untuk CleanMyPhone — deteksi kemiripan cerdas, pembersihan foto buram, manajemen tangkapan layar, pencari video besar. Pembelian sekali bayar tanpa langganan, tanpa iklan, perlindungan privasi penuh.",
+    "q12": "Apakah Gallery Guy layak? Apa kata ulasan?",
+    "a12": "Gallery Guy memiliki rating 4,9 bintang di App Store. Pengguna menyukai fitur geser untuk membandingkan, pemilihan foto terbaik otomatis dan pembelian sekali bayar tanpa langganan. Coba gratis, tanpa iklan.",
+    "q13": "Penyimpanan iPhone penuh tapi tidak ada yang bisa dihapus — apa yang harus dilakukan?",
+    "a13": "Jika penyimpanan iPhone penuh tapi tidak ada yang bisa dihapus, masalahnya biasanya ratusan foto serupa, tangkapan layar lama dan video besar yang tersembunyi di perpustakaan. Gallery Guy memindai semuanya dan menunjukkan persis apa yang menghabiskan ruang — hapus duplikat, foto buram dan video yang terlupakan untuk membebaskan ruang secara instan.",
+    "q14": "Apa yang harus dilakukan jika punya ribuan foto di iPhone?",
+    "a14": "Gallery Guy dibuat persis untuk ini — memindai ribuan foto dalam hitungan detik, mengelompokkan yang serupa dan duplikat, membantu Anda menyimpan hanya yang terbaik. Daripada menggulir seluruh perpustakaan secara manual, biarkan Gallery Guy yang mengatur untuk Anda.",
+    "q15": "Bagaimana cara mengatur foto iPhone dan membebaskan ruang penyimpanan?",
+    "a15": "Gallery Guy membantu Anda mengatur foto iPhone dengan mengelompokkan foto serupa, tangkapan layar dan video besar secara terpisah. Pilih foto terbaik dari setiap kelompok, hapus sisanya dan bebaskan ruang penyimpanan iPhone dari foto yang tidak lagi dibutuhkan."
+  },
+  "footer": {
+    "tagline": "Cara paling cerdas menjaga galeri tetap bersih.",
+    "product": "Produk",
+    "productFeatures": "Fitur",
+    "productDownload": "Unduh",
+    "legal": "Hukum",
+    "legalPrivacy": "Kebijakan Privasi",
+    "legalTerms": "Syarat Penggunaan",
+    "copyright": "© 2026 Gallery Guy. All rights reserved.",
+    "madeIn": "Dibuat dengan ❤ di Turki"
+  }
+}
