@@ -1410,6 +1410,236 @@ Appen fungerer udelukkende på din enhed uden cloud-tjenester.`,
       },
     ],
   },
+  cs: {
+    title: "Podmínky použití",
+    effectiveDate: "Datum účinnosti: 22. února 2025",
+    sections: [
+      {
+        heading: "Přijetí podmínek",
+        body: "Stažením, instalací nebo používáním Gallery Guy souhlasíte s těmito podmínkami použití. Pokud s těmito podmínkami nesouhlasíte, aplikaci nepoužívejte.",
+      },
+      {
+        heading: "Popis služby",
+        body: `Gallery Guy je mobilní aplikace pro správu a čištění vaší fotogalerie. Funkce zahrnují:
+
+• Detekce a kategorizace snímků obrazovky pomocí OCR
+• Seskupování a porovnávání podobných fotek
+• Identifikace velkých videí
+• Skrytý trezor s biometrickou ochranou
+• Chytré čištění (přejetí pro kontrolu souborů)
+• Správa alb
+
+Aplikace funguje výhradně na vašem zařízení bez cloudových služeb.`,
+      },
+      {
+        heading: "Licence",
+        body: "Udělujeme vám nevýhradní, nepřenosnou, odvolatelnou licenci k používání Gallery Guy pro osobní, nekomerční účely v souladu s těmito podmínkami.",
+      },
+      {
+        heading: "Vaše odpovědnosti",
+        body: `• Jste odpovědní za obsah své fotoknihovy.
+• Před potvrzením smazání byste měli soubory pečlivě zkontrolovat.
+• Smazané soubory jsou přesunuty do složky "Nedávno smazané" na vašem zařízení, kde to operační systém podporuje, ale trvalé smazání je nevratné.
+• Jste odpovědní za udržování biometrického zabezpečení vašeho zařízení pro funkci Skrytý trezor.`,
+      },
+      {
+        heading: "Duševní vlastnictví",
+        body: "Gallery Guy a jeho design, kód a značka jsou vlastnictvím vývojáře. Název \"Gallery Guy\", logo a související materiály jsou vlastnictvím Batur Cihan. Aplikaci nesmíte kopírovat, upravovat, distribuovat ani dekompilovat.",
+      },
+      {
+        heading: "Vyloučení odpovědnosti",
+        body: `• Aplikace je poskytována "tak, jak je" bez jakýchkoli záruk.
+• Negarantujeme, že smazání souborů uvolní konkrétní množství úložného prostoru.
+• Neneseme odpovědnost za náhodné smazání souborů.
+• Kategorizace snímků obrazovky založená na OCR nemusí být 100% přesná.
+• Detekce podobných fotek je přibližná a může občas seskupit různé fotky.
+• Maximální odpovědnost je omezena na částku zaplacenou za aplikaci.`,
+      },
+      {
+        heading: "Platba a vrácení peněz",
+        body: "Gallery Guy nabízí bezplatnou verzi a jednorázový nákup. Vrácení peněz je řešeno společností Apple v souladu s politikou vrácení peněz App Store. Nemáme možnost zpracovat vrácení peněz přímo.",
+      },
+      {
+        heading: "Změny podmínek",
+        body: "Tyto podmínky můžeme čas od času aktualizovat. Pokračující používání aplikace po změnách znamená, že přijímáte aktualizované podmínky.",
+      },
+      {
+        heading: "Ukončení",
+        body: "Vyhrazujeme si právo ukončit nebo omezit váš přístup k aplikaci, pokud porušíte tyto podmínky.",
+      },
+      {
+        heading: "Rozhodné právo",
+        body: "Tyto podmínky se řídí zákony Turecké republiky.",
+      },
+      {
+        heading: "Kontakt",
+        body: "V případě dotazů ohledně těchto podmínek nás kontaktujte na: baturcihan@icloud.com",
+      },
+      {
+        heading: "Dodatečné podmínky pro uživatele Apple",
+        body: `• Apple není stranou této smlouvy a nenese odpovědnost za aplikaci ani její obsah.
+• Apple nemá žádnou povinnost poskytovat údržbu nebo podpůrné služby pro aplikaci.
+• V případě vad vzniklých v záruční době, které nebudou námi opraveny, můžete mít nárok na vrácení kupní ceny.
+• Apple nenese odpovědnost za nároky související s aplikací, včetně odpovědnosti za výrobek, nesouladu se zákony nebo ochrany spotřebitele.
+• V případě porušení duševního vlastnictví třetími stranami jsme my, nikoliv Apple, odpovědní za vyšetřování a obranu.
+• Apple a jeho dceřiné společnosti jsou třetími stranami oprávněnými z této smlouvy a mohou ji vymáhat po přijetí.`,
+      },
+    ],
+  },
+  az: {
+    title: "İstifadə Şərtləri",
+    effectiveDate: "Qüvvəyə minmə tarixi: 22 fevral 2025",
+    sections: [
+      {
+        heading: "Şərtlərin qəbulu",
+        body: "Gallery Guy-ı yükləyərək, quraşdıraraq və ya istifadə edərək bu istifadə şərtlərini qəbul edirsiniz. Bu şərtlərlə razı deyilsinizsə, tətbiqi istifadə etməyin.",
+      },
+      {
+        heading: "Xidmətin təsviri",
+        body: `Gallery Guy foto qalereyaızın idarə edilməsi və təmizlənməsi üçün mobil tətbiqdir. Xüsusiyyətlərə aşağıdakılar daxildir:
+
+• OCR vasitəsilə ekran görüntülərinin aşkar edilməsi və kateqoriyalanması
+• Oxşar şəkillərin qruplaşdırılması və müqayisəsi
+• Böyük videoların müəyyən edilməsi
+• Biometrik qorunma ilə gizli seyf
+• Ağıllı təmizləmə (sürüşdürməyə əsaslanan fayl nəzərdən keçirməsi)
+• Albom idarəetməsi
+
+Tətbiq tamamilə cihazınızda işləyir, bulud xidmətləri olmadan.`,
+      },
+      {
+        heading: "Lisenziya",
+        body: "Bu şərtlərə uyğun olaraq Gallery Guy-ı şəxsi, qeyri-kommersiya məqsədləri üçün istifadə etmək üçün qeyri-eksklüziv, ötürülə bilməyən, geri çağırıla bilən lisenziya veririk.",
+      },
+      {
+        heading: "Sizin məsuliyyətləriniz",
+        body: `• Foto kitabxananızın məzmununa görə siz məsuliyyət daşıyırsınız.
+• Silməni təsdiqləmədən əvvəl faylları diqqətlə nəzərdən keçirməlisiniz.
+• Silinmiş fayllar əməliyyat sistemi dəstəklədiyi hallarda cihazınızın "Son silinənlər" qovluğuna köçürülür, lakin daimi silmə geri qaytarıla bilməzdir.
+• Gizli seyf funksiyası üçün cihazınızın biometrik təhlükəsizliyini qorumağa görə siz məsuliyyət daşıyırsınız.`,
+      },
+      {
+        heading: "Əqli mülkiyyət",
+        body: "Gallery Guy və onun dizaynı, kodu və brendinq tərtibatçının mülkiyyətidir. \"Gallery Guy\" adı, loqosu və əlaqəli aktivlər Batur Cihan-ın mülkiyyətidir. Tətbiqi kopyalamaq, dəyişdirmək, yaymaq və ya dekompilyasiya etmək qadağandır.",
+      },
+      {
+        heading: "Məsuliyyətin rədd edilməsi",
+        body: `• Tətbiq heç bir zəmanət olmadan "olduğu kimi" təqdim edilir.
+• Fayl silməsinin müəyyən miqdarda yaddaş boşaldacağına zəmanət vermirik.
+• Faylların təsadüfən silinməsinə görə məsul deyilik.
+• OCR əsaslı ekran görüntüsü kateqoriyalaşdırması 100% dəqiq olmaya bilər.
+• Oxşar şəkil aşkarlaması təxminidir və bəzən fərqli şəkilləri qruplaşdıra bilər.
+• Maksimum məsuliyyət tətbiq üçün ödənilmiş məbləğlə məhdudlaşır.`,
+      },
+      {
+        heading: "Ödəniş və geri qaytarma",
+        body: "Gallery Guy pulsuz versiya və birdəfəlik alış təklif edir. Geri qaytarmalar App Store-un geri qaytarma siyasətinə uyğun olaraq Apple tərəfindən idarə olunur. Geri qaytarmaları birbaşa emal etmək imkanımız yoxdur.",
+      },
+      {
+        heading: "Şərtlərdə dəyişikliklər",
+        body: "Bu şərtləri vaxtaşırı yeniləyə bilərik. Dəyişikliklərdən sonra tətbiqin davam edən istifadəsi yenilənmiş şərtləri qəbul etdiyiniz anlamına gəlir.",
+      },
+      {
+        heading: "Xitam",
+        body: "Bu şərtləri pozduğunuz halda tətbiqə girişinizi dayandırmaq və ya məhdudlaşdırmaq hüququmuzu saxlayırıq.",
+      },
+      {
+        heading: "Tətbiq olunan hüquq",
+        body: "Bu şərtlər Türkiyə Cümhuriyyətinin qanunları ilə tənzimlənir.",
+      },
+      {
+        heading: "Əlaqə",
+        body: "Bu şərtlərlə bağlı suallarınız üçün bizimlə əlaqə saxlayın: baturcihan@icloud.com",
+      },
+      {
+        heading: "Apple istifadəçiləri üçün əlavə şərtlər",
+        body: `• Apple bu müqavilənin tərəfi deyil və tətbiq və ya onun məzmunu üçün məsul deyil.
+• Apple-ın tətbiq üçün texniki xidmət və ya dəstək xidmətləri göstərmək öhdəliyi yoxdur.
+• Zəmanət müddətində yaranan və tərəfimizdən düzəldilməyən qüsurlar zamanı alış qiymətinin geri qaytarılması hüququnuz ola bilər.
+• Apple tətbiqlə bağlı iddialara, o cümlədən məhsul məsuliyyəti, qanunlara uyğunsuzluq və ya istehlakçı müdafiəsinə görə məsul deyil.
+• Üçüncü tərəflərin əqli mülkiyyət hüquqlarının pozulması zamanı Apple deyil, biz araşdırma və müdafiəyə görə məsuluq.
+• Apple və onun törəmə şirkətləri bu müqavilənin üçüncü tərəf benefisiarlarıdır və qəbul zamanı onu tətbiq edə bilərlər.`,
+      },
+    ],
+  },
+  mk: {
+    title: "Услови за користење",
+    effectiveDate: "Датум на стапување во сила: 22 февруари 2025",
+    sections: [
+      {
+        heading: "Прифаќање на условите",
+        body: "Со преземање, инсталирање или користење на Gallery Guy, се согласувате да бидете обврзани со овие Услови за користење. Ако не се согласувате со овие услови, не ја користете апликацијата.",
+      },
+      {
+        heading: "Опис на услугата",
+        body: `Gallery Guy е мобилна апликација за управување и чистење на вашата фотогалерија. Функциите вклучуваат:
+
+• Откривање и категоризација на слики од екран преку OCR
+• Групирање и споредба на слични фотографии
+• Идентификација на големи видеа
+• Скриен трезор со биометриска заштита
+• Паметно чистење (преглед на датотеки со лизгање)
+• Управување со албуми
+
+Апликацијата работи целосно на вашиот уред без облак услуги.`,
+      },
+      {
+        heading: "Лиценца",
+        body: "Ви доделуваме неексклузивна, непреносива, отповиклива лиценца за користење на Gallery Guy за лични, некомерцијални цели, предмет на овие услови.",
+      },
+      {
+        heading: "Ваши одговорности",
+        body: `• Вие сте одговорни за содржината во вашата библиотека со фотографии.
+• Треба внимателно да ги прегледате датотеките пред да потврдите бришење.
+• Избришените датотеки се преместуваат во папката \u201EНеодамна избришано\u201C на вашиот уред каде што операцискиот систем го поддржува, но трајното бришење е неповратно.
+• Вие сте одговорни за одржување на биометриската безбедност на вашиот уред за функцијата Скриен трезор.`,
+      },
+      {
+        heading: "Интелектуална сопственост",
+        body: `Gallery Guy и неговиот дизајн, код и брендирање се во сопственост на развивачот. Името \u201EGallery Guy\u201C, логото и поврзаните елементи се сопственост на Batur Cihan. Не смеете да ја копирате, менувате, дистрибуирате или обратно инженерирате апликацијата.`,
+      },
+      {
+        heading: "Одрекување",
+        body: `• Апликацијата се обезбедува \u201Eкако што е\u201C без никакви гаранции.
+• Не гарантираме дека бришењето датотеки ќе ослободи одредена количина простор.
+• Не сме одговорни за случајно бришење на датотеки.
+• Категоризацијата на слики од екран базирана на OCR може да не биде 100% точна.
+• Откривањето на слични фотографии е приближно и понекогаш може да групира различни фотографии.
+• Максималната одговорност е ограничена на износот платен за апликацијата.`,
+      },
+      {
+        heading: "Претплата и купувања",
+        body: `• Gallery Guy нуди еднократна купување за доживотен пристап.
+• Нема автоматско обновување или скриени надоместоци.
+• Купувањата се обработуваат преку Apple App Store.
+• Рефундирањата подлежат на политиките на App Store.`,
+      },
+      {
+        heading: "Промени на условите",
+        body: "Ги задржуваме правата да ги ажурираме овие услови во секое време. Продолженото користење на апликацијата по промените претставува прифаќање на новите услови.",
+      },
+      {
+        heading: "Прекинување",
+        body: "Може да го прекинеме или суспендираме пристапот до апликацијата ако ги прекршите овие услови. Може да ја деинсталирате апликацијата во секое време.",
+      },
+      {
+        heading: "Применливо право",
+        body: "Овие услови се регулираат според законите на Република Турција.",
+      },
+      {
+        heading: "Контакт",
+        body: "За прашања во врска со овие услови, контактирајте нè на: bfrkcihan@gmail.com",
+      },
+      {
+        heading: "Услови специфични за Apple",
+        body: `• Овие услови се меѓу вас и Gallery Guy, не Apple Inc.
+• Apple нема обврска да обезбеди услуги за одржување или поддршка за апликацијата.
+• Во случај на неусогласеност со која било гаранција, може да го известите Apple за рефундирање на куповната цена.
+• Apple не е одговорен за барања од трети лица дека апликацијата ги крши интелектуалните права.
+• Apple и подружниците на Apple се корисници трети лица на овие услови.`,
+      },
+    ],
+  },
   ar: {
     title: "شروط الخدمة",
     effectiveDate: "تاريخ السريان: 22 فبراير 2025",

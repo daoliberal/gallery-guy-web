@@ -26,6 +26,9 @@ const LOCALE_LABELS: Record<string, { short: string; full: string }> = {
   el: { short: "EL", full: "Ελληνικά" },
   da: { short: "DA", full: "Dansk" },
   bg: { short: "BG", full: "Български" },
+  cs: { short: "CS", full: "Čeština" },
+  az: { short: "AZ", full: "Azərbaycan" },
+  mk: { short: "MK", full: "Македонски" },
 };
 
 export default function LanguageSwitcher() {

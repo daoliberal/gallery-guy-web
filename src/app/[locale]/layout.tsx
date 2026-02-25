@@ -162,6 +162,27 @@ const meta: Record<
     ogDescription:
       "Плъзнете през снимките си като в Tinder — намерете дубликати, изберете най-добрата снимка, освободете място на iPhone. Най-добрият почистващ снимки без абонамент.",
   },
+  cs: {
+    title: "Gallery Guy — Nejlepší čistič fotek pro iPhone · Bez předplatného",
+    description:
+      "Nejlepší způsob, jak smazat podobné fotky na iPhone. Chytrý čistič fotek — jednorázový nákup, bez předplatného. Přejeďte pro srovnání, vyberte nejlepší fotku, uvolněte úložiště.",
+    ogDescription:
+      "Přejeďte přes své fotky jako na Tinderu — najděte duplikáty, vyberte nejlepší fotku, uvolněte místo na iPhone. Nejlepší čistič fotek bez předplatného.",
+  },
+  az: {
+    title: "Gallery Guy — iPhone üçün Ən Yaxşı Foto Təmizləyici · Abunəsiz",
+    description:
+      "iPhone-da oxşar şəkilləri silməyin ən yaxşı yolu. Ağıllı foto təmizləyici — birdəfəlik alış, abunəsiz. Müqayisə etmək üçün sürüşdürün, ən yaxşı şəkli seçin, yaddaş boşaldın.",
+    ogDescription:
+      "Şəkillərinizdə Tinder kimi sürüşdürün — dublikatları tapın, ən yaxşı şəkli seçin, iPhone yaddaşını boşaldın. Abunəsiz ən yaxşı foto təmizləyici.",
+  },
+  mk: {
+    title: "Gallery Guy — Најдобар Чистач на Фотографии за iPhone · Без Претплата",
+    description:
+      "Најдобар начин за бришење слични фотографии на iPhone. Паметен чистач на фотографии — еднократна купување, без претплата. Лизгајте за споредба, изберете ја најдобрата фотографија, ослободете простор.",
+    ogDescription:
+      "Лизгајте низ фотографиите како на Tinder — најдете дупликати, изберете ја најдобрата фотографија, ослободете простор на iPhone. Најдобар чистач на фотографии без претплата.",
+  },
 };
 
 export async function generateMetadata({

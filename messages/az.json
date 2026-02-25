@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "Xüsusiyyətlər",
+    "howItWorks": "Necə işləyir",
+    "about": "Haqqında"
+  },
+  "hero": {
+    "badge": "iOS üçün Pulsuz",
+    "taglineStatic": "Gallery Guy ilə tanış ol.",
+    "rotating0": "Şəkilləri peşəkar kimi seçir.",
+    "rotating1": "Dublikatları silir.",
+    "rotating2": "Silməyi əyləncəli edir.",
+    "rotating3": "Yaddaş boşaldır.",
+    "rotating4": "Xüsusi şəkilləri gizlədir.",
+    "subtagline": "iPhone üçün ən yaxşı foto təşkilatçısı — Tinder kimi müqayisə etmək üçün sürüşdürün, ən yaxşı şəkli seçin, qalanını silin.",
+    "download": "App Store-dan Yüklə",
+    "rating": "Pulsuz · 4.9 ★",
+    "qrLabel": "iPhone kameranızla skan edin",
+    "qrSublabel": "App Store-a yönləndiriləcəksiniz",
+    "compareTitle": "Müqayisə etmək üçün sürüşdürün",
+    "compareDescription": "Fərqləri kəşf etmək üçün oxşar şəkillər arasında sürüşdürün — sevimlini seçin, Gallery Guy qalanını həll etsin.",
+    "explore": "Kəşf et"
+  },
+  "features": {
+    "label": "Xüsusiyyətlər",
+    "heading": "Hamısı bir tətbiqdə",
+    "smartMaintenance": {
+      "title": "Ağıllı foto təmizləmə",
+      "description": "Lazımsız və bulanıq şəkilləri avtomatik aşkar edin və yaddaş boşaldın."
+    },
+    "similarPhotos": {
+      "title": "Dublikatları silmə",
+      "description": "Oxşar şəkilləri qruplaşdırın, ən yaxşısını seçin və qalanını silin."
+    },
+    "screenshots": {
+      "title": "Ekran görüntüləri",
+      "description": "Bütün ekran görüntülərini bir yerdə toplayın və toplu şəkildə təmizləyin."
+    },
+    "largeVideos": {
+      "title": "Böyük videoları tapma",
+      "description": "Ən çox yer tutan videoları tapın və idarə edin."
+    }
+  },
+  "showcase": {
+    "label": "Tətbiq",
+    "heading": "Hər xüsusiyyəti yaxından kəşf edin",
+    "smartMaintenance": {
+      "title": "Ağıllı foto təmizləmə",
+      "description": "Bulanıq və lazımsız şəkilləri Tinder kimi sürüşdürün — ən yaxşıları seçin, qalanını silin, yaddaş boşaldın.",
+      "bullet1": "Bulanıq və keyfiyyətsiz şəkillər üçün ən yaxşı təmizləmə aləti",
+      "bullet2": "Lazımsız şəkilləri bir toxunuşla silin",
+      "bullet3": "Nə qədər iPhone yaddaşı boşaltdığınızı görün"
+    },
+    "similarPhotos": {
+      "title": "Şəkilləri peşəkar kimi seçin",
+      "description": "iPhone üçün ən yaxşı dublikat silmə tətbiqi — oxşar şəkilləri qruplaşdırın, ən kəskinini seçin, qalanını toplu silin.",
+      "bullet1": "Dublikatları dərhal tapın və silin",
+      "bullet2": "Ağıllı seçim — avtomatik ən kəskin şəkli seçir",
+      "bullet3": "Oxşar və dublikat şəkilləri toplu silin"
+    },
+    "screenshots": {
+      "title": "Ekran görüntüləri",
+      "description": "Bütün ekran görüntülərini bir yerdə toplayın və asanlıqla idarə edin.",
+      "bullet1": "Bütün ekran görüntülərini avtomatik qruplaşdırır",
+      "bullet2": "Tarixə görə çeşidləyin və filtrləyin",
+      "bullet3": "Toplu seçim və silmə dəstəyi"
+    },
+    "largeVideos": {
+      "title": "Böyük videoları tapma",
+      "description": "Ən çox yer tutan videoları tapın və yaddaşı optimallaşdırın.",
+      "bullet1": "iPhone-da ən çox yer tutan videoları tapın",
+      "bullet2": "Ümumi video həcmini bir baxışda görün",
+      "bullet3": "Önizləmədən dərhal yer boşaldın"
+    },
+    "hidePhotos": {
+      "title": "Şəkilləri gizlət",
+      "description": "Xüsusi şəkilləri Face ID qorunması ilə təhlükəsiz gizlədin.",
+      "bullet1": "Face ID ilə qorunan gizli albom",
+      "bullet2": "Şəkillər qalereyadan tamamilə gizlədilir",
+      "bullet3": "Sürətli və təhlükəsiz giriş"
+    }
+  },
+  "howItWorks": {
+    "label": "Necə işləyir",
+    "heading": "Üç addımda təmiz qalereya",
+    "step1": {
+      "title": "Yükləyin",
+      "description": "Gallery Guy-ı App Store-dan pulsuz yükləyin."
+    },
+    "step2": {
+      "title": "Skan edin",
+      "description": "Foto qalereyaızı avtomatik skan edir."
+    },
+    "step3": {
+      "title": "Təmizləyin",
+      "description": "Lazımsız faylları seçin və bir toxunuşla silin."
+    }
+  },
+  "finalCta": {
+    "heading": "Qalereyanızı təmizləməyə başlayın",
+    "subtext": "Pulsuz yükləyin və fərqi dərhal hiss edin.",
+    "download": "App Store-dan Yüklə",
+    "badges": "Pulsuz · Reklamsız · Məxfilik qorunması"
+  },
+  "pricing": {
+    "label": "Abunə yoxdur",
+    "heading": "Birdəfəlik alış. Həmişəlik sizin.",
+    "subtext": "iPhone üçün ən yaxşı ömürlük foto təmizləyici — abunəsiz, bir ödəniş, həmişəlik istifadə.",
+    "oneTime": {
+      "title": "Birdəfəlik alış",
+      "description": "Bir dəfə ödəyin, həmişəlik istifadə edin. Aylıq ödəniş yoxdur, gizli xərclər yoxdur."
+    },
+    "noAds": {
+      "title": "Reklamsız",
+      "description": "Reklam yoxdur, fasilə yoxdur. Sadəcə təmiz təcrübə."
+    },
+    "privacy": {
+      "title": "Məxfilik qorunması",
+      "description": "Bütün emal cihazınızda baş verir. Bulud yükləməsi yoxdur, şəkillər sizin qalır."
+    }
+  },
+  "faq": {
+    "q1": "iPhone-da oxşar şəkilləri silməyin ən yaxşı yolu nədir?",
+    "a1": "Gallery Guy demək olar ki, eyni şəkilləri qruplaşdırmaq üçün ağıllı oxşarlıq aşkarlamasından istifadə edir. Hər qrupu nəzərdən keçirin, sevimlinizi seçin və qalanını bir toxunuşla silin — əl ilə müqayisəyə ehtiyac yoxdur.",
+    "q2": "iPhone-da seriya şəkillərindən ən yaxşısını necə seçmək olar?",
+    "a2": "Gallery Guy avtomatik olaraq seriyaları və oxşar şəkilləri təhlil edir və ən kəskin, ən yaxşı kompozisiyalı şəkli tövsiyə edir. Müqayisə etmək üçün şəkillər arasında sürüşdürün və seçiminizi təsdiqləyin — iPhone-da seriya şəkillərini silməyin ən asan yolu.",
+    "q3": "iPhone-da dublikatları necə silmək olar?",
+    "a3": "Gallery Guy-ı App Store-dan yükləyin və foto kitabxananızı skan edin — dublikatları və oxşar şəkilləri dərhal qruplaşdıracaq. iPhone foto kitabxanasını təmizləməyin ən asan yolu — hansıları saxlamaq istədiyinizi seçin, qalanını toplu silin.",
+    "q4": "iPhone-da oxşar şəkilləri tapmaq və silmək üçün pulsuz tətbiq varmı?",
+    "a4": "Bəli — Gallery Guy tamamilə pulsuz və reklamsızdır. iPhone yaddaşını boşaltmağınıza kömək etmək üçün oxşar şəkilləri, bulanıq şəkilləri, ekran görüntülərini və böyük videoları aşkar edir.",
+    "q5": "Sürüşdürərək şəkil silən iPhone tətbiqi varmı?",
+    "a5": "Gallery Guy ilə oxşar şəkillər arasında tanışlıq tətbiqi kimi sürüşdürə bilərsiniz — sevimliləri saxlayın, qalanını silin. Foto kitabxanasını təmizləməyin ən sürətli yolu.",
+    "q6": "Şəkillər üçün Tinder tipli tətbiq varmı?",
+    "a6": "Gallery Guy qaleryanız üçün Tinder kimi işləyir — oxşar şəkilləri qruplaşdırır və ən yaxşısını seçmək üçün sürüşdürməyə imkan verir. Saxlamaq və ya silmək üçün sadə sürüşdürmə şəkil çeşidləməni sürətli və əyləncəli edir.",
+    "q7": "Abunəsiz birdəfəlik alışla iPhone foto təmizləyicisi varmı?",
+    "a7": "Gallery Guy ömürlük birdəfəlik alışdır — aylıq ödəniş yoxdur, gizli xərclər yoxdur. Bir dəfə ödəyin və bütün xüsusiyyətləri həmişəlik əldə edin, o cümlədən ağıllı oxşarlıq aşkarlaması, bulanıq şəkil təmizləməsi və yaddaş optimallaşdırması.",
+    "q8": "iPhone üçün əyləncəli foto təşkilatçısı varmı?",
+    "a8": "Gallery Guy foto çeşidləməni həqiqətən əyləncəli edir — tanışlıq tətbiqi kimi şəkilləri nəzərdən keçirin, oxşar şəkilləri yan-yana müqayisə edin və yaddaşın real vaxtda boşaldığını izləyin. Cansıxıcı iş məmnunedici təcrübəyə çevrilir.",
+    "q9": "iPhone-da şəkilləri çeşidləmək üçün ən yaxşı tətbiq hansıdır?",
+    "a9": "Gallery Guy iPhone üçün ən sürətli foto çeşidləmə tətbiqidir. Oxşar və dublikat şəkilləri avtomatik qruplaşdırır, hər qrupda ən yaxşını tövsiyə edir və qalanını toplu silə bilir. Tətil şəkillərini, tədbir fotolarını və gündəlik seriyaları təşkil etmək üçün mükəmməldir.",
+    "q10": "iPhone-da şəkilləri necə sürətli çeşidləmək olar?",
+    "a10": "Gallery Guy-ı yükləyin və kitabxananızı skan edin — oxşar şəkilləri dərhal qruplaşdırır. Hər qrupu nəzərdən keçirin, ən yaxşını seçin, qalanını toplu silin. Saatlarla iş dəqiqələr ərzində hazır.",
+    "q11": "Gallery Guy CleanMyPhone-a yaxşı alternativdir?",
+    "a11": "Gallery Guy CleanMyPhone-a əla alternativdir — ağıllı oxşarlıq aşkarlaması, bulanıq şəkil təmizləməsi, ekran görüntüsü idarəetməsi, böyük video axtarışı. Abunəsiz birdəfəlik alış, reklamsız, tam məxfilik qorunması.",
+    "q12": "Gallery Guy buna dəyərmi? Rəylər nə deyir?",
+    "a12": "Gallery Guy App Store-da 4,9 ulduz reytinqinə malikdir. İstifadəçilər sürüşdürərək müqayisə funksiyasını, avtomatik ən yaxşı şəkil seçimini və abunəsiz birdəfəlik alışı bəyənirlər. Pulsuz sınayın, reklamsız.",
+    "q13": "iPhone yaddaşı doludur amma silməyə bir şey tapmıram — nə etməliyəm?",
+    "a13": "iPhone yaddaşı doludursa amma silməyə bir şey tapa bilmirsinizsə, problem adətən kitabxanada gizlənmiş yüzlərlə oxşar şəkil, köhnə ekran görüntüləri və böyük videolardır. Gallery Guy hər şeyi skan edir və dəqiq nəyin yer tutduğunu göstərir — dublikatları, bulanıq şəkilləri və unudulmuş videoları silərək dərhal yer boşaldın.",
+    "q14": "iPhone-da minlərlə şəkil varsa nə etməli?",
+    "a14": "Gallery Guy məhz bunun üçün yaradılıb — saniyələr ərzində minlərlə şəkli skan edir, oxşar və dublikatları qruplaşdırır, yalnız ən yaxşılarını saxlamağınıza kömək edir. Bütün kitabxananı əl ilə sürüşdürmək əvəzinə, Gallery Guy-ın sizin üçün təşkil etməsinə icazə verin.",
+    "q15": "iPhone şəkillərini necə təşkil etmək və yaddaş boşaltmaq olar?",
+    "a15": "Gallery Guy oxşar şəkilləri, ekran görüntülərini və böyük videoları ayrıca qruplaşdıraraq iPhone şəkillərini təşkil etməyə kömək edir. Hər qrupdan ən yaxşı şəkli seçin, qalanını silin və artıq lazım olmayan şəkillərdən iPhone yaddaşını boşaldın."
+  },
+  "footer": {
+    "tagline": "Qalereyanızı təmiz saxlamağın ən ağıllı yolu.",
+    "product": "Məhsul",
+    "productFeatures": "Xüsusiyyətlər",
+    "productDownload": "Yüklə",
+    "legal": "Hüquqi",
+    "legalPrivacy": "Məxfilik siyasəti",
+    "legalTerms": "İstifadə şərtləri",
+    "copyright": "© 2026 Gallery Guy. All rights reserved.",
+    "madeIn": "Türkiyədə ❤ ilə hazırlanıb"
+  }
+}

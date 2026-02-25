@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "appName": "Gallery Guy",
+    "features": "Funkce",
+    "howItWorks": "Jak to funguje",
+    "about": "O aplikaci"
+  },
+  "hero": {
+    "badge": "Zdarma pro iOS",
+    "taglineStatic": "Poznej Gallery Guy.",
+    "rotating0": "Vybírá fotky jako profík.",
+    "rotating1": "Odstraňuje duplikáty.",
+    "rotating2": "Dělá mazání zábavným.",
+    "rotating3": "Uvolňuje úložiště.",
+    "rotating4": "Skrývá soukromé fotky.",
+    "subtagline": "Nejlepší organizátor fotek pro iPhone — přejeďte pro srovnání jako na Tinderu, vyberte nejlepší fotku, smažte zbytek.",
+    "download": "Stáhnout z App Store",
+    "rating": "Zdarma · 4.9 ★",
+    "qrLabel": "Naskenujte kamerou iPhonu",
+    "qrSublabel": "Budete přesměrováni do App Store",
+    "compareTitle": "Přejeďte pro srovnání",
+    "compareDescription": "Přejeďte mezi podobnými fotkami a objevte rozdíly — vyberte svou oblíbenou a Gallery Guy se postará o zbytek.",
+    "explore": "Prozkoumat"
+  },
+  "features": {
+    "label": "Funkce",
+    "heading": "Vše v jedné aplikaci",
+    "smartMaintenance": {
+      "title": "Chytré čištění fotek",
+      "description": "Automaticky detekujte zbytečné a rozmazané fotky a získejte zpět úložný prostor."
+    },
+    "similarPhotos": {
+      "title": "Odstranění duplikátů",
+      "description": "Seskupte podobné fotky, vyberte nejlepší a smažte zbytek."
+    },
+    "screenshots": {
+      "title": "Snímky obrazovky",
+      "description": "Shromážděte všechny snímky obrazovky na jednom místě a vyčistěte je naráz."
+    },
+    "largeVideos": {
+      "title": "Vyhledání velkých videí",
+      "description": "Najděte videa, která zabírají nejvíce úložiště, a spravujte je."
+    }
+  },
+  "showcase": {
+    "label": "Aplikace",
+    "heading": "Prozkoumejte každou funkci zblízka",
+    "smartMaintenance": {
+      "title": "Chytré čištění fotek",
+      "description": "Přejíždějte přes rozmazané a zbytečné fotky jako na Tinderu — vyberte nejlepší, smažte zbytek, získejte zpět úložný prostor.",
+      "bullet1": "Nejlepší nástroj na čištění rozmazaných a nekvalitních fotek",
+      "bullet2": "Odstraňte zbytečné fotky jedním klepnutím",
+      "bullet3": "Podívejte se, kolik úložiště iPhonu jste uvolnili"
+    },
+    "similarPhotos": {
+      "title": "Vybírejte fotky jako profík",
+      "description": "Nejlepší aplikace na odstranění duplikátů pro iPhone — seskupte podobné fotky, vyberte nejostřejší, smažte zbytek hromadně.",
+      "bullet1": "Najděte a odstraňte duplikáty okamžitě",
+      "bullet2": "Chytrý výběr — automaticky vybere nejostřejší fotku",
+      "bullet3": "Hromadné mazání podobných a duplicitních fotek"
+    },
+    "screenshots": {
+      "title": "Snímky obrazovky",
+      "description": "Shromážděte všechny snímky obrazovky na jednom místě a snadno je spravujte.",
+      "bullet1": "Automatické seskupení všech snímků obrazovky",
+      "bullet2": "Řazení a filtrování podle data",
+      "bullet3": "Hromadný výběr a mazání"
+    },
+    "largeVideos": {
+      "title": "Vyhledání velkých videí",
+      "description": "Najděte videa, která zabírají nejvíce místa, a optimalizujte úložiště.",
+      "bullet1": "Najděte videa, která zabírají nejvíce místa na iPhonu",
+      "bullet2": "Podívejte se na celkovou velikost videí jedním pohledem",
+      "bullet3": "Uvolněte místo ihned po náhledu"
+    },
+    "hidePhotos": {
+      "title": "Skrytí fotek",
+      "description": "Bezpečně skryjte soukromé fotky s ochranou Face ID.",
+      "bullet1": "Skrytý album chráněný Face ID",
+      "bullet2": "Fotky zcela skryté z galerie",
+      "bullet3": "Rychlý a bezpečný přístup"
+    }
+  },
+  "howItWorks": {
+    "label": "Jak to funguje",
+    "heading": "Čistá galerie ve třech krocích",
+    "step1": {
+      "title": "Stáhněte",
+      "description": "Stáhněte Gallery Guy zdarma z App Store."
+    },
+    "step2": {
+      "title": "Naskenujte",
+      "description": "Automaticky naskenuje vaši fotogalerii."
+    },
+    "step3": {
+      "title": "Vyčistěte",
+      "description": "Vyberte zbytečné soubory a smažte jedním klepnutím."
+    }
+  },
+  "finalCta": {
+    "heading": "Začněte čistit svou galerii",
+    "subtext": "Stáhněte zdarma a okamžitě pocítíte rozdíl.",
+    "download": "Stáhnout z App Store",
+    "badges": "Zdarma · Bez reklam · Ochrana soukromí"
+  },
+  "pricing": {
+    "label": "Bez předplatného",
+    "heading": "Jednorázový nákup. Navždy vaše.",
+    "subtext": "Nejlepší doživotní čistič fotek pro iPhone — bez předplatného, jedna platba, používejte navždy.",
+    "oneTime": {
+      "title": "Jednorázový nákup",
+      "description": "Zaplaťte jednou, používejte navždy. Žádné měsíční poplatky, žádné skryté náklady."
+    },
+    "noAds": {
+      "title": "Bez reklam",
+      "description": "Žádné reklamy, žádná přerušení. Jen čistý zážitek."
+    },
+    "privacy": {
+      "title": "Ochrana soukromí",
+      "description": "Veškeré zpracování probíhá na vašem zařízení. Žádné nahrávání do cloudu, vaše fotky zůstávají vaše."
+    }
+  },
+  "faq": {
+    "q1": "Jaký je nejlepší způsob, jak smazat podobné fotky na iPhone?",
+    "a1": "Gallery Guy používá chytrou detekci podobnosti k seskupení téměř identických fotek. Projděte každou skupinu, vyberte svou oblíbenou a smažte zbytek jedním klepnutím — bez ručního porovnávání.",
+    "q2": "Jak vybrat nejlepší fotku ze sériových snímků na iPhone?",
+    "a2": "Gallery Guy automaticky analyzuje série a podobné fotky a doporučí nejostřejší, nejlépe komponovanou. Přejeďte mezi fotkami pro srovnání a potvrďte svou volbu — nejjednodušší způsob, jak smazat sériové snímky na iPhone.",
+    "q3": "Jak smazat duplikáty na iPhone?",
+    "a3": "Stáhněte Gallery Guy z App Store a naskenujte fotoknihovnu — okamžitě seskupí duplikáty a podobné fotky. Nejjednodušší způsob, jak vyčistit fotoknihovnu iPhone — vyberte, které chcete ponechat, a smažte zbytek hromadně.",
+    "q4": "Existuje bezplatná aplikace na vyhledání a odstranění podobných fotek na iPhone?",
+    "a4": "Ano — Gallery Guy je zcela zdarma a bez reklam. Detekuje podobné fotky, rozmazané fotky, snímky obrazovky a velká videa, aby vám pomohl uvolnit úložiště na iPhone.",
+    "q5": "Existuje iPhone aplikace, která maže fotky přejetím?",
+    "a5": "S Gallery Guy můžete přejíždět mezi podobnými fotkami jako na seznamce — ponechte si oblíbené, smažte zbytek. Nejrychlejší způsob, jak vyčistit fotoknihovnu.",
+    "q6": "Existuje aplikace typu Tinder na fotky?",
+    "a6": "Gallery Guy funguje jako Tinder pro vaši galerii — seskupuje podobné fotky a nechá vás přejíždět pro výběr nejlepší. Jednoduché přejetí pro ponechání nebo smazání dělá třídění fotek rychlé a zábavné.",
+    "q7": "Existuje čistič fotek pro iPhone s jednorázovým nákupem bez předplatného?",
+    "a7": "Gallery Guy je doživotní jednorázový nákup — žádné měsíční poplatky, žádné skryté náklady. Zaplaťte jednou a získejte všechny funkce navždy, včetně chytré detekce podobnosti, čištění rozmazaných fotek a optimalizace úložiště.",
+    "q8": "Existuje zábavný organizátor fotek pro iPhone?",
+    "a8": "Gallery Guy dělá třídění fotek opravdu zábavným — procházejte fotky jako na seznamce, srovnávejte podobné fotky vedle sebe a sledujte, jak se uvolňuje úložiště v reálném čase. Nudná práce se mění v uspokojující zážitek.",
+    "q9": "Jaká je nejlepší aplikace na třídění fotek na iPhone?",
+    "a9": "Gallery Guy je nejrychlejší aplikace na třídění fotek pro iPhone. Automaticky seskupuje podobné a duplicitní fotky, doporučuje nejlepší v každé skupině a může smazat zbytek hromadně. Perfektní pro organizaci dovolenkových fotek, fotek z akcí a každodenních sérií.",
+    "q10": "Jak rychle třídit fotky na iPhone?",
+    "a10": "Stáhněte Gallery Guy a naskenujte knihovnu — okamžitě seskupí podobné fotky. Projděte každou skupinu, vyberte nejlepší, smažte zbytek hromadně. Hodiny práce hotové za minuty.",
+    "q11": "Je Gallery Guy dobrá alternativa k CleanMyPhone?",
+    "a11": "Gallery Guy je vynikající alternativa k CleanMyPhone — chytrá detekce podobnosti, čištění rozmazaných fotek, správa snímků obrazovky, vyhledání velkých videí. Jednorázový nákup bez předplatného, bez reklam, kompletní ochrana soukromí.",
+    "q12": "Stojí Gallery Guy za to? Co říkají recenze?",
+    "a12": "Gallery Guy má 4,9 hvězdiček v App Store. Uživatelé oceňují funkci přejetí pro srovnání, automatický výběr nejlepší fotky a jednorázový nákup bez předplatného. Vyzkoušejte zdarma, bez reklam.",
+    "q13": "Úložiště iPhone je plné, ale nemám co smazat — co dělat?",
+    "a13": "Pokud je úložiště iPhone plné, ale nemůžete najít co smazat, problém jsou obvykle stovky podobných fotek, staré snímky obrazovky a velká videa skrytá v knihovně. Gallery Guy naskenuje vše a ukáže přesně, co zabírá místo — odstraňte duplikáty, rozmazané fotky a zapomenutá videa a uvolněte místo ihned.",
+    "q14": "Co dělat, když máte na iPhone tisíce fotek?",
+    "a14": "Gallery Guy je stvořen přesně pro toto — naskenuje tisíce fotek za sekundy, seskupí podobné a duplikáty, pomůže vám ponechat jen ty nejlepší. Místo ručního procházení celé knihovny nechte Gallery Guy organizovat za vás.",
+    "q15": "Jak organizovat fotky na iPhone a uvolnit úložiště?",
+    "a15": "Gallery Guy vám pomůže organizovat fotky na iPhone seskupením podobných fotek, snímků obrazovky a velkých videí. Vyberte nejlepší fotku z každé skupiny, smažte zbytek a uvolněte místo na iPhone od fotek, které už nepotřebujete."
+  },
+  "footer": {
+    "tagline": "Nejchytřejší způsob, jak udržovat galerii čistou.",
+    "product": "Produkt",
+    "productFeatures": "Funkce",
+    "productDownload": "Stáhnout",
+    "legal": "Právní informace",
+    "legalPrivacy": "Zásady ochrany osobních údajů",
+    "legalTerms": "Podmínky použití",
+    "copyright": "© 2026 Gallery Guy. All rights reserved.",
+    "madeIn": "Vyrobeno s ❤ v Turecku"
+  }
+}

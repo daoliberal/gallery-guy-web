@@ -1525,6 +1525,204 @@ Appen bruger ingen tredjeparts analyse-, reklame- eller crashrapporteringstjenes
       },
     ],
   },
+  cs: {
+    title: "Zásady ochrany osobních údajů",
+    effectiveDate: "Datum účinnosti: 22. února 2025",
+    sections: [
+      {
+        heading: "Úvod",
+        body: "Gallery Guy (\u201cmy\u201d, \u201cnáš\u201d, \u201caplikace\u201d) je vyvinut Batur Cihanem. Tyto zásady ochrany osobních údajů vysvětlují, jak aplikace nakládá s vašimi informacemi. Gallery Guy je navržen s ochranou soukromí jako prioritou \u2014 všechna vaše data zůstávají na vašem zařízení. Neshromažďujeme, nepřenášíme ani neukládáme žádné osobní informace na externích serverech.",
+      },
+      {
+        heading: "Informace, které neshromažďujeme",
+        body: `Gallery Guy neshromažďuje žádné osobní informace. Konkrétně:
+
+• Žádné osobní informace (jméno, e-mail, telefonní číslo)
+• Žádná analýza používání nebo telemetrie
+• Žádné reklamní identifikátory nebo sledování
+• Žádný otisk zařízení
+• Žádná data o poloze
+• Není vyžadováno vytvoření účtu
+• Žádné nahrávání do cloudu
+• Žádné cookies nebo technologie webového sledování`,
+      },
+      {
+        heading: "Informace uložené na vašem zařízení",
+        body: `Následující data jsou uložena lokálně na vašem zařízení a nikdy jej neopouštějí:
+
+• Přístup k fotoknihovně: Aplikace čte vaši fotoknihovnu pro skenování, zobrazení a správu fotek a videí. Přístup pro zápis se používá pro mazání a přesouvání souborů mezi alby.
+
+• Výsledky OCR skenování: Text rozpoznaný ze snímků obrazovky je uložen lokálně na vašem zařízení pro účely kategorizace. Tato data nikdy neopouštějí vaše zařízení.
+
+• Soubory ve Skrytém trezoru: Fotky a videa přesunutá do Skrytého trezoru jsou uložena v sandboxovaném souborovém systému aplikace na vašem zařízení, chráněna biometrickou autentizací.
+
+• Uživatelské předvolby: Režim motivu, jazyková preference a stav onboardingu jsou uloženy lokálně v úložišti zařízení.`,
+      },
+      {
+        heading: "Oprávnění, která požadujeme",
+        body: `• Fotoknihovna (čtení a zápis): Vyžadováno pro fungování aplikace. Používá se ke skenování galerie, detekci snímků obrazovky, vyhledání podobných fotek, identifikaci velkých videí a mazání nebo přesouvání souborů, které vyberete.
+
+• Biometrická autentizace (Face ID / Touch ID): Používá se výhradně k ochraně přístupu k funkci Skrytý trezor. Biometrická data jsou zpracovávána výhradně operačním systémem; aplikace nikdy nepřistupuje k biometrickým informacím přímo ani je neukládá.`,
+      },
+      {
+        heading: "SDK třetích stran",
+        body: `• ML Kit Text Recognition: Používá se pro OCR na zařízení ke klasifikaci snímků obrazovky podle obsahu. Toto SDK běží výhradně na vašem zařízení — žádné obrázky ani text nejsou odesílány na server.
+
+• Moduly Expo Framework: Standardní moduly pro přístup k mediální knihovně, souborovému systému, lokalizaci a lokální autentizaci. Žádný z těchto modulů neshromažďuje ani nepřenáší data.
+
+Aplikace nepoužívá žádné analytické, reklamní ani crash reportovací služby třetích stran.`,
+      },
+      {
+        heading: "Model nákupu aplikace",
+        body: "Gallery Guy nabízí bezplatnou verzi a jednorázový nákup. Platby jsou zpracovávány společností Apple prostřednictvím App Store. Nemáme přístup k vašim platebním informacím.",
+      },
+      {
+        heading: "Ochrana soukromí dětí",
+        body: "Gallery Guy vědomě neshromažďuje informace od dětí. Aplikace nevyžaduje registraci a neshromažďuje žádné osobní údaje bez ohledu na věk.",
+      },
+      {
+        heading: "Změny těchto zásad",
+        body: "Tyto zásady ochrany osobních údajů můžeme čas od času aktualizovat. Změny vstupují v platnost zveřejněním aktualizovaných zásad v aplikaci nebo na naší webové stránce.",
+      },
+      {
+        heading: "Kontakt",
+        body: "V případě dotazů ohledně těchto zásad ochrany osobních údajů nás kontaktujte na: baturcihan@icloud.com",
+      },
+    ],
+  },
+  az: {
+    title: "Məxfilik Siyasəti",
+    effectiveDate: "Qüvvəyə minmə tarixi: 22 fevral 2025",
+    sections: [
+      {
+        heading: "Giriş",
+        body: "Gallery Guy (\u201cbiz\u201d, \u201cbizim\u201d, \u201ct\u0259tbiq\u201d) Batur Cihan t\u0259r\u0259find\u0259n haz\u0131rlan\u0131b. Bu m\u0259xfilik siyas\u0259ti t\u0259tbiqin m\u0259lumatlar\u0131n\u0131z\u0131 nec\u0259 idar\u0259 etdiyini izah edir. Gallery Guy m\u0259xfilik prioritet olaraq dizayn edilib \u2014 b\u00fct\u00fcn m\u0259lumatlar\u0131n\u0131z cihaz\u0131n\u0131zda qal\u0131r. Xarici serverl\u0259rd\u0259 he\u00e7 bir \u015f\u0259xsi m\u0259lumat toplamır, \u00f6t\u00fcrmür v\u0259 ya saxlam\u0131r\u0131q.",
+      },
+      {
+        heading: "Toplamadığımız məlumatlar",
+        body: `Gallery Guy heç bir şəxsi məlumat toplamır. Xüsusilə:
+
+• Heç bir şəxsi məlumat (ad, e-poçt, telefon nömrəsi)
+• Heç bir istifadə analitikası və ya telemetriya
+• Heç bir reklam identifikatoru və ya izləmə
+• Heç bir cihaz barmaq izi
+• Heç bir məkan datası
+• Hesab yaratmaq tələb olunmur
+• Heç bir bulud yükləməsi
+• Heç bir cookie və ya veb izləmə texnologiyası`,
+      },
+      {
+        heading: "Cihazınızda saxlanılan məlumatlar",
+        body: `Aşağıdakı məlumatlar cihazınızda lokal olaraq saxlanılır və heç vaxt onu tərk etmir:
+
+• Foto kitabxanasına giriş: Tətbiq şəkillərinizi və videolarınızı skan etmək, göstərmək və idarə etmək üçün foto kitabxananızı oxuyur. Yazma girişi faylların silinməsi və albumlar arasında köçürülməsi üçün istifadə olunur.
+
+• OCR skan nəticələri: Ekran görüntülərindən tanınan mətn kateqoriyalaşdırma məqsədləri üçün cihazınızda lokal olaraq saxlanılır. Bu məlumatlar heç vaxt cihazınızı tərk etmir.
+
+• Gizli seyfdəki fayllar: Gizli seyfə köçürülmüş şəkillər və videolar biometrik autentifikasiya ilə qorunan tətbiqin sandbox fayl sistemində cihazınızda saxlanılır.
+
+• İstifadəçi tərəfləri: Mövzu rejimi, dil tərcihi və onboarding statusu cihaz yaddaşında lokal olaraq saxlanılır.`,
+      },
+      {
+        heading: "Tələb etdiyimiz icazələr",
+        body: `• Foto kitabxanası (oxuma və yazma): Tətbiqin işləməsi üçün tələb olunur. Qalereyaızı skan etmək, ekran görüntülərini aşkar etmək, oxşar şəkilləri tapmaq, böyük videoları müəyyən etmək və seçdiyiniz faylları silmək və ya köçürmək üçün istifadə olunur.
+
+• Biometrik autentifikasiya (Face ID / Touch ID): Yalnız Gizli seyf funksiyasına girişi qorumaq üçün istifadə olunur. Biometrik məlumatlar tamamilə əməliyyat sistemi tərəfindən idarə olunur; tətbiq heç vaxt biometrik məlumatlara birbaşa giriş etmir və ya saxlamır.`,
+      },
+      {
+        heading: "Üçüncü tərəf SDK-ları",
+        body: `• ML Kit Text Recognition: Ekran görüntülərini məzmuna görə təsnif etmək üçün cihazda OCR üçün istifadə olunur. Bu SDK tamamilə cihazınızda işləyir — heç bir şəkil və ya mətn serverə göndərilmir.
+
+• Expo Framework modulları: Media kitabxanasına giriş, fayl sistemi, lokallaşdırma və lokal autentifikasiya üçün standart modullar. Bu modulların heç biri məlumat toplamır və ya ötürmür.
+
+Tətbiq heç bir üçüncü tərəf analitika, reklam və ya qəza hesabatı xidmətindən istifadə etmir.`,
+      },
+      {
+        heading: "Tətbiqin alış modeli",
+        body: "Gallery Guy pulsuz versiya və birdəfəlik alış təklif edir. Ödənişlər Apple tərəfindən App Store vasitəsilə emal olunur. Ödəniş məlumatlarınıza girişimiz yoxdur.",
+      },
+      {
+        heading: "Uşaqların məxfiliyi",
+        body: "Gallery Guy bilərəkdən uşaqlardan məlumat toplamır. Tətbiq qeydiyyat tələb etmir və yaşdan asılı olmayaraq heç bir şəxsi məlumat toplamır.",
+      },
+      {
+        heading: "Bu siyasətdə dəyişikliklər",
+        body: "Bu məxfilik siyasətini vaxtaşırı yeniləyə bilərik. Dəyişikliklər tətbiqdə və ya veb saytımızda yenilənmiş siyasətin dərc edilməsi ilə qüvvəyə minir.",
+      },
+      {
+        heading: "Əlaqə",
+        body: "Bu məxfilik siyasəti ilə bağlı suallarınız üçün bizimlə əlaqə saxlayın: baturcihan@icloud.com",
+      },
+    ],
+  },
+  mk: {
+    title: "Политика за приватност",
+    effectiveDate: "Датум на стапување во сила: 22 февруари 2025",
+    sections: [
+      {
+        heading: "Вовед",
+        body: `Gallery Guy (\u201cние\u201d, \u201cнаша\u201d, \u201cапликацијата\u201d) е развиена од Batur Cihan. Оваа Политика за приватност објаснува како апликацијата ги обработува вашите информации. Gallery Guy е дизајниран со приватност како основа \u2014 сите ваши податоци остануваат на вашиот уред. Не собираме, пренесуваме или складираме лични информации на надворешни сервери.`,
+      },
+      {
+        heading: "Информации кои не ги собираме",
+        body: `Gallery Guy не собира никакви лични информации. Конкретно:
+
+• Без лични информации (име, е-пошта, телефонски број)
+• Без аналитика или телеметрија за користење
+• Без рекламни идентификатори или следење
+• Без отпечатоци на уреди
+• Без податоци за локација
+• Без потреба од креирање сметка
+• Без прикачување на облак од каков било вид
+• Без колачиња или технологии за веб следење`,
+      },
+      {
+        heading: "Информации складирани на вашиот уред",
+        body: `Следниве податоци се складираат локално на вашиот уред и никогаш не го напуштаат:
+
+• Пристап до библиотека со фотографии: Апликацијата ја чита вашата библиотека со фотографии за скенирање, прикажување и управување со вашите фотографии и видеа. Пристапот за запишување се користи за бришење и преместување датотеки меѓу албуми.
+
+• Резултати од OCR скенирање: Текстот препознаен од слики од екран е кеширан локално на вашиот уред за цели на категоризација. Овие податоци никогаш не го напуштаат вашиот уред.
+
+• Датотеки во скриен трезор: Фотографиите и видеата преместени во Скриениот трезор се складираат во изолираниот датотечен систем на апликацијата на вашиот уред, заштитени со биометриска автентикација.
+
+• Кориснички преференции: Вашиот режим на тема, јазична преференција и состојба на завршување на воведот се складираат локално користејќи складирање на уредот.`,
+      },
+      {
+        heading: "Дозволи кои ги бараме",
+        body: `• Библиотека со фотографии (читање и запишување): Потребно за функционирање на апликацијата. Се користи за скенирање на вашата галерија, откривање слики од екран, наоѓање слични фотографии, идентификување големи видеа и бришење или преместување датотеки кои ги избирате.
+
+• Биометриска автентикација (Face ID / Touch ID): Се користи исклучиво за заштита на пристапот до функцијата Скриен трезор. Биометриските податоци целосно ги обработува операцискиот систем; апликацијата никогаш не пристапува или складира биометриски информации директно.`,
+      },
+      {
+        heading: "SDK-а од трети лица",
+        body: `• ML Kit Text Recognition: Се користи за OCR на уредот за класификација на слики од екран по содржина. Овој SDK работи целосно на вашиот уред — ниту една слика или текст не се испраќа на сервер.
+
+• Expo Framework модули: Стандардни модули за пристап до медиумска библиотека, датотечен систем, локализација и локална автентикација. Ниту еден од овие модули не собира или пренесува податоци.
+
+Апликацијата не користи услуги за аналитика, рекламирање или известување за падови од трети лица.`,
+      },
+      {
+        heading: "Безбедност на податоци",
+        body: `• Сите податоци остануваат на вашиот уред.
+• Скриениот трезор е заштитен со биометриска автентикација на ниво на уредот.
+• Ниту едни податоци не се пренесуваат преку интернет.
+• Нема серверска инфраструктура или складирање во облак.`,
+      },
+      {
+        heading: "Приватност на децата",
+        body: "Gallery Guy не собира податоци од никого, вклучувајќи деца. Апликацијата не бара креирање сметка и нема можности за мрежна комуникација.",
+      },
+      {
+        heading: "Промени на оваа политика",
+        body: "Може да ја ажурираме оваа Политика за приватност. Промените ќе бидат објавени на оваа страница со ажуриран датум. Продолженото користење на апликацијата по промените претставува прифаќање.",
+      },
+      {
+        heading: "Контакт",
+        body: "Ако имате прашања за оваа Политика за приватност, контактирајте нè на: bfrkcihan@gmail.com",
+      },
+    ],
+  },
   ar: {
     title: "سياسة الخصوصية",
     effectiveDate: "تاريخ السريان: 22 فبراير 2025",
