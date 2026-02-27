@@ -5,6 +5,17 @@ const withNextIntl = createNextIntlPlugin("./src/i18n/request.ts");
 
 const nextConfig: NextConfig = {
   devIndicators: false,
+  async headers() {
+    return [
+      {
+        source: "/.well-known/apple-app-site-association",
+        headers: [
+          { key: "Content-Type", value: "application/json" },
+          { key: "Cache-Control", value: "no-cache, no-store" },
+        ],
+      },
+    ];
+  },
 };
 
 export default withNextIntl(nextConfig);

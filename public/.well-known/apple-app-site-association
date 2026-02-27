@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["VJHAAF3K5A.com.baturc.galleryguy"],
+        "components": [
+          {
+            "/": "/r/*",
+            "comment": "Referral deep links"
+          }
+        ]
+      }
+    ]
+  }
+}
