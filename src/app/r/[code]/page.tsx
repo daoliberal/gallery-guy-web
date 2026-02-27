@@ -25,10 +25,20 @@ export default async function ReferralPage({
   const isValidCode = /^[A-Z2-9]{6}$/.test(code.toUpperCase());
 
   if (isValidCode && ip !== "unknown") {
-    await supabase.from("referral_fingerprints").insert({
-      referral_code: code.toUpperCase(),
-      ip,
-    });
+    const { data: existing } = await supabase
+      .from("referral_fingerprints")
+      .select("id")
+      .eq("ip", ip)
+      .eq("referral_code", code.toUpperCase())
+      .gte("created_at", new Date(Date.now() - 10 * 60 * 1000).toISOString())
+      .limit(1);
+
+    if (!existing?.length) {
+      await supabase.from("referral_fingerprints").insert({
+        referral_code: code.toUpperCase(),
+        ip,
+      });
+    }
   }
 
   redirect(FALLBACK_URL);
