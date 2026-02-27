@@ -23,7 +23,7 @@ export default async function HomePage() {
       {
         "@type": "SoftwareApplication",
         name: "Gallery Guy",
-        operatingSystem: "iOS",
+        operatingSystem: "iOS, iPadOS, macOS",
         applicationCategory: "PhotographyApplication",
         offers: {
           "@type": "Offer",

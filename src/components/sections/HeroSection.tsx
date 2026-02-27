@@ -45,7 +45,9 @@ export default function HeroSection() {
           transition={{ duration: 0.5 }}
         >
           <span className="inline-flex items-center gap-2 rounded-full border border-accent/20 bg-accent/10 px-4 py-1.5 text-sm font-medium text-accent">
-            <span className="h-1.5 w-1.5 rounded-full bg-accent" />
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" className="shrink-0">
+              <path d="M12.152 8.374c-.02-1.89 1.546-2.804 1.617-2.848-.883-1.29-2.254-1.467-2.74-1.484-1.155-.121-2.27.692-2.86.692-.6 0-1.512-.68-2.49-.661-1.268.02-2.454.752-3.106 1.892-1.34 2.32-.342 5.737.944 7.615.64.92 1.39 1.95 2.374 1.914.962-.04 1.322-.618 2.484-.618 1.154 0 1.483.618 2.482.596.03 0 .058 0 .088-.002.968-.022 1.613-.93 2.234-1.856.718-1.048 1.006-2.082 1.02-2.136-.023-.008-1.942-.742-1.962-2.958l-.085.854zM10.334 2.754c.51-.636.862-1.5.764-2.378-.742.032-1.664.512-2.194 1.134-.47.55-.89 1.448-.782 2.296.836.064 1.694-.428 2.212-1.052z" />
+            </svg>
             {t("badge")}
           </span>
         </motion.div>
