@@ -73,6 +73,20 @@ The app operates entirely on your device with no cloud services.`,
 Email: baturcihan@icloud.com
 Country: Turkey`,
       },
+      {
+        heading: "13. Apple App Store Acknowledgments",
+        body: `13.1 APPLE NOT A PARTY: You acknowledge that Apple Inc. is not a party to this EULA and is not responsible for the Application or its content.
+
+13.2 APPLE BENEFICIARY RIGHTS: You acknowledge that Apple and Apple's subsidiaries are third-party beneficiaries of this EULA, and upon your acceptance of the terms and conditions of this EULA, Apple will have the right (and will be deemed to have accepted the right) to enforce this EULA against you as a third-party beneficiary thereof.
+
+13.3 APPLE MAINTENANCE: You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Application. Any maintenance and support services are the sole responsibility of Developer, as set forth in this EULA.
+
+13.4 WARRANTY CLAIMS: In the event of any failure to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price (if any) for the Application.
+
+13.5 PRODUCT LIABILITY: Apple is not responsible for addressing any claims by you or third parties relating to the Application, including product liability claims, consumer protection claims, or intellectual property claims.
+
+13.6 LEGAL COMPLIANCE: You represent that you are not located in a country that is subject to a U.S. Government embargo or designated as a terrorist supporting country, and you are not on any U.S. Government prohibited or restricted party list.`,
+      },
     ],
   },
   tr: {
@@ -2394,6 +2408,12 @@ export default async function TermsPage({
               {t.title}
             </h1>
             <p className="mt-2 text-sm text-muted">{t.effectiveDate}</p>
+
+            {locale === "en" && (
+              <p className="mt-6 rounded-lg border border-border bg-background px-5 py-4 text-[13px] font-medium uppercase leading-relaxed tracking-wide text-foreground">
+                BY DOWNLOADING, INSTALLING, OR USING THE APPLICATION, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS EULA, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+              </p>
+            )}
 
             <div className="mt-10 space-y-8">
               {t.sections.map((section) => (
