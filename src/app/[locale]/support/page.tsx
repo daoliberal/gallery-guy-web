@@ -8,7 +8,7 @@ const content = {
     faqs: [
       {
         q: "How do I get started with Gallery Guy?",
-        a: "Download Gallery Guy from the App Store and open it. Grant photo library access when prompted, then tap "Start Scanning." Gallery Guy will group your similar photos so you can swipe to keep or delete them one by one.",
+        a: "Download Gallery Guy from the App Store and open it. Grant photo library access when prompted, then tap Start Scanning. Gallery Guy will group your similar photos so you can swipe to keep or delete them one by one.",
       },
       {
         q: "Does Gallery Guy delete photos automatically?",
@@ -20,15 +20,15 @@ const content = {
       },
       {
         q: "How do I restore my purchase?",
-        a: "Open Gallery Guy, go to Settings, and tap "Restore Purchases." Your previous purchase will be restored automatically as long as you're signed in with the same Apple ID.",
+        a: "Open Gallery Guy, go to Settings, and tap Restore Purchases. Your previous purchase will be restored automatically as long as you are signed in with the same Apple ID.",
       },
       {
         q: "The app is not showing all my photos — what should I do?",
-        a: "Make sure Gallery Guy has Full Access to your photo library. Go to iPhone Settings → Privacy & Security → Photos → Gallery Guy → select "Full Access." Then relaunch the app and start a new scan.",
+        a: "Make sure Gallery Guy has Full Access to your photo library. Go to iPhone Settings → Privacy & Security → Photos → Gallery Guy → select Full Access. Then relaunch the app and start a new scan.",
       },
       {
         q: "Can I undo a deletion?",
-        a: 'Yes. Deleted photos go to the iOS "Recently Deleted" album and stay there for 30 days. Open the Photos app, navigate to Recently Deleted, and you can recover any photo within that window.',
+        a: "Yes. Deleted photos go to the iOS Recently Deleted album and stay there for 30 days. Open the Photos app, navigate to Recently Deleted, and you can recover any photo within that window.",
       },
       {
         q: "The app is crashing or not opening — what should I do?",
@@ -36,7 +36,7 @@ const content = {
       },
       {
         q: "What happens if I delete a photo by mistake?",
-        a: 'Go to the built-in Photos app → Albums → Recently Deleted. Your photo will be there for up to 30 days. Select it and tap "Recover" to restore it to your library.',
+        a: "Go to the built-in Photos app → Albums → Recently Deleted. Your photo will be there for up to 30 days. Select it and tap Recover to restore it to your library.",
       },
       {
         q: "How do I manage or cancel my purchase?",
@@ -44,7 +44,7 @@ const content = {
       },
       {
         q: "How do I contact support?",
-        a: "Email us at baturcihan@icloud.com and we'll get back to you as soon as possible. Please include your device model, iOS version, and a description of the issue.",
+        a: "Email us at baturcihan@icloud.com and we will get back to you as soon as possible. Please include your device model, iOS version, and a description of the issue.",
       },
     ],
     contactTitle: "Still need help?",
@@ -57,7 +57,7 @@ const content = {
     faqs: [
       {
         q: "Gallery Guy'ı nasıl kullanmaya başlarım?",
-        a: "App Store'dan Gallery Guy'ı indirin ve açın. İstendiğinde fotoğraf kütüphanesi erişimine izin verin, ardından "Taramayı Başlat"a dokunun. Uygulama benzer fotoğraflarınızı gruplar; kaydırarak hangilerini tutacağınızı hangilerini sileceğinizi seçersiniz.",
+        a: "App Store'dan Gallery Guy'ı indirin ve açın. İstendiğinde fotoğraf kütüphanesi erişimine izin verin, ardından Taramayı Başlat'a dokunun. Uygulama benzer fotoğraflarınızı gruplar; kaydırarak hangilerini tutacağınızı hangilerini sileceğinizi seçersiniz.",
       },
       {
         q: "Gallery Guy fotoğrafları otomatik siliyor mu?",
@@ -69,15 +69,15 @@ const content = {
       },
       {
         q: "Satın alma işlemimi nasıl geri yüklerim?",
-        a: "Gallery Guy'ı açın, Ayarlar'a gidin ve "Satın Alımları Geri Yükle"ye dokunun. Aynı Apple ID ile giriş yaptığınız sürece önceki satın alma işleminiz otomatik olarak geri yüklenir.",
+        a: "Gallery Guy'ı açın, Ayarlar'a gidin ve Satın Alımları Geri Yükle'ye dokunun. Aynı Apple ID ile giriş yaptığınız sürece önceki satın alma işleminiz otomatik olarak geri yüklenir.",
       },
       {
         q: "Uygulama tüm fotoğraflarımı göstermiyor — ne yapmalıyım?",
-        a: "Gallery Guy'ın fotoğraf kütüphanenize Tam Erişim iznine sahip olduğundan emin olun. iPhone Ayarlar → Gizlilik ve Güvenlik → Fotoğraflar → Gallery Guy → "Tam Erişim"i seçin. Ardından uygulamayı yeniden başlatın ve yeni bir tarama başlatın.",
+        a: "Gallery Guy'ın fotoğraf kütüphanenize Tam Erişim iznine sahip olduğundan emin olun. iPhone Ayarlar → Gizlilik ve Güvenlik → Fotoğraflar → Gallery Guy → Tam Erişim'i seçin. Ardından uygulamayı yeniden başlatın ve yeni bir tarama başlatın.",
       },
       {
         q: "Silme işlemini geri alabilir miyim?",
-        a: "Evet. Silinen fotoğraflar iOS'un "Son Silinenler" albümüne gider ve 30 gün boyunca orada kalır. Fotoğraflar uygulamasını açın, Son Silinenler'e gidin ve bu süre içinde herhangi bir fotoğrafı kurtarabilirsiniz.",
+        a: "Evet. Silinen fotoğraflar iOS'un Son Silinenler albümüne gider ve 30 gün boyunca orada kalır. Fotoğraflar uygulamasını açın, Son Silinenler'e gidin ve bu süre içinde herhangi bir fotoğrafı kurtarabilirsiniz.",
       },
       {
         q: "Uygulama çöküyor veya açılmıyor — ne yapmalıyım?",
@@ -85,7 +85,7 @@ const content = {
       },
       {
         q: "Yanlışlıkla bir fotoğrafı sildim — ne yapmalıyım?",
-        a: "Fotoğraflar uygulamasını açın → Albümler → Son Silinenler. Fotoğrafınız 30 güne kadar orada bulunur. Seçip "Kurtar"a dokunarak kütüphanenize geri yükleyebilirsiniz.",
+        a: "Fotoğraflar uygulamasını açın → Albümler → Son Silinenler. Fotoğrafınız 30 güne kadar orada bulunur. Seçip Kurtar'a dokunarak kütüphanenize geri yükleyebilirsiniz.",
       },
       {
         q: "Satın alma işlemimi nasıl yönetirim veya iptal ederim?",
