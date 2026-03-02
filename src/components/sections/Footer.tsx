@@ -111,6 +111,11 @@ export default function Footer() {
                     {t("legalTerms")}
                   </a>
                 </li>
+                <li>
+                  <a href="/support" className="transition-colors hover:text-white">
+                    Support
+                  </a>
+                </li>
               </ul>
             </div>
           </div>
