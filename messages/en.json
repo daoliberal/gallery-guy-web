@@ -73,12 +73,12 @@
       "bullet2": "See total video storage at a glance",
       "bullet3": "Preview and free up space instantly"
     },
-    "hidePhotos": {
-      "title": "Hide Photos",
-      "description": "Securely hide your private photos with Face ID protection.",
-      "bullet1": "Hidden album protected by Face ID",
-      "bullet2": "Photos completely hidden from gallery",
-      "bullet3": "Quick and secure access"
+    "tournament": {
+      "title": "Photo Tournament",
+      "description": "Can't choose your best photo? Let your photos compete head-to-head — pick the winner in each round until the ultimate champion emerges.",
+      "bullet1": "Fun head-to-head photo matchups",
+      "bullet2": "Find your best shot through elimination rounds",
+      "bullet3": "Save or share your tournament champion"
     }
   },
   "howItWorks": {

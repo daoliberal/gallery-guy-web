@@ -73,12 +73,12 @@
       "bullet2": "Zobacz łączny rozmiar filmów na jeden rzut oka",
       "bullet3": "Zwolnij miejsce natychmiast po podglądzie"
     },
-    "hidePhotos": {
-      "title": "Ukrywanie zdjęć",
-      "description": "Bezpiecznie ukryj prywatne zdjęcia z ochroną Face ID.",
-      "bullet1": "Ukryty album chroniony Face ID",
-      "bullet2": "Zdjęcia całkowicie ukryte z galerii",
-      "bullet3": "Szybki i bezpieczny dostęp"
+    "tournament": {
+      "title": "Turniej Zdjęć",
+      "description": "Nie możesz wybrać najlepszego zdjęcia? Pozwól zdjęciom rywalizować — wybieraj zwycięzcę w każdej rundzie.",
+      "bullet1": "Zabawne pojedynki zdjęć",
+      "bullet2": "Znajdź najlepsze zdjęcie przez eliminacje",
+      "bullet3": "Zapisz lub udostępnij mistrza turnieju"
     }
   },
   "howItWorks": {

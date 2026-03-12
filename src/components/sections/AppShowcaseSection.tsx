@@ -3,7 +3,7 @@
 import { useTranslations } from "next-intl";
 import { useLocale } from "next-intl";
 import { motion } from "framer-motion";
-import { Zap, Copy, Image, HardDrive, EyeOff } from "lucide-react";
+import { Zap, Copy, Image, HardDrive, Trophy } from "lucide-react";
 import NextImage from "next/image";
 import type { LucideIcon } from "lucide-react";
 
@@ -18,6 +18,15 @@ interface ShowcaseItem {
 }
 
 const showcaseItems: ShowcaseItem[] = [
+  {
+    key: "tournament",
+    icon: Trophy,
+    color: "text-pink",
+    bg: "bg-pink/10",
+    glowClass: "showcase-pink",
+    screenshotKey: null,
+    videoKey: "tournament",
+  },
   {
     key: "smartMaintenance",
     icon: Zap,
@@ -52,15 +61,6 @@ const showcaseItems: ShowcaseItem[] = [
     bg: "bg-accent/10",
     glowClass: "showcase-green",
     screenshotKey: "large-videos",
-    videoKey: null,
-  },
-  {
-    key: "hidePhotos",
-    icon: EyeOff,
-    color: "text-pink",
-    bg: "bg-pink/10",
-    glowClass: "showcase-pink",
-    screenshotKey: null,
     videoKey: null,
   },
 ];

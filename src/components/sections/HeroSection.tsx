@@ -33,6 +33,7 @@ export default function HeroSection() {
   const heroSlots: { type: "video" | "image" | "empty"; src?: string }[] = [
     { type: "video", src: "/videos/swipe-web.mp4" },
     { type: "video", src: "/videos/smilar-web.mp4" },
+    { type: "video", src: "/videos/tournament-web.mp4" },
   ];
 
   return (

@@ -73,12 +73,12 @@
       "bullet2": "Veja o tamanho total dos vídeos de relance",
       "bullet3": "Pré-visualize e liberte espaço instantaneamente"
     },
-    "hidePhotos": {
-      "title": "Esconder Fotos",
-      "description": "Esconda em segurança as suas fotos privadas com proteção Face ID.",
-      "bullet1": "Álbum escondido protegido por Face ID",
-      "bullet2": "Fotos completamente ocultas da galeria",
-      "bullet3": "Acesso rápido e seguro"
+    "tournament": {
+      "title": "Torneio de Fotos",
+      "description": "Não consegue escolher sua melhor foto? Coloque suas fotos para competir — escolha o vencedor em cada rodada.",
+      "bullet1": "Duelos divertidos de fotos frente a frente",
+      "bullet2": "Encontre sua melhor foto por eliminação",
+      "bullet3": "Salve ou compartilhe o campeão do torneio"
     }
   },
   "howItWorks": {

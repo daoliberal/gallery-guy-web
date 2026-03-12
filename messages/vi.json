@@ -73,12 +73,12 @@
       "bullet2": "Xem tổng dung lượng video trong nháy mắt",
       "bullet3": "Giải phóng dung lượng ngay sau khi xem trước"
     },
-    "hidePhotos": {
-      "title": "Ẩn ảnh",
-      "description": "Ẩn ảnh riêng tư một cách an toàn với bảo vệ Face ID.",
-      "bullet1": "Album ẩn được bảo vệ bằng Face ID",
-      "bullet2": "Ảnh được ẩn hoàn toàn khỏi thư viện",
-      "bullet3": "Truy cập nhanh và an toàn"
+    "tournament": {
+      "title": "Giải Đấu Ảnh",
+      "description": "Không thể chọn bức ảnh đẹp nhất? Cho ảnh thi đấu với nhau — chọn người thắng mỗi vòng.",
+      "bullet1": "Trận đấu ảnh đối đầu thú vị",
+      "bullet2": "Tìm bức ảnh đẹp nhất qua vòng loại",
+      "bullet3": "Lưu hoặc chia sẻ nhà vô địch giải đấu"
     }
   },
   "howItWorks": {

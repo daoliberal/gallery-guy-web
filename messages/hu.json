@@ -73,12 +73,12 @@
       "bullet2": "Nézd meg a videók összméretét egyetlen pillantással",
       "bullet3": "Azonnal szabadíts fel helyet az előnézet után"
     },
-    "hidePhotos": {
-      "title": "Fotók elrejtése",
-      "description": "Biztonságosan rejtsd el a privát fotókat Face ID védelemmel.",
-      "bullet1": "Face ID-vel védett rejtett album",
-      "bullet2": "Fotók teljesen elrejtve a galériából",
-      "bullet3": "Gyors és biztonságos hozzáférés"
+    "tournament": {
+      "title": "Fotó Bajnokság",
+      "description": "Nem tudod kiválasztani a legjobb fotódat? Versenyeztesd a fotóidat — válaszd ki a győztest minden körben.",
+      "bullet1": "Szórakoztató fotópárbajok",
+      "bullet2": "Találd meg a legjobb fotódat kieséses rendszerben",
+      "bullet3": "Mentsd el vagy oszd meg a bajnokot"
     }
   },
   "howItWorks": {

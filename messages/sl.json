@@ -73,12 +73,12 @@
       "bullet2": "Oglejte si skupno velikost videov na en pogled",
       "bullet3": "Sprostite prostor takoj po predogledu"
     },
-    "hidePhotos": {
-      "title": "Skrivanje fotografij",
-      "description": "Varno skrijte zasebne fotografije z zaščito Face ID.",
-      "bullet1": "Skriti album zaščiten s Face ID",
-      "bullet2": "Fotografije popolnoma skrite iz galerije",
-      "bullet3": "Hiter in varen dostop"
+    "tournament": {
+      "title": "Foto Turnir",
+      "description": "Ne morete izbrati najboljše fotografije? Pustite fotografije, da tekmujejo — izberite zmagovalca v vsakem krogu.",
+      "bullet1": "Zabavni fotografski dvoboji",
+      "bullet2": "Poiščite najboljšo fotografijo skozi izločanja",
+      "bullet3": "Shranite ali delite turnirskega prvaka"
     }
   },
   "howItWorks": {

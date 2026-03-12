@@ -73,12 +73,12 @@
       "bullet2": "Vezi dimensiunea totală a videoclipurilor dintr-o privire",
       "bullet3": "Eliberează spațiu imediat după previzualizare"
     },
-    "hidePhotos": {
-      "title": "Ascunde fotografii",
-      "description": "Ascunde fotografiile private în siguranță cu protecție Face ID.",
-      "bullet1": "Album ascuns protejat cu Face ID",
-      "bullet2": "Fotografii complet ascunse din galerie",
-      "bullet3": "Acces rapid și securizat"
+    "tournament": {
+      "title": "Turneu Foto",
+      "description": "Nu poți alege cea mai bună fotografie? Pune fotografiile să concureze — alege câștigătorul în fiecare rundă.",
+      "bullet1": "Dueluri foto distractive față în față",
+      "bullet2": "Găsește cea mai bună fotografie prin eliminare",
+      "bullet3": "Salvează sau distribuie campionul turneului"
     }
   },
   "howItWorks": {

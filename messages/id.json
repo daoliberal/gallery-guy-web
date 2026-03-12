@@ -73,12 +73,12 @@
       "bullet2": "Lihat total ukuran video dalam sekejap",
       "bullet3": "Bebaskan ruang langsung setelah pratinjau"
     },
-    "hidePhotos": {
-      "title": "Sembunyikan Foto",
-      "description": "Sembunyikan foto pribadi dengan aman menggunakan perlindungan Face ID.",
-      "bullet1": "Album tersembunyi dilindungi Face ID",
-      "bullet2": "Foto sepenuhnya tersembunyi dari galeri",
-      "bullet3": "Akses cepat dan aman"
+    "tournament": {
+      "title": "Turnamen Foto",
+      "description": "Tidak bisa memilih foto terbaik? Adu foto Anda satu sama lain — pilih pemenang di setiap ronde.",
+      "bullet1": "Duel foto seru satu lawan satu",
+      "bullet2": "Temukan foto terbaik melalui ronde eliminasi",
+      "bullet3": "Simpan atau bagikan juara turnamen"
     }
   },
   "howItWorks": {

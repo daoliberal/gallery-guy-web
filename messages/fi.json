@@ -73,12 +73,12 @@
       "bullet2": "Katso videoiden kokonaiskoko yhdellä silmäyksellä",
       "bullet3": "Vapauta tilaa heti esikatselun jälkeen"
     },
-    "hidePhotos": {
-      "title": "Kuvien piilotus",
-      "description": "Piilota yksityiset kuvat turvallisesti Face ID -suojauksella.",
-      "bullet1": "Face ID -suojattu piilotettu albumi",
-      "bullet2": "Kuvat täysin piilossa galleriasta",
-      "bullet3": "Nopea ja turvallinen pääsy"
+    "tournament": {
+      "title": "Valokuvaturnaus",
+      "description": "Etkö pysty valitsemaan parasta kuvaasi? Anna kuvien kilpailla — valitse voittaja joka kierroksella.",
+      "bullet1": "Hauskoja kuvapareja vastakkain",
+      "bullet2": "Löydä paras kuvasi pudotuspelien kautta",
+      "bullet3": "Tallenna tai jaa turnauksen voittaja"
     }
   },
   "howItWorks": {

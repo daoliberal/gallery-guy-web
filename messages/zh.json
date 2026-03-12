@@ -73,12 +73,12 @@
       "bullet2": "一目了然查看全部视频大小",
       "bullet3": "预览后立即释放空间"
     },
-    "hidePhotos": {
-      "title": "隐藏照片",
-      "description": "使用Face ID保护安全地隐藏私密照片。",
-      "bullet1": "Face ID保护的隐藏相册",
-      "bullet2": "从相册中完全隐藏的照片",
-      "bullet3": "快速安全的访问"
+    "tournament": {
+      "title": "照片锦标赛",
+      "description": "无法选出最佳照片？让照片一对一对决——每轮选出赢家，找到终极冠军。",
+      "bullet1": "有趣的照片一对一对决",
+      "bullet2": "通过淘汰赛找到最佳照片",
+      "bullet3": "保存或分享锦标赛冠军"
     }
   },
   "howItWorks": {

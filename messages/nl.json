@@ -73,12 +73,12 @@
       "bullet2": "Bekijk de totale videogrootte in één oogopslag",
       "bullet3": "Maak ruimte vrij direct na het bekijken"
     },
-    "hidePhotos": {
-      "title": "Foto's verbergen",
-      "description": "Verberg privéfoto's veilig met Face ID-bescherming.",
-      "bullet1": "Verborgen album beschermd met Face ID",
-      "bullet2": "Foto's volledig verborgen uit de galerij",
-      "bullet3": "Snelle en veilige toegang"
+    "tournament": {
+      "title": "Fototoernooi",
+      "description": "Kun je niet kiezen welke foto het beste is? Laat je foto's tegen elkaar strijden — kies elke ronde de winnaar.",
+      "bullet1": "Leuke foto-duels",
+      "bullet2": "Vind je beste foto via eliminatierondes",
+      "bullet3": "Sla je toernooi-kampioen op of deel hem"
     }
   },
   "howItWorks": {

@@ -73,12 +73,12 @@
       "bullet2": "Toplam video boyutunu tek bakışta gör",
       "bullet3": "Önizle ve anında yer aç"
     },
-    "hidePhotos": {
-      "title": "Fotoğraf Gizleme",
-      "description": "Özel fotoğraflarınızı Face ID koruması ile güvenle gizleyin.",
-      "bullet1": "Face ID ile korunan gizli albüm",
-      "bullet2": "Fotoğraflarınız galeriden tamamen gizlenir",
-      "bullet3": "Hızlı ve güvenli erişim"
+    "tournament": {
+      "title": "Fotoğraf Turnuvası",
+      "description": "En iyi fotoğrafınızı seçemiyor musunuz? Fotoğraflarınızı birbiriyle yarıştırın — her turda birini seçin, en sonunda şampiyon fotoğrafınız ortaya çıksın.",
+      "bullet1": "Eğlenceli bire bir fotoğraf eşleşmeleri",
+      "bullet2": "Eleme turlarıyla en iyi karenizi bulun",
+      "bullet3": "Turnuva şampiyonunuzu kaydedin veya paylaşın"
     }
   },
   "howItWorks": {

@@ -73,12 +73,12 @@
       "bullet2": "Podívejte se na celkovou velikost videí jedním pohledem",
       "bullet3": "Uvolněte místo ihned po náhledu"
     },
-    "hidePhotos": {
-      "title": "Skrytí fotek",
-      "description": "Bezpečně skryjte soukromé fotky s ochranou Face ID.",
-      "bullet1": "Skrytý album chráněný Face ID",
-      "bullet2": "Fotky zcela skryté z galerie",
-      "bullet3": "Rychlý a bezpečný přístup"
+    "tournament": {
+      "title": "Foto Turnaj",
+      "description": "Nemůžete vybrat nejlepší fotku? Nechte fotky soutěžit — v každém kole vyberte vítěze.",
+      "bullet1": "Zábavné fotoduely",
+      "bullet2": "Najděte nejlepší fotku vyřazovacím systémem",
+      "bullet3": "Uložte nebo sdílejte vítěze turnaje"
     }
   },
   "howItWorks": {

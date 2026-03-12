@@ -73,12 +73,12 @@
       "bullet2": "Se total videostørrelse med et blikk",
       "bullet3": "Frigjør plass rett etter forhåndsvisning"
     },
-    "hidePhotos": {
-      "title": "Skjul bilder",
-      "description": "Skjul private bilder sikkert med Face ID-beskyttelse.",
-      "bullet1": "Face ID-beskyttet skjult album",
-      "bullet2": "Bilder helt skjult fra galleriet",
-      "bullet3": "Rask og sikker tilgang"
+    "tournament": {
+      "title": "Fototurnering",
+      "description": "Klarer du ikke å velge ditt beste bilde? La bildene konkurrere — velg vinneren i hver runde.",
+      "bullet1": "Morsomme foto-dueller ansikt til ansikt",
+      "bullet2": "Finn ditt beste bilde gjennom eliminasjonsrunder",
+      "bullet3": "Lagre eller del turneringsvinneren"
     }
   },
   "howItWorks": {
