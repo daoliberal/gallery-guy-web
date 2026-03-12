@@ -8,7 +8,7 @@ const content = {
     sections: [
       {
         heading: "Introduction",
-        body: 'Gallery Guy ("we", "our", "the app") is developed by Batur Cihan. This Privacy Policy explains how the app handles your information. Gallery Guy is designed with privacy at its core — all your data stays on your device. We do not collect, transmit, or store any personal information on external servers.',
+        body: 'Gallery Guy ("we", "our", "the app") is developed by Stird LTD. This Privacy Policy explains how the app handles your information. Gallery Guy is designed with privacy at its core — all your data stays on your device. We do not collect, transmit, or store any personal information on external servers.',
       },
       {
         heading: "Information We Do Not Collect",
@@ -85,9 +85,9 @@ The app does not use any third-party analytics, advertising, or crash reporting 
       },
       {
         heading: "Contact",
-        body: `Developer: Batur Cihan
-Email: baturcihan@icloud.com
-Country: Turkey`,
+        body: `Developer: Stird LTD
+Email: batur@stird.co.uk
+Country: United Kingdom`,
       },
     ],
   },
@@ -97,7 +97,7 @@ Country: Turkey`,
     sections: [
       {
         heading: "Giriş",
-        body: 'Gallery Guy ("biz", "bizim", "uygulama") Batur Cihan tarafından geliştirilmiştir. Bu Gizlilik Politikası, uygulamanın bilgilerinizi nasıl işlediğini açıklar. Gallery Guy, gizliliği ön planda tutarak tasarlanmıştır — tüm verileriniz cihazınızda kalır. Harici sunucularda hiçbir kişisel bilgi toplamaz, iletmez veya saklamayız.',
+        body: 'Gallery Guy ("biz", "bizim", "uygulama") Stird LTD tarafından geliştirilmiştir. Bu Gizlilik Politikası, uygulamanın bilgilerinizi nasıl işlediğini açıklar. Gallery Guy, gizliliği ön planda tutarak tasarlanmıştır — tüm verileriniz cihazınızda kalır. Harici sunucularda hiçbir kişisel bilgi toplamaz, iletmez veya saklamayız.',
       },
       {
         heading: "Toplamadığımız Bilgiler",
@@ -174,9 +174,9 @@ Uygulama herhangi bir üçüncü taraf analitik, reklam veya çökme raporlama h
       },
       {
         heading: "İletişim",
-        body: `Geliştirici: Batur Cihan
-E-posta: baturcihan@icloud.com
-Ülke: Türkiye`,
+        body: `Geliştirici: Stird LTD
+E-posta: batur@stird.co.uk
+Ülke: Birleşik Krallık`,
       },
     ],
   },
@@ -186,7 +186,7 @@ E-posta: baturcihan@icloud.com
     sections: [
       {
         heading: "Introducción",
-        body: 'Gallery Guy ("nosotros", "nuestro", "la aplicación") es desarrollada por Batur Cihan. Esta Política de Privacidad explica cómo la aplicación maneja tu información. Gallery Guy está diseñada con la privacidad como prioridad — todos tus datos permanecen en tu dispositivo. No recopilamos, transmitimos ni almacenamos ninguna información personal en servidores externos.',
+        body: 'Gallery Guy ("nosotros", "nuestro", "la aplicación") es desarrollada por Stird LTD. Esta Política de Privacidad explica cómo la aplicación maneja tu información. Gallery Guy está diseñada con la privacidad como prioridad — todos tus datos permanecen en tu dispositivo. No recopilamos, transmitimos ni almacenamos ninguna información personal en servidores externos.',
       },
       {
         heading: "Información que No Recopilamos",
@@ -263,9 +263,9 @@ La aplicación no utiliza ningún servicio de análisis, publicidad o informes d
       },
       {
         heading: "Contacto",
-        body: `Desarrollador: Batur Cihan
-Correo electrónico: baturcihan@icloud.com
-País: Turquía`,
+        body: `Desarrollador: Stird LTD
+Correo electrónico: batur@stird.co.uk
+País: Reino Unido`,
       },
     ],
   },
@@ -275,7 +275,7 @@ País: Turquía`,
     sections: [
       {
         heading: "Introduction",
-        body: "Gallery Guy (« nous », « notre », « l'application ») est développée par Batur Cihan. Cette Politique de Confidentialité explique comment l'application gère vos informations. Gallery Guy est conçue avec la confidentialité comme priorité — toutes vos données restent sur votre appareil. Nous ne collectons, ne transmettons ni ne stockons aucune information personnelle sur des serveurs externes.",
+        body: "Gallery Guy (« nous », « notre », « l'application ») est développée par Stird LTD. Cette Politique de Confidentialité explique comment l'application gère vos informations. Gallery Guy est conçue avec la confidentialité comme priorité — toutes vos données restent sur votre appareil. Nous ne collectons, ne transmettons ni ne stockons aucune information personnelle sur des serveurs externes.",
       },
       {
         heading: "Informations que Nous ne Collectons Pas",
@@ -352,9 +352,9 @@ L'application n'utilise aucun service d'analyse, de publicité ou de rapport d'e
       },
       {
         heading: "Contact",
-        body: `Développeur : Batur Cihan
-E-mail : baturcihan@icloud.com
-Pays : Turquie`,
+        body: `Développeur : Stird LTD
+E-mail : batur@stird.co.uk
+Pays : Royaume-Uni`,
       },
     ],
   },
@@ -364,7 +364,7 @@ Pays : Turquie`,
     sections: [
       {
         heading: "Einleitung",
-        body: 'Gallery Guy ("wir", "unser", "die App") wird von Batur Cihan entwickelt. Diese Datenschutzrichtlinie erklärt, wie die App mit deinen Informationen umgeht. Gallery Guy wurde mit Datenschutz als Kernprinzip entwickelt — alle deine Daten bleiben auf deinem Gerät. Wir erheben, übertragen oder speichern keine persönlichen Informationen auf externen Servern.',
+        body: 'Gallery Guy ("wir", "unser", "die App") wird von Stird LTD entwickelt. Diese Datenschutzrichtlinie erklärt, wie die App mit deinen Informationen umgeht. Gallery Guy wurde mit Datenschutz als Kernprinzip entwickelt — alle deine Daten bleiben auf deinem Gerät. Wir erheben, übertragen oder speichern keine persönlichen Informationen auf externen Servern.',
       },
       {
         heading: "Informationen, die wir nicht erheben",
@@ -441,9 +441,9 @@ Die App verwendet keine Drittanbieter-Analyse-, Werbe- oder Absturzberichtsdiens
       },
       {
         heading: "Kontakt",
-        body: `Entwickler: Batur Cihan
-E-Mail: baturcihan@icloud.com
-Land: Türkei`,
+        body: `Entwickler: Stird LTD
+E-Mail: batur@stird.co.uk
+Land: Vereinigtes Königreich`,
       },
     ],
   },
@@ -453,7 +453,7 @@ Land: Türkei`,
     sections: [
       {
         heading: "소개",
-        body: "Gallery Guy(\"당사\", \"우리의\", \"앱\")는 Batur Cihan이 개발했습니다. 본 개인정보처리방침은 앱이 귀하의 정보를 어떻게 처리하는지 설명합니다. Gallery Guy는 개인정보 보호를 핵심으로 설계되었습니다 — 모든 데이터는 귀하의 기기에 남아 있습니다. 외부 서버에 어떠한 개인 정보도 수집, 전송 또는 저장하지 않습니다.",
+        body: "Gallery Guy(\"당사\", \"우리의\", \"앱\")는 Stird LTD이 개발했습니다. 본 개인정보처리방침은 앱이 귀하의 정보를 어떻게 처리하는지 설명합니다. Gallery Guy는 개인정보 보호를 핵심으로 설계되었습니다 — 모든 데이터는 귀하의 기기에 남아 있습니다. 외부 서버에 어떠한 개인 정보도 수집, 전송 또는 저장하지 않습니다.",
       },
       {
         heading: "수집하지 않는 정보",
@@ -530,9 +530,9 @@ Land: Türkei`,
       },
       {
         heading: "연락처",
-        body: `개발자: Batur Cihan
-이메일: baturcihan@icloud.com
-국가: 터키`,
+        body: `개발자: Stird LTD
+이메일: batur@stird.co.uk
+국가: 영국`,
       },
     ],
   },
@@ -542,7 +542,7 @@ Land: Türkei`,
     sections: [
       {
         heading: "Введение",
-        body: "Gallery Guy («мы», «наше», «приложение») разработан Batur Cihan. Настоящая Политика конфиденциальности объясняет, как приложение обрабатывает вашу информацию. Gallery Guy разработан с конфиденциальностью как основным принципом — все ваши данные остаются на вашем устройстве. Мы не собираем, не передаём и не храним личную информацию на внешних серверах.",
+        body: "Gallery Guy («мы», «наше», «приложение») разработан Stird LTD. Настоящая Политика конфиденциальности объясняет, как приложение обрабатывает вашу информацию. Gallery Guy разработан с конфиденциальностью как основным принципом — все ваши данные остаются на вашем устройстве. Мы не собираем, не передаём и не храним личную информацию на внешних серверах.",
       },
       {
         heading: "Информация, которую мы не собираем",
@@ -619,9 +619,9 @@ Land: Türkei`,
       },
       {
         heading: "Контакты",
-        body: `Разработчик: Batur Cihan
-Email: baturcihan@icloud.com
-Страна: Турция`,
+        body: `Разработчик: Stird LTD
+Email: batur@stird.co.uk
+Страна: Великобритания`,
       },
     ],
   },
@@ -631,7 +631,7 @@ Email: baturcihan@icloud.com
     sections: [
       {
         heading: "Introdução",
-        body: 'O Gallery Guy ("nós", "nosso", "a app") é desenvolvido por Batur Cihan. Esta Política de Privacidade explica como a app trata as suas informações. O Gallery Guy foi concebido com a privacidade como prioridade — todos os seus dados ficam no seu dispositivo. Não recolhemos, transmitimos nem armazenamos qualquer informação pessoal em servidores externos.',
+        body: 'O Gallery Guy ("nós", "nosso", "a app") é desenvolvido por Stird LTD. Esta Política de Privacidade explica como a app trata as suas informações. O Gallery Guy foi concebido com a privacidade como prioridade — todos os seus dados ficam no seu dispositivo. Não recolhemos, transmitimos nem armazenamos qualquer informação pessoal em servidores externos.',
       },
       {
         heading: "Informações que Não Recolhemos",
@@ -708,9 +708,9 @@ A app não utiliza quaisquer serviços de análise, publicidade ou relatórios d
       },
       {
         heading: "Contacto",
-        body: `Programador: Batur Cihan
-Email: baturcihan@icloud.com
-País: Turquia`,
+        body: `Programador: Stird LTD
+Email: batur@stird.co.uk
+País: Reino Unido`,
       },
     ],
   },
@@ -720,7 +720,7 @@ País: Turquia`,
     sections: [
       {
         heading: "Introduzione",
-        body: 'Gallery Guy ("noi", "nostro", "l\'app") è sviluppata da Batur Cihan. Questa Informativa sulla Privacy spiega come l\'app gestisce le tue informazioni. Gallery Guy è progettata con la privacy come priorità — tutti i tuoi dati restano sul tuo dispositivo. Non raccogliamo, trasmettiamo né memorizziamo alcuna informazione personale su server esterni.',
+        body: 'Gallery Guy ("noi", "nostro", "l\'app") è sviluppata da Stird LTD. Questa Informativa sulla Privacy spiega come l\'app gestisce le tue informazioni. Gallery Guy è progettata con la privacy come priorità — tutti i tuoi dati restano sul tuo dispositivo. Non raccogliamo, trasmettiamo né memorizziamo alcuna informazione personale su server esterni.',
       },
       {
         heading: "Informazioni che Non Raccogliamo",
@@ -797,9 +797,9 @@ L'app non utilizza alcun servizio di analisi, pubblicità o report di crash di t
       },
       {
         heading: "Contatto",
-        body: `Sviluppatore: Batur Cihan
-Email: baturcihan@icloud.com
-Paese: Turchia`,
+        body: `Sviluppatore: Stird LTD
+Email: batur@stird.co.uk
+Paese: Regno Unito`,
       },
     ],
   },
@@ -809,7 +809,7 @@ Paese: Turchia`,
     sections: [
       {
         heading: "简介",
-        body: `Gallery Guy（\u201c我们\u201d、\u201c我们的\u201d、\u201c应用\u201d）由Batur Cihan开发。本隐私政策说明应用如何处理您的信息。Gallery Guy的设计以隐私为核心 — 您的所有数据都保留在您的设备上。我们不会在外部服务器上收集、传输或存储任何个人信息。`,
+        body: `Gallery Guy（\u201c我们\u201d、\u201c我们的\u201d、\u201c应用\u201d）由Stird LTD开发。本隐私政策说明应用如何处理您的信息。Gallery Guy的设计以隐私为核心 — 您的所有数据都保留在您的设备上。我们不会在外部服务器上收集、传输或存储任何个人信息。`,
       },
       {
         heading: "我们不收集的信息",
@@ -886,9 +886,9 @@ Paese: Turchia`,
       },
       {
         heading: "联系方式",
-        body: `开发者：Batur Cihan
-电子邮件：baturcihan@icloud.com
-国家：土耳其`,
+        body: `开发者：Stird LTD
+电子邮件：batur@stird.co.uk
+国家：英国`,
       },
     ],
   },
@@ -898,7 +898,7 @@ Paese: Turchia`,
     sections: [
       {
         heading: "परिचय",
-        body: "Gallery Guy (\"हम\", \"हमारा\", \"ऐप\") Batur Cihan द्वारा विकसित किया गया है। यह गोपनीयता नीति बताती है कि ऐप आपकी जानकारी को कैसे संभालता है। Gallery Guy को प्राइवेसी को प्राथमिकता देकर डिज़ाइन किया गया है — आपका सारा डेटा आपके डिवाइस पर रहता है। हम बाहरी सर्वर पर कोई व्यक्तिगत जानकारी एकत्र, प्रसारित या संग्रहीत नहीं करते।",
+        body: "Gallery Guy (\"हम\", \"हमारा\", \"ऐप\") Stird LTD द्वारा विकसित किया गया है। यह गोपनीयता नीति बताती है कि ऐप आपकी जानकारी को कैसे संभालता है। Gallery Guy को प्राइवेसी को प्राथमिकता देकर डिज़ाइन किया गया है — आपका सारा डेटा आपके डिवाइस पर रहता है। हम बाहरी सर्वर पर कोई व्यक्तिगत जानकारी एकत्र, प्रसारित या संग्रहीत नहीं करते।",
       },
       {
         heading: "जो जानकारी हम एकत्र नहीं करते",
@@ -975,9 +975,9 @@ Paese: Turchia`,
       },
       {
         heading: "संपर्क",
-        body: `डेवलपर: Batur Cihan
-ईमेल: baturcihan@icloud.com
-देश: तुर्की`,
+        body: `डेवलपर: Stird LTD
+ईमेल: batur@stird.co.uk
+देश: यूनाइटेड किंगडम`,
       },
     ],
   },
@@ -987,7 +987,7 @@ Paese: Turchia`,
     sections: [
       {
         heading: "はじめに",
-        body: "Gallery Guy（「当社」「私たちの」「アプリ」）はBatur Cihanが開発しました。このプライバシーポリシーは、アプリがお客様の情報をどのように扱うかを説明します。Gallery Guyはプライバシーを核として設計されています — すべてのデータはお客様のデバイスに残ります。外部サーバーに個人情報を収集、送信、保存することはありません。",
+        body: "Gallery Guy（「当社」「私たちの」「アプリ」）はStird LTDが開発しました。このプライバシーポリシーは、アプリがお客様の情報をどのように扱うかを説明します。Gallery Guyはプライバシーを核として設計されています — すべてのデータはお客様のデバイスに残ります。外部サーバーに個人情報を収集、送信、保存することはありません。",
       },
       {
         heading: "収集しない情報",
@@ -1064,9 +1064,9 @@ Paese: Turchia`,
       },
       {
         heading: "お問い合わせ",
-        body: `開発者：Batur Cihan
-メール：baturcihan@icloud.com
-国：トルコ`,
+        body: `開発者：Stird LTD
+メール：batur@stird.co.uk
+国：イギリス`,
       },
     ],
   },
@@ -1076,7 +1076,7 @@ Paese: Turchia`,
     sections: [
       {
         heading: "Introduktion",
-        body: "Gallery Guy (\u201cvi\u201d, \u201cvår\u201d, \u201cappen\u201d) är utvecklad av Batur Cihan. Denna integritetspolicy förklarar hur appen hanterar din information. Gallery Guy är designad med integritet i fokus — all din data stannar på din enhet. Vi samlar inte in, överför eller lagrar någon personlig information på externa servrar.",
+        body: "Gallery Guy (\u201cvi\u201d, \u201cvår\u201d, \u201cappen\u201d) är utvecklad av Stird LTD. Denna integritetspolicy förklarar hur appen hanterar din information. Gallery Guy är designad med integritet i fokus — all din data stannar på din enhet. Vi samlar inte in, överför eller lagrar någon personlig information på externa servrar.",
       },
       {
         heading: "Information vi inte samlar in",
@@ -1131,7 +1131,7 @@ Appen använder inga tredjeparts-analys-, reklam- eller kraschrapporteringstjän
       },
       {
         heading: "Kontakt",
-        body: "För frågor om denna integritetspolicy, kontakta oss på: baturcihan@icloud.com",
+        body: "För frågor om denna integritetspolicy, kontakta oss på: batur@stird.co.uk",
       },
     ],
   },
@@ -1141,7 +1141,7 @@ Appen använder inga tredjeparts-analys-, reklam- eller kraschrapporteringstjän
     sections: [
       {
         heading: "Introduksjon",
-        body: "Gallery Guy (\u201cvi\u201d, \u201cv\u00e5r\u201d, \u201cappen\u201d) er utviklet av Batur Cihan. Denne personvernpolicyen forklarer hvordan appen h\u00e5ndterer informasjonen din. Gallery Guy er designet med personvern i fokus \u2014 all din data forblir p\u00e5 enheten din. Vi samler ikke inn, overf\u00f8rer eller lagrer noen personlig informasjon p\u00e5 eksterne servere.",
+        body: "Gallery Guy (\u201cvi\u201d, \u201cv\u00e5r\u201d, \u201cappen\u201d) er utviklet av Stird LTD. Denne personvernpolicyen forklarer hvordan appen h\u00e5ndterer informasjonen din. Gallery Guy er designet med personvern i fokus \u2014 all din data forblir p\u00e5 enheten din. Vi samler ikke inn, overf\u00f8rer eller lagrer noen personlig informasjon p\u00e5 eksterne servere.",
       },
       {
         heading: "Informasjon vi ikke samler inn",
@@ -1196,7 +1196,7 @@ Appen bruker ingen tredjeparts analyse-, reklame- eller krasjrapporteringstjenes
       },
       {
         heading: "Kontakt",
-        body: "For spørsmål om denne personvernpolicyen, kontakt oss på: baturcihan@icloud.com",
+        body: "For spørsmål om denne personvernpolicyen, kontakt oss på: batur@stird.co.uk",
       },
     ],
   },
@@ -1206,7 +1206,7 @@ Appen bruker ingen tredjeparts analyse-, reklame- eller krasjrapporteringstjenes
     sections: [
       {
         heading: "Inleiding",
-        body: "Gallery Guy (\u201cwij\u201d, \u201cons\u201d, \u201cde app\u201d) is ontwikkeld door Batur Cihan. Dit privacybeleid legt uit hoe de app omgaat met je informatie. Gallery Guy is ontworpen met privacy als kern \u2014 al je gegevens blijven op je apparaat. Wij verzamelen, verzenden of bewaren geen persoonlijke informatie op externe servers.",
+        body: "Gallery Guy (\u201cwij\u201d, \u201cons\u201d, \u201cde app\u201d) is ontwikkeld door Stird LTD. Dit privacybeleid legt uit hoe de app omgaat met je informatie. Gallery Guy is ontworpen met privacy als kern \u2014 al je gegevens blijven op je apparaat. Wij verzamelen, verzenden of bewaren geen persoonlijke informatie op externe servers.",
       },
       {
         heading: "Informatie die wij niet verzamelen",
@@ -1261,7 +1261,7 @@ De app gebruikt geen analyse-, advertentie- of crashrapportagediensten van derde
       },
       {
         heading: "Contact",
-        body: "Voor vragen over dit privacybeleid, neem contact met ons op via: baturcihan@icloud.com",
+        body: "Voor vragen over dit privacybeleid, neem contact met ons op via: batur@stird.co.uk",
       },
     ],
   },
@@ -1271,7 +1271,7 @@ De app gebruikt geen analyse-, advertentie- of crashrapportagediensten van derde
     sections: [
       {
         heading: "Introducere",
-        body: "Gallery Guy (\u201cnoi\u201d, \u201cal nostru\u201d, \u201caplica\u021bia\u201d) este dezvoltată de Batur Cihan. Această politică de confidențialitate explică modul în care aplicația gestionează informațiile tale. Gallery Guy este concepută cu confidențialitatea ca prioritate \u2014 toate datele tale rămân pe dispozitivul tău. Nu colectăm, transmitem sau stocăm nicio informație personală pe servere externe.",
+        body: "Gallery Guy (\u201cnoi\u201d, \u201cal nostru\u201d, \u201caplica\u021bia\u201d) este dezvoltată de Stird LTD. Această politică de confidențialitate explică modul în care aplicația gestionează informațiile tale. Gallery Guy este concepută cu confidențialitatea ca prioritate \u2014 toate datele tale rămân pe dispozitivul tău. Nu colectăm, transmitem sau stocăm nicio informație personală pe servere externe.",
       },
       {
         heading: "Informații pe care nu le colectăm",
@@ -1326,7 +1326,7 @@ Aplicația nu utilizează niciun serviciu de analiză, publicitate sau raportare
       },
       {
         heading: "Contact",
-        body: "Pentru întrebări despre această politică de confidențialitate, contactează-ne la: baturcihan@icloud.com",
+        body: "Pentru întrebări despre această politică de confidențialitate, contactează-ne la: batur@stird.co.uk",
       },
     ],
   },
@@ -1336,7 +1336,7 @@ Aplicația nu utilizează niciun serviciu de analiză, publicitate sau raportare
     sections: [
       {
         heading: "Εισαγωγή",
-        body: "Ο Gallery Guy (\u201cεμείς\u201d, \u201cμας\u201d, \u201cη εφαρμογή\u201d) αναπτύσσεται από τον Batur Cihan. Αυτή η πολιτική απορρήτου εξηγεί πώς η εφαρμογή χειρίζεται τις πληροφορίες σου. Ο Gallery Guy είναι σχεδιασμένος με το απόρρητο ως προτεραιότητα \u2014 όλα τα δεδομένα σου παραμένουν στη συσκευή σου. Δεν συλλέγουμε, μεταδίδουμε ή αποθηκεύουμε προσωπικές πληροφορίες σε εξωτερικούς διακομιστές.",
+        body: "Ο Gallery Guy (\u201cεμείς\u201d, \u201cμας\u201d, \u201cη εφαρμογή\u201d) αναπτύσσεται από τον Stird LTD. Αυτή η πολιτική απορρήτου εξηγεί πώς η εφαρμογή χειρίζεται τις πληροφορίες σου. Ο Gallery Guy είναι σχεδιασμένος με το απόρρητο ως προτεραιότητα \u2014 όλα τα δεδομένα σου παραμένουν στη συσκευή σου. Δεν συλλέγουμε, μεταδίδουμε ή αποθηκεύουμε προσωπικές πληροφορίες σε εξωτερικούς διακομιστές.",
       },
       {
         heading: "Πληροφορίες που δεν συλλέγουμε",
@@ -1391,7 +1391,7 @@ Aplicația nu utilizează niciun serviciu de analiză, publicitate sau raportare
       },
       {
         heading: "Επικοινωνία",
-        body: "Για ερωτήσεις σχετικά με αυτήν την πολιτική απορρήτου, επικοινώνησε μαζί μας στο: baturcihan@icloud.com",
+        body: "Για ερωτήσεις σχετικά με αυτήν την πολιτική απορρήτου, επικοινώνησε μαζί μας στο: batur@stird.co.uk",
       },
     ],
   },
@@ -1401,7 +1401,7 @@ Aplicația nu utilizează niciun serviciu de analiză, publicitate sau raportare
     sections: [
       {
         heading: "Introduktion",
-        body: "Gallery Guy (\u201cvi\u201d, \u201cvores\u201d, \u201cappen\u201d) er udviklet af Batur Cihan. Denne privatlivspolitik forklarer hvordan appen håndterer dine oplysninger. Gallery Guy er designet med privatliv i fokus \u2014 alle dine data forbliver på din enhed. Vi indsamler, overfører eller opbevarer ingen personlige oplysninger på eksterne servere.",
+        body: "Gallery Guy (\u201cvi\u201d, \u201cvores\u201d, \u201cappen\u201d) er udviklet af Stird LTD. Denne privatlivspolitik forklarer hvordan appen håndterer dine oplysninger. Gallery Guy er designet med privatliv i fokus \u2014 alle dine data forbliver på din enhed. Vi indsamler, overfører eller opbevarer ingen personlige oplysninger på eksterne servere.",
       },
       {
         heading: "Oplysninger vi ikke indsamler",
@@ -1456,7 +1456,7 @@ Appen bruger ingen tredjeparts analyse-, reklame- eller crashrapporteringstjenes
       },
       {
         heading: "Kontakt",
-        body: "For spørgsmål om denne privatlivspolitik, kontakt os på: baturcihan@icloud.com",
+        body: "For spørgsmål om denne privatlivspolitik, kontakt os på: batur@stird.co.uk",
       },
     ],
   },
@@ -1466,7 +1466,7 @@ Appen bruger ingen tredjeparts analyse-, reklame- eller crashrapporteringstjenes
     sections: [
       {
         heading: "Въведение",
-        body: "Gallery Guy (\u201cние\u201d, \u201cнашето\u201d, \u201cприложението\u201d) е разработено от Batur Cihan. Тази политика за поверителност обяснява как приложението обработва информацията ти. Gallery Guy е проектирано с поверителността като приоритет \u2014 всички твои данни остават на устройството ти. Не събираме, предаваме или съхраняваме лична информация на външни сървъри.",
+        body: "Gallery Guy (\u201cние\u201d, \u201cнашето\u201d, \u201cприложението\u201d) е разработено от Stird LTD. Тази политика за поверителност обяснява как приложението обработва информацията ти. Gallery Guy е проектирано с поверителността като приоритет \u2014 всички твои данни остават на устройството ти. Не събираме, предаваме или съхраняваме лична информация на външни сървъри.",
       },
       {
         heading: "Информация, която не събираме",
@@ -1521,7 +1521,7 @@ Appen bruger ingen tredjeparts analyse-, reklame- eller crashrapporteringstjenes
       },
       {
         heading: "Контакт",
-        body: "За въпроси относно тази политика за поверителност, свържи се с нас на: baturcihan@icloud.com",
+        body: "За въпроси относно тази политика за поверителност, свържи се с нас на: batur@stird.co.uk",
       },
     ],
   },
@@ -1531,7 +1531,7 @@ Appen bruger ingen tredjeparts analyse-, reklame- eller crashrapporteringstjenes
     sections: [
       {
         heading: "Úvod",
-        body: "Gallery Guy (\u201cmy\u201d, \u201cnáš\u201d, \u201caplikace\u201d) je vyvinut Batur Cihanem. Tyto zásady ochrany osobních údajů vysvětlují, jak aplikace nakládá s vašimi informacemi. Gallery Guy je navržen s ochranou soukromí jako prioritou \u2014 všechna vaše data zůstávají na vašem zařízení. Neshromažďujeme, nepřenášíme ani neukládáme žádné osobní informace na externích serverech.",
+        body: "Gallery Guy (\u201cmy\u201d, \u201cnáš\u201d, \u201caplikace\u201d) je vyvinut Stird LTDem. Tyto zásady ochrany osobních údajů vysvětlují, jak aplikace nakládá s vašimi informacemi. Gallery Guy je navržen s ochranou soukromí jako prioritou \u2014 všechna vaše data zůstávají na vašem zařízení. Neshromažďujeme, nepřenášíme ani neukládáme žádné osobní informace na externích serverech.",
       },
       {
         heading: "Informace, které neshromažďujeme",
@@ -1586,7 +1586,7 @@ Aplikace nepoužívá žádné analytické, reklamní ani crash reportovací slu
       },
       {
         heading: "Kontakt",
-        body: "V případě dotazů ohledně těchto zásad ochrany osobních údajů nás kontaktujte na: baturcihan@icloud.com",
+        body: "V případě dotazů ohledně těchto zásad ochrany osobních údajů nás kontaktujte na: batur@stird.co.uk",
       },
     ],
   },
@@ -1596,7 +1596,7 @@ Aplikace nepoužívá žádné analytické, reklamní ani crash reportovací slu
     sections: [
       {
         heading: "Giriş",
-        body: "Gallery Guy (\u201cbiz\u201d, \u201cbizim\u201d, \u201ct\u0259tbiq\u201d) Batur Cihan t\u0259r\u0259find\u0259n haz\u0131rlan\u0131b. Bu m\u0259xfilik siyas\u0259ti t\u0259tbiqin m\u0259lumatlar\u0131n\u0131z\u0131 nec\u0259 idar\u0259 etdiyini izah edir. Gallery Guy m\u0259xfilik prioritet olaraq dizayn edilib \u2014 b\u00fct\u00fcn m\u0259lumatlar\u0131n\u0131z cihaz\u0131n\u0131zda qal\u0131r. Xarici serverl\u0259rd\u0259 he\u00e7 bir \u015f\u0259xsi m\u0259lumat toplamır, \u00f6t\u00fcrmür v\u0259 ya saxlam\u0131r\u0131q.",
+        body: "Gallery Guy (\u201cbiz\u201d, \u201cbizim\u201d, \u201ct\u0259tbiq\u201d) Stird LTD t\u0259r\u0259find\u0259n haz\u0131rlan\u0131b. Bu m\u0259xfilik siyas\u0259ti t\u0259tbiqin m\u0259lumatlar\u0131n\u0131z\u0131 nec\u0259 idar\u0259 etdiyini izah edir. Gallery Guy m\u0259xfilik prioritet olaraq dizayn edilib \u2014 b\u00fct\u00fcn m\u0259lumatlar\u0131n\u0131z cihaz\u0131n\u0131zda qal\u0131r. Xarici serverl\u0259rd\u0259 he\u00e7 bir \u015f\u0259xsi m\u0259lumat toplamır, \u00f6t\u00fcrmür v\u0259 ya saxlam\u0131r\u0131q.",
       },
       {
         heading: "Toplamadığımız məlumatlar",
@@ -1651,7 +1651,7 @@ Tətbiq heç bir üçüncü tərəf analitika, reklam və ya qəza hesabatı xid
       },
       {
         heading: "Əlaqə",
-        body: "Bu məxfilik siyasəti ilə bağlı suallarınız üçün bizimlə əlaqə saxlayın: baturcihan@icloud.com",
+        body: "Bu məxfilik siyasəti ilə bağlı suallarınız üçün bizimlə əlaqə saxlayın: batur@stird.co.uk",
       },
     ],
   },
@@ -1661,7 +1661,7 @@ Tətbiq heç bir üçüncü tərəf analitika, reklam və ya qəza hesabatı xid
     sections: [
       {
         heading: "Вовед",
-        body: `Gallery Guy (\u201cние\u201d, \u201cнаша\u201d, \u201cапликацијата\u201d) е развиена од Batur Cihan. Оваа Политика за приватност објаснува како апликацијата ги обработува вашите информации. Gallery Guy е дизајниран со приватност како основа \u2014 сите ваши податоци остануваат на вашиот уред. Не собираме, пренесуваме или складираме лични информации на надворешни сервери.`,
+        body: `Gallery Guy (\u201cние\u201d, \u201cнаша\u201d, \u201cапликацијата\u201d) е развиена од Stird LTD. Оваа Политика за приватност објаснува како апликацијата ги обработува вашите информации. Gallery Guy е дизајниран со приватност како основа \u2014 сите ваши податоци остануваат на вашиот уред. Не собираме, пренесуваме или складираме лични информации на надворешни сервери.`,
       },
       {
         heading: "Информации кои не ги собираме",
@@ -1729,7 +1729,7 @@ Tətbiq heç bir üçüncü tərəf analitika, reklam və ya qəza hesabatı xid
     sections: [
       {
         heading: "Uvod",
-        body: `Gallery Guy (\u201Emi\u201D, \u201Cnaša\u201D, \u201Caplikacija\u201D) je razvil Batur Cihan. Ta Politika zasebnosti pojasnjuje, kako aplikacija obravnava vaše podatke. Gallery Guy je zasnovan z zasebnostjo kot jedrom \u2014 vsi vaši podatki ostanejo na vaši napravi. Ne zbiramo, prenašamo ali shranjujemo nobenih osebnih podatkov na zunanjih strežnikih.`,
+        body: `Gallery Guy (\u201Emi\u201D, \u201Cnaša\u201D, \u201Caplikacija\u201D) je razvil Stird LTD. Ta Politika zasebnosti pojasnjuje, kako aplikacija obravnava vaše podatke. Gallery Guy je zasnovan z zasebnostjo kot jedrom \u2014 vsi vaši podatki ostanejo na vaši napravi. Ne zbiramo, prenašamo ali shranjujemo nobenih osebnih podatkov na zunanjih strežnikih.`,
       },
       {
         heading: "Podatki, ki jih ne zbiramo",
@@ -1797,7 +1797,7 @@ Aplikacija ne uporablja nobenih storitev za analitiko, oglaševanje ali poročan
     sections: [
       {
         heading: "Wstęp",
-        body: `Gallery Guy (\u201Emy\u201D, \u201Cnasz\u201D, \u201Caplikacja\u201D) został opracowany przez Batur Cihan. Niniejsza Polityka prywatności wyjaśnia, jak aplikacja obsługuje Twoje dane. Gallery Guy został zaprojektowany z myślą o prywatności \u2014 wszystkie Twoje dane pozostają na Twoim urządzeniu. Nie zbieramy, nie przesyłamy ani nie przechowujemy żadnych danych osobowych na zewnętrznych serwerach.`,
+        body: `Gallery Guy (\u201Emy\u201D, \u201Cnasz\u201D, \u201Caplikacja\u201D) został opracowany przez Stird LTD. Niniejsza Polityka prywatności wyjaśnia, jak aplikacja obsługuje Twoje dane. Gallery Guy został zaprojektowany z myślą o prywatności \u2014 wszystkie Twoje dane pozostają na Twoim urządzeniu. Nie zbieramy, nie przesyłamy ani nie przechowujemy żadnych danych osobowych na zewnętrznych serwerach.`,
       },
       {
         heading: "Informacje, których nie zbieramy",
@@ -1865,7 +1865,7 @@ Aplikacja nie korzysta z żadnych usług analitycznych, reklamowych ani raportow
     sections: [
       {
         heading: "Вступ",
-        body: `Gallery Guy (\u201Cми\u201D, \u201Cнаш\u201D, \u201Cдодаток\u201D) розроблений Batur Cihan. Ця Політика конфіденційності пояснює, як додаток обробляє вашу інформацію. Gallery Guy створений із конфіденційністю як основою \u2014 усі ваші дані залишаються на вашому пристрої. Ми не збираємо, не передаємо та не зберігаємо жодних особистих даних на зовнішніх серверах.`,
+        body: `Gallery Guy (\u201Cми\u201D, \u201Cнаш\u201D, \u201Cдодаток\u201D) розроблений Stird LTD. Ця Політика конфіденційності пояснює, як додаток обробляє вашу інформацію. Gallery Guy створений із конфіденційністю як основою \u2014 усі ваші дані залишаються на вашому пристрої. Ми не збираємо, не передаємо та не зберігаємо жодних особистих даних на зовнішніх серверах.`,
       },
       {
         heading: "Інформація, яку ми не збираємо",
@@ -1933,7 +1933,7 @@ Aplikacja nie korzysta z żadnych usług analitycznych, reklamowych ani raportow
     sections: [
       {
         heading: "Johdanto",
-        body: `Gallery Guy (\u201Cme\u201D, \u201Cmeidän\u201D, \u201Csovellus\u201D) on Batur Cihanin kehittämä. Tämä Tietosuojakäytäntö selittää, miten sovellus käsittelee tietojasi. Gallery Guy on suunniteltu yksityisyys ytimessään \u2014 kaikki tietosi pysyvät laitteellasi. Emme kerää, lähetä tai tallenna mitään henkilökohtaisia tietoja ulkoisille palvelimille.`,
+        body: `Gallery Guy (\u201Cme\u201D, \u201Cmeidän\u201D, \u201Csovellus\u201D) on Stird LTDin kehittämä. Tämä Tietosuojakäytäntö selittää, miten sovellus käsittelee tietojasi. Gallery Guy on suunniteltu yksityisyys ytimessään \u2014 kaikki tietosi pysyvät laitteellasi. Emme kerää, lähetä tai tallenna mitään henkilökohtaisia tietoja ulkoisille palvelimille.`,
       },
       {
         heading: "Tiedot joita emme kerää",
@@ -2001,7 +2001,7 @@ Sovellus ei käytä mitään kolmannen osapuolen analytiikka-, mainonta- tai kaa
     sections: [
       {
         heading: "Bevezetés",
-        body: `A Gallery Guy (\u201Emi\u201D, \u201Ca miénk\u201D, \u201Caz alkalmazás\u201D) fejlesztője Batur Cihan. Ez az Adatvédelmi irányelv elmagyarázza, hogyan kezeli az alkalmazás az adataidat. A Gallery Guy az adatvédelmet szem előtt tartva készült \u2014 minden adatod az eszközödön marad. Nem gyűjtünk, nem továbbítunk és nem tárolunk semmilyen személyes adatot külső szervereken.`,
+        body: `A Gallery Guy (\u201Emi\u201D, \u201Ca miénk\u201D, \u201Caz alkalmazás\u201D) fejlesztője Stird LTD. Ez az Adatvédelmi irányelv elmagyarázza, hogyan kezeli az alkalmazás az adataidat. A Gallery Guy az adatvédelmet szem előtt tartva készült \u2014 minden adatod az eszközödön marad. Nem gyűjtünk, nem továbbítunk és nem tárolunk semmilyen személyes adatot külső szervereken.`,
       },
       {
         heading: "Információk, amelyeket nem gyűjtünk",
@@ -2279,7 +2279,7 @@ Az alkalmazás nem használ semmilyen harmadik fél analitikai, hirdetési vagy 
     sections: [
       {
         heading: "مقدمة",
-        body: "Gallery Guy (\"نحن\"، \"لدينا\"، \"التطبيق\") تم تطويره بواسطة Batur Cihan. توضح سياسة الخصوصية هذه كيف يتعامل التطبيق مع معلوماتك. تم تصميم Gallery Guy مع الخصوصية كأولوية — جميع بياناتك تبقى على جهازك. لا نجمع أو ننقل أو نخزن أي معلومات شخصية على خوادم خارجية.",
+        body: "Gallery Guy (\"نحن\"، \"لدينا\"، \"التطبيق\") تم تطويره بواسطة Stird LTD. توضح سياسة الخصوصية هذه كيف يتعامل التطبيق مع معلوماتك. تم تصميم Gallery Guy مع الخصوصية كأولوية — جميع بياناتك تبقى على جهازك. لا نجمع أو ننقل أو نخزن أي معلومات شخصية على خوادم خارجية.",
       },
       {
         heading: "معلومات لا نجمعها",
@@ -2356,9 +2356,9 @@ Az alkalmazás nem használ semmilyen harmadik fél analitikai, hirdetési vagy 
       },
       {
         heading: "التواصل",
-        body: `المطور: Batur Cihan
-البريد الإلكتروني: baturcihan@icloud.com
-البلد: تركيا`,
+        body: `المطور: Stird LTD
+البريد الإلكتروني: batur@stird.co.uk
+البلد: المملكة المتحدة`,
       },
     ],
   },
@@ -2398,7 +2398,7 @@ export default async function PrivacyPage({
             </div>
 
             <div className="mt-12 border-t border-border pt-6 text-center text-xs text-muted">
-              Gallery Guy &copy; 2025 Batur Cihan
+              Gallery Guy &copy; 2025 Stird LTD
             </div>
           </div>
         </div>

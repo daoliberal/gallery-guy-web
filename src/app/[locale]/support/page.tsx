@@ -32,7 +32,7 @@ const content = {
       },
       {
         q: "The app is crashing or not opening — what should I do?",
-        a: "First, force-quit the app and reopen it. If the issue persists, restart your device. Make sure you are running the latest version of Gallery Guy from the App Store. If it still crashes, contact us at baturcihan@icloud.com with your device model and iOS version.",
+        a: "First, force-quit the app and reopen it. If the issue persists, restart your device. Make sure you are running the latest version of Gallery Guy from the App Store. If it still crashes, contact us at batur@stird.co.uk with your device model and iOS version.",
       },
       {
         q: "What happens if I delete a photo by mistake?",
@@ -44,12 +44,12 @@ const content = {
       },
       {
         q: "How do I contact support?",
-        a: "Email us at baturcihan@icloud.com and we will get back to you as soon as possible. Please include your device model, iOS version, and a description of the issue.",
+        a: "Email us at batur@stird.co.uk and we will get back to you as soon as possible. Please include your device model, iOS version, and a description of the issue.",
       },
     ],
     contactTitle: "Still need help?",
     contactBody: "Email us at",
-    contactEmail: "baturcihan@icloud.com",
+    contactEmail: "batur@stird.co.uk",
   },
   tr: {
     title: "Destek",
@@ -81,7 +81,7 @@ const content = {
       },
       {
         q: "Uygulama çöküyor veya açılmıyor — ne yapmalıyım?",
-        a: "Önce uygulamayı zorla kapatın ve yeniden açın. Sorun devam ederse cihazınızı yeniden başlatın. App Store'dan Gallery Guy'ın en güncel sürümünü kullandığınızdan emin olun. Sorun çözülmezse cihaz modelinizi ve iOS sürümünüzü belirterek baturcihan@icloud.com adresine yazın.",
+        a: "Önce uygulamayı zorla kapatın ve yeniden açın. Sorun devam ederse cihazınızı yeniden başlatın. App Store'dan Gallery Guy'ın en güncel sürümünü kullandığınızdan emin olun. Sorun çözülmezse cihaz modelinizi ve iOS sürümünüzü belirterek batur@stird.co.uk adresine yazın.",
       },
       {
         q: "Yanlışlıkla bir fotoğrafı sildim — ne yapmalıyım?",
@@ -93,12 +93,12 @@ const content = {
       },
       {
         q: "Destek ekibiyle nasıl iletişime geçebilirim?",
-        a: "baturcihan@icloud.com adresine e-posta gönderin, en kısa sürede dönüş yaparız. Lütfen cihaz modelinizi, iOS sürümünüzü ve sorununuzun açıklamasını belirtin.",
+        a: "batur@stird.co.uk adresine e-posta gönderin, en kısa sürede dönüş yaparız. Lütfen cihaz modelinizi, iOS sürümünüzü ve sorununuzun açıklamasını belirtin.",
       },
     ],
     contactTitle: "Hâlâ yardıma mı ihtiyacınız var?",
     contactBody: "Bize ulaşın:",
-    contactEmail: "baturcihan@icloud.com",
+    contactEmail: "batur@stird.co.uk",
   },
 };
 
@@ -151,7 +151,7 @@ export default async function SupportPage({
             </div>
 
             <div className="mt-12 border-t border-border pt-6 text-center text-xs text-muted">
-              Gallery Guy © 2026 Batur Cihan
+              Gallery Guy © 2026 Stird LTD
             </div>
           </div>
         </div>

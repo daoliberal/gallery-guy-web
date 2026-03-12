@@ -36,7 +36,7 @@ The app operates entirely on your device with no cloud services.`,
       },
       {
         heading: "Intellectual Property",
-        body: 'Gallery Guy and its design, code, and branding are owned by the developer. The "Gallery Guy" name, logo, and related assets are the property of Batur Cihan. You may not copy, modify, distribute, or reverse-engineer the app.',
+        body: 'Gallery Guy and its design, code, and branding are owned by the developer. The "Gallery Guy" name, logo, and related assets are the property of Stird LTD. You may not copy, modify, distribute, or reverse-engineer the app.',
       },
       {
         heading: "Disclaimers",
@@ -53,7 +53,7 @@ The app operates entirely on your device with no cloud services.`,
       },
       {
         heading: "Governing Law",
-        body: "These terms are governed by the laws of the Republic of Turkey. Any disputes arising from these terms shall be resolved in the courts of Turkey.",
+        body: "These terms are governed by the laws of England and Wales. Any disputes arising from these terms shall be resolved in the courts of England and Wales.",
       },
       {
         heading: "Termination",
@@ -69,9 +69,9 @@ The app operates entirely on your device with no cloud services.`,
       },
       {
         heading: "Contact",
-        body: `Developer: Batur Cihan
-Email: baturcihan@icloud.com
-Country: Turkey`,
+        body: `Developer: Stird LTD
+Email: batur@stird.co.uk
+Country: United Kingdom`,
       },
       {
         heading: "13. Apple App Store Acknowledgments",
@@ -123,7 +123,7 @@ Uygulama tamamen cihazınızda çalışır, bulut hizmeti kullanmaz.`,
       },
       {
         heading: "Fikri Mülkiyet",
-        body: 'Gallery Guy ve tasarımı, kodu ve markası geliştiriciye aittir. "Gallery Guy" adı, logosu ve ilgili varlıklar Batur Cihan\'ın mülkiyetindedir. Uygulamayı kopyalayamaz, değiştiremez, dağıtamaz veya tersine mühendislik yapamazsınız.',
+        body: 'Gallery Guy ve tasarımı, kodu ve markası geliştiriciye aittir. "Gallery Guy" adı, logosu ve ilgili varlıklar Stird LTD\'ın mülkiyetindedir. Uygulamayı kopyalayamaz, değiştiremez, dağıtamaz veya tersine mühendislik yapamazsınız.',
       },
       {
         heading: "Sorumluluk Reddi",
@@ -140,7 +140,7 @@ Uygulama tamamen cihazınızda çalışır, bulut hizmeti kullanmaz.`,
       },
       {
         heading: "Yürürlükteki Hukuk",
-        body: "Bu koşullar Türkiye Cumhuriyeti yasalarına tabidir. Bu koşullardan doğan uyuşmazlıklar Türkiye mahkemelerinde çözülecektir.",
+        body: "Bu koşullar İngiltere ve Galler yasalarına tabidir. Bu koşullardan doğan uyuşmazlıklar İngiltere ve Galler mahkemelerinde çözülecektir.",
       },
       {
         heading: "Fesih",
@@ -156,9 +156,9 @@ Uygulama tamamen cihazınızda çalışır, bulut hizmeti kullanmaz.`,
       },
       {
         heading: "İletişim",
-        body: `Geliştirici: Batur Cihan
-E-posta: baturcihan@icloud.com
-Ülke: Türkiye`,
+        body: `Geliştirici: Stird LTD
+E-posta: batur@stird.co.uk
+Ülke: Birleşik Krallık`,
       },
     ],
   },
@@ -196,7 +196,7 @@ La aplicación funciona completamente en tu dispositivo sin servicios en la nube
       },
       {
         heading: "Propiedad Intelectual",
-        body: 'Gallery Guy y su diseño, código y marca son propiedad del desarrollador. El nombre "Gallery Guy", el logotipo y los activos relacionados son propiedad de Batur Cihan. No puedes copiar, modificar, distribuir ni realizar ingeniería inversa de la aplicación.',
+        body: 'Gallery Guy y su diseño, código y marca son propiedad del desarrollador. El nombre "Gallery Guy", el logotipo y los activos relacionados son propiedad de Stird LTD. No puedes copiar, modificar, distribuir ni realizar ingeniería inversa de la aplicación.',
       },
       {
         heading: "Exención de Responsabilidad",
@@ -213,7 +213,7 @@ La aplicación funciona completamente en tu dispositivo sin servicios en la nube
       },
       {
         heading: "Ley Aplicable",
-        body: "Estos términos se rigen por las leyes de la República de Turquía. Cualquier disputa derivada de estos términos se resolverá en los tribunales de Turquía.",
+        body: "Estos términos se rigen por las leyes de Inglaterra y Gales. Cualquier disputa derivada de estos términos se resolverá en los tribunales de Inglaterra y Gales.",
       },
       {
         heading: "Terminación",
@@ -229,9 +229,9 @@ La aplicación funciona completamente en tu dispositivo sin servicios en la nube
       },
       {
         heading: "Contacto",
-        body: `Desarrollador: Batur Cihan
-Correo electrónico: baturcihan@icloud.com
-País: Turquía`,
+        body: `Desarrollador: Stird LTD
+Correo electrónico: batur@stird.co.uk
+País: Reino Unido`,
       },
     ],
   },
@@ -269,7 +269,7 @@ L'application fonctionne entièrement sur votre appareil sans services cloud.`,
       },
       {
         heading: "Propriété Intellectuelle",
-        body: "Gallery Guy et son design, son code et sa marque sont la propriété du développeur. Le nom « Gallery Guy », le logo et les actifs associés sont la propriété de Batur Cihan. Vous ne pouvez pas copier, modifier, distribuer ou effectuer de l'ingénierie inverse sur l'application.",
+        body: "Gallery Guy et son design, son code et sa marque sont la propriété du développeur. Le nom « Gallery Guy », le logo et les actifs associés sont la propriété de Stird LTD. Vous ne pouvez pas copier, modifier, distribuer ou effectuer de l'ingénierie inverse sur l'application.",
       },
       {
         heading: "Clause de Non-Responsabilité",
@@ -286,7 +286,7 @@ L'application fonctionne entièrement sur votre appareil sans services cloud.`,
       },
       {
         heading: "Droit Applicable",
-        body: "Ces conditions sont régies par les lois de la République de Turquie. Tout litige découlant de ces conditions sera résolu devant les tribunaux de Turquie.",
+        body: "Ces conditions sont régies par les lois de l'Angleterre et du Pays de Galles. Tout litige découlant de ces conditions sera résolu devant les tribunaux d'Angleterre et du Pays de Galles.",
       },
       {
         heading: "Résiliation",
@@ -302,9 +302,9 @@ L'application fonctionne entièrement sur votre appareil sans services cloud.`,
       },
       {
         heading: "Contact",
-        body: `Développeur : Batur Cihan
-E-mail : baturcihan@icloud.com
-Pays : Turquie`,
+        body: `Développeur : Stird LTD
+E-mail : batur@stird.co.uk
+Pays : Royaume-Uni`,
       },
     ],
   },
@@ -342,7 +342,7 @@ Die App arbeitet vollständig auf deinem Gerät ohne Cloud-Dienste.`,
       },
       {
         heading: "Geistiges Eigentum",
-        body: 'Gallery Guy und sein Design, Code und Branding gehören dem Entwickler. Der Name "Gallery Guy", das Logo und zugehörige Assets sind Eigentum von Batur Cihan. Du darfst die App nicht kopieren, modifizieren, verteilen oder zurückentwickeln.',
+        body: 'Gallery Guy und sein Design, Code und Branding gehören dem Entwickler. Der Name "Gallery Guy", das Logo und zugehörige Assets sind Eigentum von Stird LTD. Du darfst die App nicht kopieren, modifizieren, verteilen oder zurückentwickeln.',
       },
       {
         heading: "Haftungsausschluss",
@@ -359,7 +359,7 @@ Die App arbeitet vollständig auf deinem Gerät ohne Cloud-Dienste.`,
       },
       {
         heading: "Anwendbares Recht",
-        body: "Diese Bedingungen unterliegen den Gesetzen der Republik Türkei. Streitigkeiten aus diesen Bedingungen werden vor den Gerichten der Türkei verhandelt.",
+        body: "Diese Bedingungen unterliegen den Gesetzen von England und Wales. Streitigkeiten aus diesen Bedingungen werden vor den Gerichten von England und Wales verhandelt.",
       },
       {
         heading: "Kündigung",
@@ -375,9 +375,9 @@ Die App arbeitet vollständig auf deinem Gerät ohne Cloud-Dienste.`,
       },
       {
         heading: "Kontakt",
-        body: `Entwickler: Batur Cihan
-E-Mail: baturcihan@icloud.com
-Land: Türkei`,
+        body: `Entwickler: Stird LTD
+E-Mail: batur@stird.co.uk
+Land: Vereinigtes Königreich`,
       },
     ],
   },
@@ -415,7 +415,7 @@ Land: Türkei`,
       },
       {
         heading: "지적 재산권",
-        body: "Gallery Guy와 그 디자인, 코드 및 브랜드는 개발자의 소유입니다. \"Gallery Guy\" 이름, 로고 및 관련 자산은 Batur Cihan의 소유입니다. 앱을 복사, 수정, 배포 또는 역설계할 수 없습니다.",
+        body: "Gallery Guy와 그 디자인, 코드 및 브랜드는 개발자의 소유입니다. \"Gallery Guy\" 이름, 로고 및 관련 자산은 Stird LTD의 소유입니다. 앱을 복사, 수정, 배포 또는 역설계할 수 없습니다.",
       },
       {
         heading: "면책 조항",
@@ -432,7 +432,7 @@ Land: Türkei`,
       },
       {
         heading: "준거법",
-        body: "본 약관은 터키 공화국 법률의 적용을 받습니다. 본 약관에서 발생하는 모든 분쟁은 터키 법원에서 해결됩니다.",
+        body: "본 약관은 잉글랜드 및 웨일스 법률의 적용을 받습니다. 본 약관에서 발생하는 모든 분쟁은 잉글랜드 및 웨일스 법원에서 해결됩니다.",
       },
       {
         heading: "해지",
@@ -448,9 +448,9 @@ Land: Türkei`,
       },
       {
         heading: "연락처",
-        body: `개발자: Batur Cihan
-이메일: baturcihan@icloud.com
-국가: 터키`,
+        body: `개발자: Stird LTD
+이메일: batur@stird.co.uk
+국가: 영국`,
       },
     ],
   },
@@ -488,7 +488,7 @@ Land: Türkei`,
       },
       {
         heading: "Интеллектуальная собственность",
-        body: "Gallery Guy, его дизайн, код и бренд принадлежат разработчику. Название «Gallery Guy», логотип и связанные активы являются собственностью Batur Cihan. Вы не можете копировать, модифицировать, распространять или осуществлять обратную разработку приложения.",
+        body: "Gallery Guy, его дизайн, код и бренд принадлежат разработчику. Название «Gallery Guy», логотип и связанные активы являются собственностью Stird LTD. Вы не можете копировать, модифицировать, распространять или осуществлять обратную разработку приложения.",
       },
       {
         heading: "Отказ от ответственности",
@@ -505,7 +505,7 @@ Land: Türkei`,
       },
       {
         heading: "Применимое право",
-        body: "Настоящие условия регулируются законодательством Турецкой Республики. Любые споры, возникающие из настоящих условий, разрешаются в судах Турции.",
+        body: "Настоящие условия регулируются законодательством Англии и Уэльса. Любые споры, возникающие из настоящих условий, разрешаются в судах Англии и Уэльса.",
       },
       {
         heading: "Прекращение",
@@ -521,9 +521,9 @@ Land: Türkei`,
       },
       {
         heading: "Контакты",
-        body: `Разработчик: Batur Cihan
-Email: baturcihan@icloud.com
-Страна: Турция`,
+        body: `Разработчик: Stird LTD
+Email: batur@stird.co.uk
+Страна: Великобритания`,
       },
     ],
   },
@@ -561,7 +561,7 @@ A app funciona inteiramente no seu dispositivo sem serviços na nuvem.`,
       },
       {
         heading: "Propriedade Intelectual",
-        body: 'O Gallery Guy e o seu design, código e marca são propriedade do programador. O nome "Gallery Guy", o logótipo e os ativos relacionados são propriedade de Batur Cihan. Não pode copiar, modificar, distribuir ou fazer engenharia reversa da app.',
+        body: 'O Gallery Guy e o seu design, código e marca são propriedade do programador. O nome "Gallery Guy", o logótipo e os ativos relacionados são propriedade de Stird LTD. Não pode copiar, modificar, distribuir ou fazer engenharia reversa da app.',
       },
       {
         heading: "Exclusões de Responsabilidade",
@@ -578,7 +578,7 @@ A app funciona inteiramente no seu dispositivo sem serviços na nuvem.`,
       },
       {
         heading: "Lei Aplicável",
-        body: "Estes termos são regidos pelas leis da República da Turquia. Quaisquer litígios decorrentes destes termos serão resolvidos nos tribunais da Turquia.",
+        body: "Estes termos são regidos pelas leis da Inglaterra e País de Gales. Quaisquer litígios decorrentes destes termos serão resolvidos nos tribunais da Inglaterra e País de Gales.",
       },
       {
         heading: "Rescisão",
@@ -594,9 +594,9 @@ A app funciona inteiramente no seu dispositivo sem serviços na nuvem.`,
       },
       {
         heading: "Contacto",
-        body: `Programador: Batur Cihan
-Email: baturcihan@icloud.com
-País: Turquia`,
+        body: `Programador: Stird LTD
+Email: batur@stird.co.uk
+País: Reino Unido`,
       },
     ],
   },
@@ -634,7 +634,7 @@ L'app funziona interamente sul tuo dispositivo senza servizi cloud.`,
       },
       {
         heading: "Proprietà Intellettuale",
-        body: 'Gallery Guy e il suo design, codice e marchio sono di proprietà dello sviluppatore. Il nome "Gallery Guy", il logo e le risorse correlate sono proprietà di Batur Cihan. Non puoi copiare, modificare, distribuire o effettuare reverse engineering dell\'app.',
+        body: 'Gallery Guy e il suo design, codice e marchio sono di proprietà dello sviluppatore. Il nome "Gallery Guy", il logo e le risorse correlate sono proprietà di Stird LTD. Non puoi copiare, modificare, distribuire o effettuare reverse engineering dell\'app.',
       },
       {
         heading: "Esclusioni di Responsabilità",
@@ -651,7 +651,7 @@ L'app funziona interamente sul tuo dispositivo senza servizi cloud.`,
       },
       {
         heading: "Legge Applicabile",
-        body: "Questi termini sono regolati dalle leggi della Repubblica di Turchia. Qualsiasi controversia derivante da questi termini sarà risolta presso i tribunali della Turchia.",
+        body: "Questi termini sono regolati dalle leggi dell'Inghilterra e del Galles. Qualsiasi controversia derivante da questi termini sarà risolta presso i tribunali dell'Inghilterra e del Galles.",
       },
       {
         heading: "Risoluzione",
@@ -667,9 +667,9 @@ L'app funziona interamente sul tuo dispositivo senza servizi cloud.`,
       },
       {
         heading: "Contatto",
-        body: `Sviluppatore: Batur Cihan
-Email: baturcihan@icloud.com
-Paese: Turchia`,
+        body: `Sviluppatore: Stird LTD
+Email: batur@stird.co.uk
+Paese: Regno Unito`,
       },
     ],
   },
@@ -707,7 +707,7 @@ Paese: Turchia`,
       },
       {
         heading: "知识产权",
-        body: "Gallery Guy及其设计、代码和品牌归开发者所有。\"Gallery Guy\"名称、标志和相关资产为Batur Cihan的财产。您不得复制、修改、分发或逆向工程该应用。",
+        body: "Gallery Guy及其设计、代码和品牌归开发者所有。\"Gallery Guy\"名称、标志和相关资产为Stird LTD的财产。您不得复制、修改、分发或逆向工程该应用。",
       },
       {
         heading: "免责声明",
@@ -724,7 +724,7 @@ Paese: Turchia`,
       },
       {
         heading: "适用法律",
-        body: "本条款受土耳其共和国法律管辖。因本条款引起的任何争议将在土耳其法院解决。",
+        body: "本条款受英格兰和威尔士法律管辖。因本条款引起的任何争议将在英格兰和威尔士法院解决。",
       },
       {
         heading: "终止",
@@ -740,9 +740,9 @@ Paese: Turchia`,
       },
       {
         heading: "联系方式",
-        body: `开发者：Batur Cihan
-电子邮件：baturcihan@icloud.com
-国家：土耳其`,
+        body: `开发者：Stird LTD
+电子邮件：batur@stird.co.uk
+国家：英国`,
       },
     ],
   },
@@ -780,7 +780,7 @@ Paese: Turchia`,
       },
       {
         heading: "बौद्धिक संपदा",
-        body: "Gallery Guy और इसका डिज़ाइन, कोड और ब्रांडिंग डेवलपर के स्वामित्व में हैं। \"Gallery Guy\" नाम, लोगो और संबंधित संपत्तियां Batur Cihan की संपत्ति हैं। आप ऐप को कॉपी, मॉडिफ़ाई, डिस्ट्रीब्यूट या रिवर्स-इंजीनियर नहीं कर सकते।",
+        body: "Gallery Guy और इसका डिज़ाइन, कोड और ब्रांडिंग डेवलपर के स्वामित्व में हैं। \"Gallery Guy\" नाम, लोगो और संबंधित संपत्तियां Stird LTD की संपत्ति हैं। आप ऐप को कॉपी, मॉडिफ़ाई, डिस्ट्रीब्यूट या रिवर्स-इंजीनियर नहीं कर सकते।",
       },
       {
         heading: "अस्वीकरण",
@@ -797,7 +797,7 @@ Paese: Turchia`,
       },
       {
         heading: "लागू कानून",
-        body: "ये शर्तें तुर्की गणराज्य के कानूनों द्वारा शासित हैं। इन शर्तों से उत्पन्न किसी भी विवाद का समाधान तुर्की की अदालतों में किया जाएगा।",
+        body: "ये शर्तें इंग्लैंड और वेल्स के कानूनों द्वारा शासित हैं। इन शर्तों से उत्पन्न किसी भी विवाद का समाधान इंग्लैंड और वेल्स की अदालतों में किया जाएगा।",
       },
       {
         heading: "समाप्ति",
@@ -813,9 +813,9 @@ Paese: Turchia`,
       },
       {
         heading: "संपर्क",
-        body: `डेवलपर: Batur Cihan
-ईमेल: baturcihan@icloud.com
-देश: तुर्की`,
+        body: `डेवलपर: Stird LTD
+ईमेल: batur@stird.co.uk
+देश: यूनाइटेड किंगडम`,
       },
     ],
   },
@@ -853,7 +853,7 @@ Paese: Turchia`,
       },
       {
         heading: "知的財産権",
-        body: "Gallery Guyとそのデザイン、コード、ブランディングは開発者に帰属します。\"Gallery Guy\"の名前、ロゴ、および関連資産はBatur Cihanの所有物です。アプリのコピー、変更、配布、またはリバースエンジニアリングはできません。",
+        body: "Gallery Guyとそのデザイン、コード、ブランディングは開発者に帰属します。\"Gallery Guy\"の名前、ロゴ、および関連資産はStird LTDの所有物です。アプリのコピー、変更、配布、またはリバースエンジニアリングはできません。",
       },
       {
         heading: "免責事項",
@@ -870,7 +870,7 @@ Paese: Turchia`,
       },
       {
         heading: "準拠法",
-        body: "これらの条件はトルコ共和国の法律に準拠します。これらの条件から生じる紛争はトルコの裁判所で解決されます。",
+        body: "これらの条件はイングランドおよびウェールズの法律に準拠します。これらの条件から生じる紛争はイングランドおよびウェールズの裁判所で解決されます。",
       },
       {
         heading: "解約",
@@ -886,9 +886,9 @@ Paese: Turchia`,
       },
       {
         heading: "お問い合わせ",
-        body: `開発者：Batur Cihan
-メール：baturcihan@icloud.com
-国：トルコ`,
+        body: `開発者：Stird LTD
+メール：batur@stird.co.uk
+国：イギリス`,
       },
     ],
   },
@@ -926,7 +926,7 @@ Appen fungerar helt på din enhet utan molntjänster.`,
       },
       {
         heading: "Immateriella rättigheter",
-        body: "Gallery Guy och dess design, kod och varumärke ägs av utvecklaren. Namnet \"Gallery Guy\", logotypen och relaterade tillgångar tillhör Batur Cihan. Du får inte kopiera, modifiera, distribuera eller dekompilera appen.",
+        body: "Gallery Guy och dess design, kod och varumärke ägs av utvecklaren. Namnet \"Gallery Guy\", logotypen och relaterade tillgångar tillhör Stird LTD. Du får inte kopiera, modifiera, distribuera eller dekompilera appen.",
       },
       {
         heading: "Friskrivningar",
@@ -951,11 +951,11 @@ Appen fungerar helt på din enhet utan molntjänster.`,
       },
       {
         heading: "Tillämplig lag",
-        body: "Dessa villkor regleras av lagarna i Republiken Turkiet.",
+        body: "Dessa villkor regleras av lagarna i England och Wales.",
       },
       {
         heading: "Kontakt",
-        body: "För frågor om dessa villkor, kontakta oss på: baturcihan@icloud.com",
+        body: "För frågor om dessa villkor, kontakta oss på: batur@stird.co.uk",
       },
       {
         heading: "Ytterligare villkor för Apple-användare",
@@ -1002,7 +1002,7 @@ Appen fungerer helt på enheten din uten skytjenester.`,
       },
       {
         heading: "Immaterielle rettigheter",
-        body: "Gallery Guy og dens design, kode og merkevare eies av utvikleren. Navnet \"Gallery Guy\", logoen og relaterte eiendeler tilhører Batur Cihan. Du har ikke lov til å kopiere, modifisere, distribuere eller dekompilere appen.",
+        body: "Gallery Guy og dens design, kode og merkevare eies av utvikleren. Navnet \"Gallery Guy\", logoen og relaterte eiendeler tilhører Stird LTD. Du har ikke lov til å kopiere, modifisere, distribuere eller dekompilere appen.",
       },
       {
         heading: "Ansvarsfraskrivelser",
@@ -1027,11 +1027,11 @@ Appen fungerer helt på enheten din uten skytjenester.`,
       },
       {
         heading: "Gjeldende lov",
-        body: "Disse vilkårene reguleres av lovene i Republikken Tyrkia.",
+        body: "Disse vilkårene reguleres av lovene i England og Wales.",
       },
       {
         heading: "Kontakt",
-        body: "For spørsmål om disse vilkårene, kontakt oss på: baturcihan@icloud.com",
+        body: "For spørsmål om disse vilkårene, kontakt oss på: batur@stird.co.uk",
       },
       {
         heading: "Tilleggsvilkår for Apple-brukere",
@@ -1078,7 +1078,7 @@ De app werkt volledig op je apparaat zonder clouddiensten.`,
       },
       {
         heading: "Intellectueel eigendom",
-        body: "Gallery Guy en het ontwerp, de code en het merk zijn eigendom van de ontwikkelaar. De naam \"Gallery Guy\", het logo en gerelateerde materialen zijn eigendom van Batur Cihan. Je mag de app niet kopiëren, wijzigen, distribueren of reverse-engineeren.",
+        body: "Gallery Guy en het ontwerp, de code en het merk zijn eigendom van de ontwikkelaar. De naam \"Gallery Guy\", het logo en gerelateerde materialen zijn eigendom van Stird LTD. Je mag de app niet kopiëren, wijzigen, distribueren of reverse-engineeren.",
       },
       {
         heading: "Disclaimers",
@@ -1103,11 +1103,11 @@ De app werkt volledig op je apparaat zonder clouddiensten.`,
       },
       {
         heading: "Toepasselijk recht",
-        body: "Deze voorwaarden worden beheerst door de wetten van de Republiek Turkije.",
+        body: "Deze voorwaarden worden beheerst door de wetten van Engeland en Wales.",
       },
       {
         heading: "Contact",
-        body: "Voor vragen over deze voorwaarden, neem contact met ons op via: baturcihan@icloud.com",
+        body: "Voor vragen over deze voorwaarden, neem contact met ons op via: batur@stird.co.uk",
       },
       {
         heading: "Aanvullende voorwaarden voor Apple-gebruikers",
@@ -1154,7 +1154,7 @@ Aplicația funcționează complet pe dispozitivul tău, fără servicii cloud.`,
       },
       {
         heading: "Proprietate intelectuală",
-        body: "Gallery Guy și designul, codul și brandul său sunt deținute de dezvoltator. Numele \"Gallery Guy\", logo-ul și materialele asociate sunt proprietatea lui Batur Cihan. Nu ai voie să copiezi, modifici, distribui sau decompilezi aplicația.",
+        body: "Gallery Guy și designul, codul și brandul său sunt deținute de dezvoltator. Numele \"Gallery Guy\", logo-ul și materialele asociate sunt proprietatea lui Stird LTD. Nu ai voie să copiezi, modifici, distribui sau decompilezi aplicația.",
       },
       {
         heading: "Declinări de responsabilitate",
@@ -1179,11 +1179,11 @@ Aplicația funcționează complet pe dispozitivul tău, fără servicii cloud.`,
       },
       {
         heading: "Legea aplicabilă",
-        body: "Acești termeni sunt reglementați de legile Republicii Turcia.",
+        body: "Acești termeni sunt reglementați de legile Angliei și Țării Galilor.",
       },
       {
         heading: "Contact",
-        body: "Pentru întrebări despre acești termeni, contactează-ne la: baturcihan@icloud.com",
+        body: "Pentru întrebări despre acești termeni, contactează-ne la: batur@stird.co.uk",
       },
       {
         heading: "Termeni suplimentari pentru utilizatorii Apple",
@@ -1230,7 +1230,7 @@ Aplicația funcționează complet pe dispozitivul tău, fără servicii cloud.`,
       },
       {
         heading: "Πνευματική ιδιοκτησία",
-        body: "Ο Gallery Guy και ο σχεδιασμός, ο κώδικας και το εμπορικό σήμα του ανήκουν στον προγραμματιστή. Το όνομα \"Gallery Guy\", το λογότυπο και τα σχετικά στοιχεία είναι ιδιοκτησία του Batur Cihan. Δεν επιτρέπεται η αντιγραφή, τροποποίηση, διανομή ή αποσυμπίληση της εφαρμογής.",
+        body: "Ο Gallery Guy και ο σχεδιασμός, ο κώδικας και το εμπορικό σήμα του ανήκουν στον προγραμματιστή. Το όνομα \"Gallery Guy\", το λογότυπο και τα σχετικά στοιχεία είναι ιδιοκτησία του Stird LTD. Δεν επιτρέπεται η αντιγραφή, τροποποίηση, διανομή ή αποσυμπίληση της εφαρμογής.",
       },
       {
         heading: "Αποποιήσεις ευθύνης",
@@ -1255,11 +1255,11 @@ Aplicația funcționează complet pe dispozitivul tău, fără servicii cloud.`,
       },
       {
         heading: "Εφαρμοστέο δίκαιο",
-        body: "Αυτοί οι όροι διέπονται από τους νόμους της Δημοκρατίας της Τουρκίας.",
+        body: "Αυτοί οι όροι διέπονται από τους νόμους της Αγγλίας και της Ουαλίας.",
       },
       {
         heading: "Επικοινωνία",
-        body: "Για ερωτήσεις σχετικά με αυτούς τους όρους, επικοινώνησε μαζί μας στο: baturcihan@icloud.com",
+        body: "Για ερωτήσεις σχετικά με αυτούς τους όρους, επικοινώνησε μαζί μας στο: batur@stird.co.uk",
       },
       {
         heading: "Πρόσθετοι όροι για χρήστες Apple",
@@ -1306,7 +1306,7 @@ Appen fungerer udelukkende på din enhed uden cloud-tjenester.`,
       },
       {
         heading: "Immaterielle rettigheder",
-        body: "Gallery Guy og dens design, kode og varemærke ejes af udvikleren. Navnet \"Gallery Guy\", logoet og relaterede aktiver tilhører Batur Cihan. Du må ikke kopiere, ændre, distribuere eller dekompilere appen.",
+        body: "Gallery Guy og dens design, kode og varemærke ejes af udvikleren. Navnet \"Gallery Guy\", logoet og relaterede aktiver tilhører Stird LTD. Du må ikke kopiere, ændre, distribuere eller dekompilere appen.",
       },
       {
         heading: "Ansvarsfraskrivelser",
@@ -1331,11 +1331,11 @@ Appen fungerer udelukkende på din enhed uden cloud-tjenester.`,
       },
       {
         heading: "Gældende lov",
-        body: "Disse vilkår er underlagt lovgivningen i Republikken Tyrkiet.",
+        body: "Disse vilkår er underlagt lovgivningen i England og Wales.",
       },
       {
         heading: "Kontakt",
-        body: "For spørgsmål om disse vilkår, kontakt os på: baturcihan@icloud.com",
+        body: "For spørgsmål om disse vilkår, kontakt os på: batur@stird.co.uk",
       },
       {
         heading: "Yderligere vilkår for Apple-brugere",
@@ -1382,7 +1382,7 @@ Appen fungerer udelukkende på din enhed uden cloud-tjenester.`,
       },
       {
         heading: "Интелектуална собственост",
-        body: "Gallery Guy и неговият дизайн, код и марка са собственост на разработчика. Името \"Gallery Guy\", логото и свързаните активи са собственост на Batur Cihan. Нямаш право да копираш, модифицираш, разпространяваш или декомпилираш приложението.",
+        body: "Gallery Guy и неговият дизайн, код и марка са собственост на разработчика. Името \"Gallery Guy\", логото и свързаните активи са собственост на Stird LTD. Нямаш право да копираш, модифицираш, разпространяваш или декомпилираш приложението.",
       },
       {
         heading: "Отказ от отговорност",
@@ -1407,11 +1407,11 @@ Appen fungerer udelukkende på din enhed uden cloud-tjenester.`,
       },
       {
         heading: "Приложимо право",
-        body: "Тези условия се уреждат от законите на Република Турция.",
+        body: "Тези условия се уреждат от законите на Англия и Уелс.",
       },
       {
         heading: "Контакт",
-        body: "За въпроси относно тези условия, свържи се с нас на: baturcihan@icloud.com",
+        body: "За въпроси относно тези условия, свържи се с нас на: batur@stird.co.uk",
       },
       {
         heading: "Допълнителни условия за потребители на Apple",
@@ -1458,7 +1458,7 @@ Aplikace funguje výhradně na vašem zařízení bez cloudových služeb.`,
       },
       {
         heading: "Duševní vlastnictví",
-        body: "Gallery Guy a jeho design, kód a značka jsou vlastnictvím vývojáře. Název \"Gallery Guy\", logo a související materiály jsou vlastnictvím Batur Cihan. Aplikaci nesmíte kopírovat, upravovat, distribuovat ani dekompilovat.",
+        body: "Gallery Guy a jeho design, kód a značka jsou vlastnictvím vývojáře. Název \"Gallery Guy\", logo a související materiály jsou vlastnictvím Stird LTD. Aplikaci nesmíte kopírovat, upravovat, distribuovat ani dekompilovat.",
       },
       {
         heading: "Vyloučení odpovědnosti",
@@ -1483,11 +1483,11 @@ Aplikace funguje výhradně na vašem zařízení bez cloudových služeb.`,
       },
       {
         heading: "Rozhodné právo",
-        body: "Tyto podmínky se řídí zákony Turecké republiky.",
+        body: "Tyto podmínky se řídí zákony Anglie a Walesu.",
       },
       {
         heading: "Kontakt",
-        body: "V případě dotazů ohledně těchto podmínek nás kontaktujte na: baturcihan@icloud.com",
+        body: "V případě dotazů ohledně těchto podmínek nás kontaktujte na: batur@stird.co.uk",
       },
       {
         heading: "Dodatečné podmínky pro uživatele Apple",
@@ -1534,7 +1534,7 @@ Tətbiq tamamilə cihazınızda işləyir, bulud xidmətləri olmadan.`,
       },
       {
         heading: "Əqli mülkiyyət",
-        body: "Gallery Guy və onun dizaynı, kodu və brendinq tərtibatçının mülkiyyətidir. \"Gallery Guy\" adı, loqosu və əlaqəli aktivlər Batur Cihan-ın mülkiyyətidir. Tətbiqi kopyalamaq, dəyişdirmək, yaymaq və ya dekompilyasiya etmək qadağandır.",
+        body: "Gallery Guy və onun dizaynı, kodu və brendinq tərtibatçının mülkiyyətidir. \"Gallery Guy\" adı, loqosu və əlaqəli aktivlər Stird LTD-ın mülkiyyətidir. Tətbiqi kopyalamaq, dəyişdirmək, yaymaq və ya dekompilyasiya etmək qadağandır.",
       },
       {
         heading: "Məsuliyyətin rədd edilməsi",
@@ -1559,11 +1559,11 @@ Tətbiq tamamilə cihazınızda işləyir, bulud xidmətləri olmadan.`,
       },
       {
         heading: "Tətbiq olunan hüquq",
-        body: "Bu şərtlər Türkiyə Cümhuriyyətinin qanunları ilə tənzimlənir.",
+        body: "Bu şərtlər İngiltərə və Uels qanunları ilə tənzimlənir.",
       },
       {
         heading: "Əlaqə",
-        body: "Bu şərtlərlə bağlı suallarınız üçün bizimlə əlaqə saxlayın: baturcihan@icloud.com",
+        body: "Bu şərtlərlə bağlı suallarınız üçün bizimlə əlaqə saxlayın: batur@stird.co.uk",
       },
       {
         heading: "Apple istifadəçiləri üçün əlavə şərtlər",
@@ -1610,7 +1610,7 @@ Tətbiq tamamilə cihazınızda işləyir, bulud xidmətləri olmadan.`,
       },
       {
         heading: "Интелектуална сопственост",
-        body: `Gallery Guy и неговиот дизајн, код и брендирање се во сопственост на развивачот. Името \u201EGallery Guy\u201C, логото и поврзаните елементи се сопственост на Batur Cihan. Не смеете да ја копирате, менувате, дистрибуирате или обратно инженерирате апликацијата.`,
+        body: `Gallery Guy и неговиот дизајн, код и брендирање се во сопственост на развивачот. Името \u201EGallery Guy\u201C, логото и поврзаните елементи се сопственост на Stird LTD. Не смеете да ја копирате, менувате, дистрибуирате или обратно инженерирате апликацијата.`,
       },
       {
         heading: "Одрекување",
@@ -1638,7 +1638,7 @@ Tətbiq tamamilə cihazınızda işləyir, bulud xidmətləri olmadan.`,
       },
       {
         heading: "Применливо право",
-        body: "Овие услови се регулираат според законите на Република Турција.",
+        body: "Овие услови се регулираат според законите на Англија и Велс.",
       },
       {
         heading: "Контакт",
@@ -1688,7 +1688,7 @@ Aplikacija deluje v celoti na vaši napravi brez storitev v oblaku.`,
       },
       {
         heading: "Intelektualna lastnina",
-        body: `Gallery Guy in njegova zasnova, koda in blagovna znamka so v lasti razvijalca. Ime \u201EGallery Guy\u201C, logotip in povezani elementi so last Batur Cihan. Aplikacije ne smete kopirati, spreminjati, distribuirati ali obratno inženiriti.`,
+        body: `Gallery Guy in njegova zasnova, koda in blagovna znamka so v lasti razvijalca. Ime \u201EGallery Guy\u201C, logotip in povezani elementi so last Stird LTD. Aplikacije ne smete kopirati, spreminjati, distribuirati ali obratno inženiriti.`,
       },
       {
         heading: "Zavrnitev odgovornosti",
@@ -1716,7 +1716,7 @@ Aplikacija deluje v celoti na vaši napravi brez storitev v oblaku.`,
       },
       {
         heading: "Veljavno pravo",
-        body: "Ti pogoji so urejeni v skladu z zakoni Republike Turčije.",
+        body: "Ti pogoji so urejeni v skladu z zakoni Anglije in Walesa.",
       },
       {
         heading: "Kontakt",
@@ -1766,7 +1766,7 @@ Aplikacja działa całkowicie na Twoim urządzeniu bez usług chmurowych.`,
       },
       {
         heading: "Własność intelektualna",
-        body: `Gallery Guy i jego projekt, kod i marka są własnością dewelopera. Nazwa \u201EGallery Guy\u201D, logo i powiązane elementy są własnością Batur Cihan. Nie wolno kopiować, modyfikować, dystrybuować ani odtwarzać kodu źródłowego aplikacji.`,
+        body: `Gallery Guy i jego projekt, kod i marka są własnością dewelopera. Nazwa \u201EGallery Guy\u201D, logo i powiązane elementy są własnością Stird LTD. Nie wolno kopiować, modyfikować, dystrybuować ani odtwarzać kodu źródłowego aplikacji.`,
       },
       {
         heading: "Wyłączenie odpowiedzialności",
@@ -1794,7 +1794,7 @@ Aplikacja działa całkowicie na Twoim urządzeniu bez usług chmurowych.`,
       },
       {
         heading: "Prawo właściwe",
-        body: "Niniejsze warunki podlegają prawu Republiki Turcji.",
+        body: "Niniejsze warunki podlegają prawu Anglii i Walii.",
       },
       {
         heading: "Kontakt",
@@ -1844,7 +1844,7 @@ Aplikacja działa całkowicie na Twoim urządzeniu bez usług chmurowych.`,
       },
       {
         heading: "Інтелектуальна власність",
-        body: `Gallery Guy та його дизайн, код і брендинг є власністю розробника. Назва \u201CGallery Guy\u201D, логотип та пов\u2019язані елементи є власністю Batur Cihan. Ви не маєте права копіювати, змінювати, розповсюджувати або здійснювати зворотну інженерію додатку.`,
+        body: `Gallery Guy та його дизайн, код і брендинг є власністю розробника. Назва \u201CGallery Guy\u201D, логотип та пов\u2019язані елементи є власністю Stird LTD. Ви не маєте права копіювати, змінювати, розповсюджувати або здійснювати зворотну інженерію додатку.`,
       },
       {
         heading: "Відмова від відповідальності",
@@ -1872,7 +1872,7 @@ Aplikacja działa całkowicie na Twoim urządzeniu bez usług chmurowych.`,
       },
       {
         heading: "Застосовне право",
-        body: "Ці умови регулюються відповідно до законів Республіки Туреччина.",
+        body: "Ці умови регулюються відповідно до законів Англії та Уельсу.",
       },
       {
         heading: "Контакт",
@@ -1922,7 +1922,7 @@ Sovellus toimii kokonaan laitteellasi ilman pilvipalveluja.`,
       },
       {
         heading: "Immateriaalioikeudet",
-        body: `Gallery Guy ja sen suunnittelu, koodi ja brändäys ovat kehittäjän omaisuutta. \u201CGallery Guy\u201D -nimi, logo ja liittyvät elementit ovat Batur Cihanin omaisuutta. Et saa kopioida, muokata, levittää tai takaisinmallintaa sovellusta.`,
+        body: `Gallery Guy ja sen suunnittelu, koodi ja brändäys ovat kehittäjän omaisuutta. \u201CGallery Guy\u201D -nimi, logo ja liittyvät elementit ovat Stird LTDin omaisuutta. Et saa kopioida, muokata, levittää tai takaisinmallintaa sovellusta.`,
       },
       {
         heading: "Vastuuvapauslauseke",
@@ -1950,7 +1950,7 @@ Sovellus toimii kokonaan laitteellasi ilman pilvipalveluja.`,
       },
       {
         heading: "Sovellettava laki",
-        body: "Näitä ehtoja säätelee Turkin tasavallan laki.",
+        body: "Näitä ehtoja säätelee Englannin ja Walesin laki.",
       },
       {
         heading: "Yhteystiedot",
@@ -2000,7 +2000,7 @@ Az alkalmazás teljes egészében az eszközödön működik felhőszolgáltatá
       },
       {
         heading: "Szellemi tulajdon",
-        body: `A Gallery Guy és annak tervezése, kódja és márkája a fejlesztő tulajdonát képezi. A \u201EGallery Guy\u201D név, logó és kapcsolódó elemek Batur Cihan tulajdonát képezik. Nem másolhatod, módosíthatod, terjesztheted vagy visszafejtheted az alkalmazást.`,
+        body: `A Gallery Guy és annak tervezése, kódja és márkája a fejlesztő tulajdonát képezi. A \u201EGallery Guy\u201D név, logó és kapcsolódó elemek Stird LTD tulajdonát képezik. Nem másolhatod, módosíthatod, terjesztheted vagy visszafejtheted az alkalmazást.`,
       },
       {
         heading: "Felelősségkizárás",
@@ -2028,7 +2028,7 @@ Az alkalmazás teljes egészében az eszközödön működik felhőszolgáltatá
       },
       {
         heading: "Alkalmazandó jog",
-        body: "Ezeket a feltételeket a Török Köztársaság törvényei szabályozzák.",
+        body: "Ezeket a feltételeket Anglia és Wales törvényei szabályozzák.",
       },
       {
         heading: "Kapcsolat",
@@ -2090,7 +2090,7 @@ Az alkalmazás teljes egészében az eszközödön működik felhőszolgáltatá
       },
       {
         heading: "Merodavno pravo",
-        body: "Ovi uslovi se tumače u skladu sa zakonima Republike Turske, bez obzira na odredbe o sukobu zakona.",
+        body: "Ovi uslovi se tumače u skladu sa zakonima Engleske i Velsa, bez obzira na odredbe o sukobu zakona.",
       },
       {
         heading: "Apple-ovi uslovi za licencirane aplikacije",
@@ -2144,7 +2144,7 @@ Az alkalmazás teljes egészében az eszközödön működik felhőszolgáltatá
       },
       {
         heading: "דין חל",
-        body: "תנאים אלה יפורשו בהתאם לחוקי הרפובליקה של טורקיה, ללא התחשבות בהוראות ברירת דין.",
+        body: "תנאים אלה יפורשו בהתאם לחוקי אנגליה וויילס, ללא התחשבות בהוראות ברירת דין.",
       },
       {
         heading: "תנאי Apple לאפליקציות ברישיון",
@@ -2198,7 +2198,7 @@ Az alkalmazás teljes egészében az eszközödön működik felhőszolgáltatá
       },
       {
         heading: "Hukum yang Berlaku",
-        body: "Syarat ini akan ditafsirkan sesuai dengan hukum Republik Turki, tanpa memperhatikan ketentuan pertentangan hukum.",
+        body: "Syarat ini akan ditafsirkan sesuai dengan hukum Inggris dan Wales, tanpa memperhatikan ketentuan pertentangan hukum.",
       },
       {
         heading: "Syarat Apple untuk Aplikasi Berlisensi",
@@ -2252,7 +2252,7 @@ Az alkalmazás teljes egészében az eszközödön működik felhőszolgáltatá
       },
       {
         heading: "กฎหมายที่ใช้บังคับ",
-        body: "ข้อกำหนดเหล่านี้จะตีความตามกฎหมายของสาธารณรัฐตุรกี โดยไม่คำนึงถึงบทบัญญัติว่าด้วยการขัดกันของกฎหมาย",
+        body: "ข้อกำหนดเหล่านี้จะตีความตามกฎหมายของอังกฤษและเวลส์ โดยไม่คำนึงถึงบทบัญญัติว่าด้วยการขัดกันของกฎหมาย",
       },
       {
         heading: "ข้อกำหนดของ Apple สำหรับแอปพลิเคชันที่ได้รับอนุญาต",
@@ -2306,7 +2306,7 @@ Az alkalmazás teljes egészében az eszközödön működik felhőszolgáltatá
       },
       {
         heading: "Luật áp dụng",
-        body: "Các điều khoản này sẽ được diễn giải theo luật pháp của Cộng hòa Thổ Nhĩ Kỳ, không tính đến các quy định về xung đột pháp luật.",
+        body: "Các điều khoản này sẽ được diễn giải theo luật pháp của Anh và xứ Wales, không tính đến các quy định về xung đột pháp luật.",
       },
       {
         heading: "Điều khoản của Apple cho ứng dụng được cấp phép",
@@ -2348,7 +2348,7 @@ Az alkalmazás teljes egészében az eszközödön működik felhőszolgáltatá
       },
       {
         heading: "الملكية الفكرية",
-        body: "Gallery Guy وتصميمه وكوده وعلامته التجارية مملوكة للمطور. اسم \"Gallery Guy\" والشعار والأصول ذات الصلة هي ملك Batur Cihan. لا يجوز لك نسخ أو تعديل أو توزيع أو إجراء هندسة عكسية للتطبيق.",
+        body: "Gallery Guy وتصميمه وكوده وعلامته التجارية مملوكة للمطور. اسم \"Gallery Guy\" والشعار والأصول ذات الصلة هي ملك Stird LTD. لا يجوز لك نسخ أو تعديل أو توزيع أو إجراء هندسة عكسية للتطبيق.",
       },
       {
         heading: "إخلاء المسؤولية",
@@ -2365,7 +2365,7 @@ Az alkalmazás teljes egészében az eszközödön működik felhőszolgáltatá
       },
       {
         heading: "القانون الحاكم",
-        body: "تخضع هذه الشروط لقوانين الجمهورية التركية. أي نزاعات ناشئة عن هذه الشروط يتم حلها في محاكم تركيا.",
+        body: "تخضع هذه الشروط لقوانين إنجلترا وويلز. أي نزاعات ناشئة عن هذه الشروط يتم حلها في محاكم إنجلترا وويلز.",
       },
       {
         heading: "الإنهاء",
@@ -2381,9 +2381,9 @@ Az alkalmazás teljes egészében az eszközödön működik felhőszolgáltatá
       },
       {
         heading: "التواصل",
-        body: `المطور: Batur Cihan
-البريد الإلكتروني: baturcihan@icloud.com
-البلد: تركيا`,
+        body: `المطور: Stird LTD
+البريد الإلكتروني: batur@stird.co.uk
+البلد: المملكة المتحدة`,
       },
     ],
   },
@@ -2429,7 +2429,7 @@ export default async function TermsPage({
             </div>
 
             <div className="mt-12 border-t border-border pt-6 text-center text-xs text-muted">
-              Gallery Guy &copy; 2025 Batur Cihan
+              Gallery Guy &copy; 2025 Stird LTD
             </div>
           </div>
         </div>

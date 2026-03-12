@@ -2,8 +2,8 @@ import { headers } from "next/headers";
 import { redirect } from "next/navigation";
 import { createClient } from "@supabase/supabase-js";
 
-// App Store yayınlanınca değiştir:
-// const FALLBACK_URL = 'https://apps.apple.com/app/gallery-guy/idXXXXXXXXX';
+// App Store yayınlanınca aktif et:
+// const FALLBACK_URL = "https://apps.apple.com/app/gallery-guy/id6759364169";
 const FALLBACK_URL = "https://testflight.apple.com/join/tVQDYge3";
 
 const supabase = createClient(
