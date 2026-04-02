@@ -1,6 +1,5 @@
-// App Store yayınlanınca TestFlight linklerini de güncelle: src/app/r/[code]/page.tsx
 export const APP_STORE_URL =
-  "https://apps.apple.com/app/gallery-guy/id6759364169";
+  "https://apps.apple.com/app/gallery-guy/id6760911029";
 
 export const WEBSITE_URL = "https://gallery-guy-web.vercel.app";
 
