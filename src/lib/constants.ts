@@ -1,5 +1,5 @@
 export const APP_STORE_URL =
-  "https://apps.apple.com/app/gallery-guy/id6760911029";
+  "https://apps.apple.com/us/app/gallery-guy-photo-cleaner/id6760911029";
 
 export const WEBSITE_URL = "https://gallery-guy-web.vercel.app";
 

@@ -2,7 +2,7 @@ import { headers } from "next/headers";
 import { redirect } from "next/navigation";
 import { createClient } from "@supabase/supabase-js";
 
-const FALLBACK_URL = "https://apps.apple.com/app/gallery-guy/id6760911029";
+const FALLBACK_URL = "https://apps.apple.com/us/app/gallery-guy-photo-cleaner/id6760911029";
 
 const supabase = createClient(
   process.env.SUPABASE_URL!,
