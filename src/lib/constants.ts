@@ -4,7 +4,7 @@ export const APP_STORE_URL =
 export const WEBSITE_URL = "https://gallery-guy-web.vercel.app";
 
 export const SOCIAL_LINKS = {
-  instagram: "https://instagram.com/galleryguy",
-  x: "https://x.com/galleryguy",
-  tiktok: "https://tiktok.com/@galleryguy",
+  instagram: "https://www.instagram.com/galleryguy_",
+  x: "https://x.com/Stird_co",
+  tiktok: "https://www.tiktok.com/@galleryguy_",
 };
